@@ -526,7 +526,7 @@ svg:not(:root) {
   bottom: 0;
   -ms-flex-item-align: start;
       align-self: flex-start;
-  padding: 0 10px;
+  padding: 0;
 }
 .table__chip-rack {
   position: absolute;
@@ -707,8 +707,10 @@ svg:not(:root) {
           align-items: flex-end;
   width: 50px;
   height: 80px;
-  -webkit-transition: width 0.4s ease;
-  transition: width 0.4s ease;
+  -webkit-transition: -webkit-transform 0.4s ease;
+  transition: -webkit-transform 0.4s ease;
+  transition: transform 0.4s ease;
+  transition: transform 0.4s ease, -webkit-transform 0.4s ease;
   -webkit-perspective: 800px;
           perspective: 800px;
 }
@@ -725,6 +727,10 @@ svg:not(:root) {
           align-items: flex-end;
   width: 50px;
   height: 150px;
+  -webkit-transition: -webkit-transform 0.4s ease;
+  transition: -webkit-transform 0.4s ease;
+  transition: transform 0.4s ease;
+  transition: transform 0.4s ease, -webkit-transform 0.4s ease;
   -webkit-perspective: 800px;
           perspective: 800px;
 }
@@ -733,6 +739,87 @@ svg:not(:root) {
 }
 .game__players-hand .card {
   bottom: 70px;
+}
+.game__dealers-hand--children-10,
+.game__players-hand--children-10 {
+  -webkit-transform: translateX(-72px);
+          transform: translateX(-72px);
+}
+.game__dealers-hand .card:nth-child(10),
+.game__players-hand .card:nth-child(10) {
+  left: 144px;
+}
+.game__dealers-hand--children-9,
+.game__players-hand--children-9 {
+  -webkit-transform: translateX(-64px);
+          transform: translateX(-64px);
+}
+.game__dealers-hand .card:nth-child(9),
+.game__players-hand .card:nth-child(9) {
+  left: 128px;
+}
+.game__dealers-hand--children-8,
+.game__players-hand--children-8 {
+  -webkit-transform: translateX(-56px);
+          transform: translateX(-56px);
+}
+.game__dealers-hand .card:nth-child(8),
+.game__players-hand .card:nth-child(8) {
+  left: 112px;
+}
+.game__dealers-hand--children-7,
+.game__players-hand--children-7 {
+  -webkit-transform: translateX(-48px);
+          transform: translateX(-48px);
+}
+.game__dealers-hand .card:nth-child(7),
+.game__players-hand .card:nth-child(7) {
+  left: 96px;
+}
+.game__dealers-hand--children-6,
+.game__players-hand--children-6 {
+  -webkit-transform: translateX(-40px);
+          transform: translateX(-40px);
+}
+.game__dealers-hand .card:nth-child(6),
+.game__players-hand .card:nth-child(6) {
+  left: 80px;
+}
+.game__dealers-hand--children-5,
+.game__players-hand--children-5 {
+  -webkit-transform: translateX(-32px);
+          transform: translateX(-32px);
+}
+.game__dealers-hand .card:nth-child(5),
+.game__players-hand .card:nth-child(5) {
+  left: 64px;
+}
+.game__dealers-hand--children-4,
+.game__players-hand--children-4 {
+  -webkit-transform: translateX(-24px);
+          transform: translateX(-24px);
+}
+.game__dealers-hand .card:nth-child(4),
+.game__players-hand .card:nth-child(4) {
+  left: 48px;
+}
+.game__dealers-hand--children-3,
+.game__players-hand--children-3 {
+  -webkit-transform: translateX(-16px);
+          transform: translateX(-16px);
+}
+.game__dealers-hand .card:nth-child(3),
+.game__players-hand .card:nth-child(3) {
+  left: 32px;
+}
+.game__dealers-hand--children-2,
+.game__players-hand--children-2 {
+  -webkit-transform: translateX(-8px);
+          transform: translateX(-8px);
+}
+.game__dealers-hand .card:nth-child(2),
+.game__players-hand .card:nth-child(2) {
+  left: 16px;
 }
 .game__hand {
   position: absolute;
@@ -849,6 +936,38 @@ svg:not(:root) {
   transition: -webkit-transform 0.4s ease;
   transition: transform 0.4s ease;
   transition: transform 0.4s ease, -webkit-transform 0.4s ease;
+}
+.game__points:nth-child(3) + .bet {
+  -webkit-transform: translateX(8px);
+          transform: translateX(8px);
+}
+.game__points:nth-child(10) + .bet {
+  -webkit-transform: translateX(64px);
+          transform: translateX(64px);
+}
+.game__points:nth-child(9) + .bet {
+  -webkit-transform: translateX(56px);
+          transform: translateX(56px);
+}
+.game__points:nth-child(8) + .bet {
+  -webkit-transform: translateX(48px);
+          transform: translateX(48px);
+}
+.game__points:nth-child(7) + .bet {
+  -webkit-transform: translateX(40px);
+          transform: translateX(40px);
+}
+.game__points:nth-child(6) + .bet {
+  -webkit-transform: translateX(32px);
+          transform: translateX(32px);
+}
+.game__points:nth-child(5) + .bet {
+  -webkit-transform: translateX(24px);
+          transform: translateX(24px);
+}
+.game__points:nth-child(4) + .bet {
+  -webkit-transform: translateX(16px);
+          transform: translateX(16px);
 }
 .game__points:nth-child(3) + .bet {
   -webkit-transform: translateX(8px);
@@ -2435,8 +2554,8 @@ svg:not(:root) {
   background-color: #ffffff;
   -webkit-animation: open-card 0.4s linear;
           animation: open-card 0.4s linear;
-  -webkit-animation-fill-mode: forwards;
-          animation-fill-mode: forwards;
+  -webkit-transform: rotateY(0);
+          transform: rotateY(0);
 }
 .card--yellow {
   background-color: yellow;
@@ -2600,36 +2719,16 @@ svg:not(:root) {
 .card--heartsA {
   background-image: url("../img/hA.png");
 }
-.game__dealers-hand .card:nth-child(2),
-.game__players-hand .card:nth-child(2) {
-  left: 16px;
-}
 @-webkit-keyframes open-card {
-  0% {
-    -webkit-transform: translateZ(0) rotateY(-180deg);
-            transform: translateZ(0) rotateY(-180deg);
-  }
   50% {
     -webkit-transform: translateZ(51px) rotateY(-90deg);
             transform: translateZ(51px) rotateY(-90deg);
-  }
-  100% {
-    -webkit-transform: translateZ(0) rotateY(0);
-            transform: translateZ(0) rotateY(0);
   }
 }
 @keyframes open-card {
-  0% {
-    -webkit-transform: translateZ(0) rotateY(-180deg);
-            transform: translateZ(0) rotateY(-180deg);
-  }
   50% {
     -webkit-transform: translateZ(51px) rotateY(-90deg);
             transform: translateZ(51px) rotateY(-90deg);
-  }
-  100% {
-    -webkit-transform: translateZ(0) rotateY(0);
-            transform: translateZ(0) rotateY(0);
   }
 }
 @-webkit-keyframes card-shuffle {
