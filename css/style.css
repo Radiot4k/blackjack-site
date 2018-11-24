@@ -1020,2483 +1020,883 @@ svg:not(:root) {
   -webkit-transform: translateX(32px);
           transform: translateX(32px);
 }
-.chips__pile:nth-child(20) .chip--exchange-to-dealer:nth-child(10) {
-  -webkit-transform: translate(calc(50vw - 608px - 35px), calc(-9px - 50vh));
-          transform: translate(calc(50vw - 608px - 35px), calc(-9px - 50vh));
-}
-.chips__pile:nth-child(20) .chip--exchange-to-dealer:nth-child(9) {
-  -webkit-transform: translate(calc(50vw - 608px - 35px), calc(-8px - 50vh));
-          transform: translate(calc(50vw - 608px - 35px), calc(-8px - 50vh));
-}
-.chips__pile:nth-child(20) .chip--exchange-to-dealer:nth-child(8) {
-  -webkit-transform: translate(calc(50vw - 608px - 35px), calc(-7px - 50vh));
-          transform: translate(calc(50vw - 608px - 35px), calc(-7px - 50vh));
-}
-.chips__pile:nth-child(20) .chip--exchange-to-dealer:nth-child(7) {
-  -webkit-transform: translate(calc(50vw - 608px - 35px), calc(-6px - 50vh));
-          transform: translate(calc(50vw - 608px - 35px), calc(-6px - 50vh));
-}
-.chips__pile:nth-child(20) .chip--exchange-to-dealer:nth-child(6) {
-  -webkit-transform: translate(calc(50vw - 608px - 35px), calc(-5px - 50vh));
-          transform: translate(calc(50vw - 608px - 35px), calc(-5px - 50vh));
-}
-.chips__pile:nth-child(20) .chip--exchange-to-dealer:nth-child(5) {
+.chips__pile:nth-child(20) .chip.chip--exchange-to-dealer-4 {
   -webkit-transform: translate(calc(50vw - 608px - 35px), calc(-4px - 50vh));
           transform: translate(calc(50vw - 608px - 35px), calc(-4px - 50vh));
 }
-.chips__pile:nth-child(20) .chip--exchange-to-dealer:nth-child(4) {
+.chips__pile:nth-child(20) .chip.chip--exchange-to-dealer-3 {
   -webkit-transform: translate(calc(50vw - 608px - 35px), calc(-3px - 50vh));
           transform: translate(calc(50vw - 608px - 35px), calc(-3px - 50vh));
 }
-.chips__pile:nth-child(20) .chip--exchange-to-dealer:nth-child(3) {
+.chips__pile:nth-child(20) .chip.chip--exchange-to-dealer-2 {
   -webkit-transform: translate(calc(50vw - 608px - 35px), calc(-2px - 50vh));
           transform: translate(calc(50vw - 608px - 35px), calc(-2px - 50vh));
 }
-.chips__pile:nth-child(20) .chip--exchange-to-dealer:nth-child(2) {
+.chips__pile:nth-child(20) .chip.chip--exchange-to-dealer-1 {
   -webkit-transform: translate(calc(50vw - 608px - 35px), calc(-1px - 50vh));
           transform: translate(calc(50vw - 608px - 35px), calc(-1px - 50vh));
 }
-.chips__pile:nth-child(20) .chip--exchange-to-dealer:nth-child(1) {
-  -webkit-transform: translate(calc(50vw - 608px - 35px), calc(0px - 50vh));
-          transform: translate(calc(50vw - 608px - 35px), calc(0px - 50vh));
+.chips__pile:nth-child(20) .chip.chip--exchange-to-dealer-0 {
+  -webkit-transform: translate(calc(50vw - 608px - 35px), -50vh);
+          transform: translate(calc(50vw - 608px - 35px), -50vh);
 }
-.chips__pile:nth-child(19) .chip--exchange-to-dealer:nth-child(10) {
-  -webkit-transform: translate(calc(50vw - 576px - 35px), calc(-9px - 50vh));
-          transform: translate(calc(50vw - 576px - 35px), calc(-9px - 50vh));
-}
-.chips__pile:nth-child(19) .chip--exchange-to-dealer:nth-child(9) {
-  -webkit-transform: translate(calc(50vw - 576px - 35px), calc(-8px - 50vh));
-          transform: translate(calc(50vw - 576px - 35px), calc(-8px - 50vh));
-}
-.chips__pile:nth-child(19) .chip--exchange-to-dealer:nth-child(8) {
-  -webkit-transform: translate(calc(50vw - 576px - 35px), calc(-7px - 50vh));
-          transform: translate(calc(50vw - 576px - 35px), calc(-7px - 50vh));
-}
-.chips__pile:nth-child(19) .chip--exchange-to-dealer:nth-child(7) {
-  -webkit-transform: translate(calc(50vw - 576px - 35px), calc(-6px - 50vh));
-          transform: translate(calc(50vw - 576px - 35px), calc(-6px - 50vh));
-}
-.chips__pile:nth-child(19) .chip--exchange-to-dealer:nth-child(6) {
-  -webkit-transform: translate(calc(50vw - 576px - 35px), calc(-5px - 50vh));
-          transform: translate(calc(50vw - 576px - 35px), calc(-5px - 50vh));
-}
-.chips__pile:nth-child(19) .chip--exchange-to-dealer:nth-child(5) {
+.chips__pile:nth-child(19) .chip.chip--exchange-to-dealer-4 {
   -webkit-transform: translate(calc(50vw - 576px - 35px), calc(-4px - 50vh));
           transform: translate(calc(50vw - 576px - 35px), calc(-4px - 50vh));
 }
-.chips__pile:nth-child(19) .chip--exchange-to-dealer:nth-child(4) {
+.chips__pile:nth-child(19) .chip.chip--exchange-to-dealer-3 {
   -webkit-transform: translate(calc(50vw - 576px - 35px), calc(-3px - 50vh));
           transform: translate(calc(50vw - 576px - 35px), calc(-3px - 50vh));
 }
-.chips__pile:nth-child(19) .chip--exchange-to-dealer:nth-child(3) {
+.chips__pile:nth-child(19) .chip.chip--exchange-to-dealer-2 {
   -webkit-transform: translate(calc(50vw - 576px - 35px), calc(-2px - 50vh));
           transform: translate(calc(50vw - 576px - 35px), calc(-2px - 50vh));
 }
-.chips__pile:nth-child(19) .chip--exchange-to-dealer:nth-child(2) {
+.chips__pile:nth-child(19) .chip.chip--exchange-to-dealer-1 {
   -webkit-transform: translate(calc(50vw - 576px - 35px), calc(-1px - 50vh));
           transform: translate(calc(50vw - 576px - 35px), calc(-1px - 50vh));
 }
-.chips__pile:nth-child(19) .chip--exchange-to-dealer:nth-child(1) {
-  -webkit-transform: translate(calc(50vw - 576px - 35px), calc(0px - 50vh));
-          transform: translate(calc(50vw - 576px - 35px), calc(0px - 50vh));
+.chips__pile:nth-child(19) .chip.chip--exchange-to-dealer-0 {
+  -webkit-transform: translate(calc(50vw - 576px - 35px), -50vh);
+          transform: translate(calc(50vw - 576px - 35px), -50vh);
 }
-.chips__pile:nth-child(18) .chip--exchange-to-dealer:nth-child(10) {
-  -webkit-transform: translate(calc(50vw - 544px - 35px), calc(-9px - 50vh));
-          transform: translate(calc(50vw - 544px - 35px), calc(-9px - 50vh));
-}
-.chips__pile:nth-child(18) .chip--exchange-to-dealer:nth-child(9) {
-  -webkit-transform: translate(calc(50vw - 544px - 35px), calc(-8px - 50vh));
-          transform: translate(calc(50vw - 544px - 35px), calc(-8px - 50vh));
-}
-.chips__pile:nth-child(18) .chip--exchange-to-dealer:nth-child(8) {
-  -webkit-transform: translate(calc(50vw - 544px - 35px), calc(-7px - 50vh));
-          transform: translate(calc(50vw - 544px - 35px), calc(-7px - 50vh));
-}
-.chips__pile:nth-child(18) .chip--exchange-to-dealer:nth-child(7) {
-  -webkit-transform: translate(calc(50vw - 544px - 35px), calc(-6px - 50vh));
-          transform: translate(calc(50vw - 544px - 35px), calc(-6px - 50vh));
-}
-.chips__pile:nth-child(18) .chip--exchange-to-dealer:nth-child(6) {
-  -webkit-transform: translate(calc(50vw - 544px - 35px), calc(-5px - 50vh));
-          transform: translate(calc(50vw - 544px - 35px), calc(-5px - 50vh));
-}
-.chips__pile:nth-child(18) .chip--exchange-to-dealer:nth-child(5) {
+.chips__pile:nth-child(18) .chip.chip--exchange-to-dealer-4 {
   -webkit-transform: translate(calc(50vw - 544px - 35px), calc(-4px - 50vh));
           transform: translate(calc(50vw - 544px - 35px), calc(-4px - 50vh));
 }
-.chips__pile:nth-child(18) .chip--exchange-to-dealer:nth-child(4) {
+.chips__pile:nth-child(18) .chip.chip--exchange-to-dealer-3 {
   -webkit-transform: translate(calc(50vw - 544px - 35px), calc(-3px - 50vh));
           transform: translate(calc(50vw - 544px - 35px), calc(-3px - 50vh));
 }
-.chips__pile:nth-child(18) .chip--exchange-to-dealer:nth-child(3) {
+.chips__pile:nth-child(18) .chip.chip--exchange-to-dealer-2 {
   -webkit-transform: translate(calc(50vw - 544px - 35px), calc(-2px - 50vh));
           transform: translate(calc(50vw - 544px - 35px), calc(-2px - 50vh));
 }
-.chips__pile:nth-child(18) .chip--exchange-to-dealer:nth-child(2) {
+.chips__pile:nth-child(18) .chip.chip--exchange-to-dealer-1 {
   -webkit-transform: translate(calc(50vw - 544px - 35px), calc(-1px - 50vh));
           transform: translate(calc(50vw - 544px - 35px), calc(-1px - 50vh));
 }
-.chips__pile:nth-child(18) .chip--exchange-to-dealer:nth-child(1) {
-  -webkit-transform: translate(calc(50vw - 544px - 35px), calc(0px - 50vh));
-          transform: translate(calc(50vw - 544px - 35px), calc(0px - 50vh));
+.chips__pile:nth-child(18) .chip.chip--exchange-to-dealer-0 {
+  -webkit-transform: translate(calc(50vw - 544px - 35px), -50vh);
+          transform: translate(calc(50vw - 544px - 35px), -50vh);
 }
-.chips__pile:nth-child(17) .chip--exchange-to-dealer:nth-child(10) {
-  -webkit-transform: translate(calc(50vw - 512px - 35px), calc(-9px - 50vh));
-          transform: translate(calc(50vw - 512px - 35px), calc(-9px - 50vh));
-}
-.chips__pile:nth-child(17) .chip--exchange-to-dealer:nth-child(9) {
-  -webkit-transform: translate(calc(50vw - 512px - 35px), calc(-8px - 50vh));
-          transform: translate(calc(50vw - 512px - 35px), calc(-8px - 50vh));
-}
-.chips__pile:nth-child(17) .chip--exchange-to-dealer:nth-child(8) {
-  -webkit-transform: translate(calc(50vw - 512px - 35px), calc(-7px - 50vh));
-          transform: translate(calc(50vw - 512px - 35px), calc(-7px - 50vh));
-}
-.chips__pile:nth-child(17) .chip--exchange-to-dealer:nth-child(7) {
-  -webkit-transform: translate(calc(50vw - 512px - 35px), calc(-6px - 50vh));
-          transform: translate(calc(50vw - 512px - 35px), calc(-6px - 50vh));
-}
-.chips__pile:nth-child(17) .chip--exchange-to-dealer:nth-child(6) {
-  -webkit-transform: translate(calc(50vw - 512px - 35px), calc(-5px - 50vh));
-          transform: translate(calc(50vw - 512px - 35px), calc(-5px - 50vh));
-}
-.chips__pile:nth-child(17) .chip--exchange-to-dealer:nth-child(5) {
+.chips__pile:nth-child(17) .chip.chip--exchange-to-dealer-4 {
   -webkit-transform: translate(calc(50vw - 512px - 35px), calc(-4px - 50vh));
           transform: translate(calc(50vw - 512px - 35px), calc(-4px - 50vh));
 }
-.chips__pile:nth-child(17) .chip--exchange-to-dealer:nth-child(4) {
+.chips__pile:nth-child(17) .chip.chip--exchange-to-dealer-3 {
   -webkit-transform: translate(calc(50vw - 512px - 35px), calc(-3px - 50vh));
           transform: translate(calc(50vw - 512px - 35px), calc(-3px - 50vh));
 }
-.chips__pile:nth-child(17) .chip--exchange-to-dealer:nth-child(3) {
+.chips__pile:nth-child(17) .chip.chip--exchange-to-dealer-2 {
   -webkit-transform: translate(calc(50vw - 512px - 35px), calc(-2px - 50vh));
           transform: translate(calc(50vw - 512px - 35px), calc(-2px - 50vh));
 }
-.chips__pile:nth-child(17) .chip--exchange-to-dealer:nth-child(2) {
+.chips__pile:nth-child(17) .chip.chip--exchange-to-dealer-1 {
   -webkit-transform: translate(calc(50vw - 512px - 35px), calc(-1px - 50vh));
           transform: translate(calc(50vw - 512px - 35px), calc(-1px - 50vh));
 }
-.chips__pile:nth-child(17) .chip--exchange-to-dealer:nth-child(1) {
-  -webkit-transform: translate(calc(50vw - 512px - 35px), calc(0px - 50vh));
-          transform: translate(calc(50vw - 512px - 35px), calc(0px - 50vh));
+.chips__pile:nth-child(17) .chip.chip--exchange-to-dealer-0 {
+  -webkit-transform: translate(calc(50vw - 512px - 35px), -50vh);
+          transform: translate(calc(50vw - 512px - 35px), -50vh);
 }
-.chips__pile:nth-child(16) .chip--exchange-to-dealer:nth-child(10) {
-  -webkit-transform: translate(calc(50vw - 480px - 35px), calc(-9px - 50vh));
-          transform: translate(calc(50vw - 480px - 35px), calc(-9px - 50vh));
-}
-.chips__pile:nth-child(16) .chip--exchange-to-dealer:nth-child(9) {
-  -webkit-transform: translate(calc(50vw - 480px - 35px), calc(-8px - 50vh));
-          transform: translate(calc(50vw - 480px - 35px), calc(-8px - 50vh));
-}
-.chips__pile:nth-child(16) .chip--exchange-to-dealer:nth-child(8) {
-  -webkit-transform: translate(calc(50vw - 480px - 35px), calc(-7px - 50vh));
-          transform: translate(calc(50vw - 480px - 35px), calc(-7px - 50vh));
-}
-.chips__pile:nth-child(16) .chip--exchange-to-dealer:nth-child(7) {
-  -webkit-transform: translate(calc(50vw - 480px - 35px), calc(-6px - 50vh));
-          transform: translate(calc(50vw - 480px - 35px), calc(-6px - 50vh));
-}
-.chips__pile:nth-child(16) .chip--exchange-to-dealer:nth-child(6) {
-  -webkit-transform: translate(calc(50vw - 480px - 35px), calc(-5px - 50vh));
-          transform: translate(calc(50vw - 480px - 35px), calc(-5px - 50vh));
-}
-.chips__pile:nth-child(16) .chip--exchange-to-dealer:nth-child(5) {
+.chips__pile:nth-child(16) .chip.chip--exchange-to-dealer-4 {
   -webkit-transform: translate(calc(50vw - 480px - 35px), calc(-4px - 50vh));
           transform: translate(calc(50vw - 480px - 35px), calc(-4px - 50vh));
 }
-.chips__pile:nth-child(16) .chip--exchange-to-dealer:nth-child(4) {
+.chips__pile:nth-child(16) .chip.chip--exchange-to-dealer-3 {
   -webkit-transform: translate(calc(50vw - 480px - 35px), calc(-3px - 50vh));
           transform: translate(calc(50vw - 480px - 35px), calc(-3px - 50vh));
 }
-.chips__pile:nth-child(16) .chip--exchange-to-dealer:nth-child(3) {
+.chips__pile:nth-child(16) .chip.chip--exchange-to-dealer-2 {
   -webkit-transform: translate(calc(50vw - 480px - 35px), calc(-2px - 50vh));
           transform: translate(calc(50vw - 480px - 35px), calc(-2px - 50vh));
 }
-.chips__pile:nth-child(16) .chip--exchange-to-dealer:nth-child(2) {
+.chips__pile:nth-child(16) .chip.chip--exchange-to-dealer-1 {
   -webkit-transform: translate(calc(50vw - 480px - 35px), calc(-1px - 50vh));
           transform: translate(calc(50vw - 480px - 35px), calc(-1px - 50vh));
 }
-.chips__pile:nth-child(16) .chip--exchange-to-dealer:nth-child(1) {
-  -webkit-transform: translate(calc(50vw - 480px - 35px), calc(0px - 50vh));
-          transform: translate(calc(50vw - 480px - 35px), calc(0px - 50vh));
+.chips__pile:nth-child(16) .chip.chip--exchange-to-dealer-0 {
+  -webkit-transform: translate(calc(50vw - 480px - 35px), -50vh);
+          transform: translate(calc(50vw - 480px - 35px), -50vh);
 }
-.chips__pile:nth-child(15) .chip--exchange-to-dealer:nth-child(10) {
-  -webkit-transform: translate(calc(50vw - 448px - 35px), calc(-9px - 50vh));
-          transform: translate(calc(50vw - 448px - 35px), calc(-9px - 50vh));
-}
-.chips__pile:nth-child(15) .chip--exchange-to-dealer:nth-child(9) {
-  -webkit-transform: translate(calc(50vw - 448px - 35px), calc(-8px - 50vh));
-          transform: translate(calc(50vw - 448px - 35px), calc(-8px - 50vh));
-}
-.chips__pile:nth-child(15) .chip--exchange-to-dealer:nth-child(8) {
-  -webkit-transform: translate(calc(50vw - 448px - 35px), calc(-7px - 50vh));
-          transform: translate(calc(50vw - 448px - 35px), calc(-7px - 50vh));
-}
-.chips__pile:nth-child(15) .chip--exchange-to-dealer:nth-child(7) {
-  -webkit-transform: translate(calc(50vw - 448px - 35px), calc(-6px - 50vh));
-          transform: translate(calc(50vw - 448px - 35px), calc(-6px - 50vh));
-}
-.chips__pile:nth-child(15) .chip--exchange-to-dealer:nth-child(6) {
-  -webkit-transform: translate(calc(50vw - 448px - 35px), calc(-5px - 50vh));
-          transform: translate(calc(50vw - 448px - 35px), calc(-5px - 50vh));
-}
-.chips__pile:nth-child(15) .chip--exchange-to-dealer:nth-child(5) {
+.chips__pile:nth-child(15) .chip.chip--exchange-to-dealer-4 {
   -webkit-transform: translate(calc(50vw - 448px - 35px), calc(-4px - 50vh));
           transform: translate(calc(50vw - 448px - 35px), calc(-4px - 50vh));
 }
-.chips__pile:nth-child(15) .chip--exchange-to-dealer:nth-child(4) {
+.chips__pile:nth-child(15) .chip.chip--exchange-to-dealer-3 {
   -webkit-transform: translate(calc(50vw - 448px - 35px), calc(-3px - 50vh));
           transform: translate(calc(50vw - 448px - 35px), calc(-3px - 50vh));
 }
-.chips__pile:nth-child(15) .chip--exchange-to-dealer:nth-child(3) {
+.chips__pile:nth-child(15) .chip.chip--exchange-to-dealer-2 {
   -webkit-transform: translate(calc(50vw - 448px - 35px), calc(-2px - 50vh));
           transform: translate(calc(50vw - 448px - 35px), calc(-2px - 50vh));
 }
-.chips__pile:nth-child(15) .chip--exchange-to-dealer:nth-child(2) {
+.chips__pile:nth-child(15) .chip.chip--exchange-to-dealer-1 {
   -webkit-transform: translate(calc(50vw - 448px - 35px), calc(-1px - 50vh));
           transform: translate(calc(50vw - 448px - 35px), calc(-1px - 50vh));
 }
-.chips__pile:nth-child(15) .chip--exchange-to-dealer:nth-child(1) {
-  -webkit-transform: translate(calc(50vw - 448px - 35px), calc(0px - 50vh));
-          transform: translate(calc(50vw - 448px - 35px), calc(0px - 50vh));
+.chips__pile:nth-child(15) .chip.chip--exchange-to-dealer-0 {
+  -webkit-transform: translate(calc(50vw - 448px - 35px), -50vh);
+          transform: translate(calc(50vw - 448px - 35px), -50vh);
 }
-.chips__pile:nth-child(14) .chip--exchange-to-dealer:nth-child(10) {
-  -webkit-transform: translate(calc(50vw - 416px - 35px), calc(-9px - 50vh));
-          transform: translate(calc(50vw - 416px - 35px), calc(-9px - 50vh));
-}
-.chips__pile:nth-child(14) .chip--exchange-to-dealer:nth-child(9) {
-  -webkit-transform: translate(calc(50vw - 416px - 35px), calc(-8px - 50vh));
-          transform: translate(calc(50vw - 416px - 35px), calc(-8px - 50vh));
-}
-.chips__pile:nth-child(14) .chip--exchange-to-dealer:nth-child(8) {
-  -webkit-transform: translate(calc(50vw - 416px - 35px), calc(-7px - 50vh));
-          transform: translate(calc(50vw - 416px - 35px), calc(-7px - 50vh));
-}
-.chips__pile:nth-child(14) .chip--exchange-to-dealer:nth-child(7) {
-  -webkit-transform: translate(calc(50vw - 416px - 35px), calc(-6px - 50vh));
-          transform: translate(calc(50vw - 416px - 35px), calc(-6px - 50vh));
-}
-.chips__pile:nth-child(14) .chip--exchange-to-dealer:nth-child(6) {
-  -webkit-transform: translate(calc(50vw - 416px - 35px), calc(-5px - 50vh));
-          transform: translate(calc(50vw - 416px - 35px), calc(-5px - 50vh));
-}
-.chips__pile:nth-child(14) .chip--exchange-to-dealer:nth-child(5) {
+.chips__pile:nth-child(14) .chip.chip--exchange-to-dealer-4 {
   -webkit-transform: translate(calc(50vw - 416px - 35px), calc(-4px - 50vh));
           transform: translate(calc(50vw - 416px - 35px), calc(-4px - 50vh));
 }
-.chips__pile:nth-child(14) .chip--exchange-to-dealer:nth-child(4) {
+.chips__pile:nth-child(14) .chip.chip--exchange-to-dealer-3 {
   -webkit-transform: translate(calc(50vw - 416px - 35px), calc(-3px - 50vh));
           transform: translate(calc(50vw - 416px - 35px), calc(-3px - 50vh));
 }
-.chips__pile:nth-child(14) .chip--exchange-to-dealer:nth-child(3) {
+.chips__pile:nth-child(14) .chip.chip--exchange-to-dealer-2 {
   -webkit-transform: translate(calc(50vw - 416px - 35px), calc(-2px - 50vh));
           transform: translate(calc(50vw - 416px - 35px), calc(-2px - 50vh));
 }
-.chips__pile:nth-child(14) .chip--exchange-to-dealer:nth-child(2) {
+.chips__pile:nth-child(14) .chip.chip--exchange-to-dealer-1 {
   -webkit-transform: translate(calc(50vw - 416px - 35px), calc(-1px - 50vh));
           transform: translate(calc(50vw - 416px - 35px), calc(-1px - 50vh));
 }
-.chips__pile:nth-child(14) .chip--exchange-to-dealer:nth-child(1) {
-  -webkit-transform: translate(calc(50vw - 416px - 35px), calc(0px - 50vh));
-          transform: translate(calc(50vw - 416px - 35px), calc(0px - 50vh));
+.chips__pile:nth-child(14) .chip.chip--exchange-to-dealer-0 {
+  -webkit-transform: translate(calc(50vw - 416px - 35px), -50vh);
+          transform: translate(calc(50vw - 416px - 35px), -50vh);
 }
-.chips__pile:nth-child(13) .chip--exchange-to-dealer:nth-child(10) {
-  -webkit-transform: translate(calc(50vw - 384px - 35px), calc(-9px - 50vh));
-          transform: translate(calc(50vw - 384px - 35px), calc(-9px - 50vh));
-}
-.chips__pile:nth-child(13) .chip--exchange-to-dealer:nth-child(9) {
-  -webkit-transform: translate(calc(50vw - 384px - 35px), calc(-8px - 50vh));
-          transform: translate(calc(50vw - 384px - 35px), calc(-8px - 50vh));
-}
-.chips__pile:nth-child(13) .chip--exchange-to-dealer:nth-child(8) {
-  -webkit-transform: translate(calc(50vw - 384px - 35px), calc(-7px - 50vh));
-          transform: translate(calc(50vw - 384px - 35px), calc(-7px - 50vh));
-}
-.chips__pile:nth-child(13) .chip--exchange-to-dealer:nth-child(7) {
-  -webkit-transform: translate(calc(50vw - 384px - 35px), calc(-6px - 50vh));
-          transform: translate(calc(50vw - 384px - 35px), calc(-6px - 50vh));
-}
-.chips__pile:nth-child(13) .chip--exchange-to-dealer:nth-child(6) {
-  -webkit-transform: translate(calc(50vw - 384px - 35px), calc(-5px - 50vh));
-          transform: translate(calc(50vw - 384px - 35px), calc(-5px - 50vh));
-}
-.chips__pile:nth-child(13) .chip--exchange-to-dealer:nth-child(5) {
+.chips__pile:nth-child(13) .chip.chip--exchange-to-dealer-4 {
   -webkit-transform: translate(calc(50vw - 384px - 35px), calc(-4px - 50vh));
           transform: translate(calc(50vw - 384px - 35px), calc(-4px - 50vh));
 }
-.chips__pile:nth-child(13) .chip--exchange-to-dealer:nth-child(4) {
+.chips__pile:nth-child(13) .chip.chip--exchange-to-dealer-3 {
   -webkit-transform: translate(calc(50vw - 384px - 35px), calc(-3px - 50vh));
           transform: translate(calc(50vw - 384px - 35px), calc(-3px - 50vh));
 }
-.chips__pile:nth-child(13) .chip--exchange-to-dealer:nth-child(3) {
+.chips__pile:nth-child(13) .chip.chip--exchange-to-dealer-2 {
   -webkit-transform: translate(calc(50vw - 384px - 35px), calc(-2px - 50vh));
           transform: translate(calc(50vw - 384px - 35px), calc(-2px - 50vh));
 }
-.chips__pile:nth-child(13) .chip--exchange-to-dealer:nth-child(2) {
+.chips__pile:nth-child(13) .chip.chip--exchange-to-dealer-1 {
   -webkit-transform: translate(calc(50vw - 384px - 35px), calc(-1px - 50vh));
           transform: translate(calc(50vw - 384px - 35px), calc(-1px - 50vh));
 }
-.chips__pile:nth-child(13) .chip--exchange-to-dealer:nth-child(1) {
-  -webkit-transform: translate(calc(50vw - 384px - 35px), calc(0px - 50vh));
-          transform: translate(calc(50vw - 384px - 35px), calc(0px - 50vh));
+.chips__pile:nth-child(13) .chip.chip--exchange-to-dealer-0 {
+  -webkit-transform: translate(calc(50vw - 384px - 35px), -50vh);
+          transform: translate(calc(50vw - 384px - 35px), -50vh);
 }
-.chips__pile:nth-child(12) .chip--exchange-to-dealer:nth-child(10) {
-  -webkit-transform: translate(calc(50vw - 352px - 35px), calc(-9px - 50vh));
-          transform: translate(calc(50vw - 352px - 35px), calc(-9px - 50vh));
-}
-.chips__pile:nth-child(12) .chip--exchange-to-dealer:nth-child(9) {
-  -webkit-transform: translate(calc(50vw - 352px - 35px), calc(-8px - 50vh));
-          transform: translate(calc(50vw - 352px - 35px), calc(-8px - 50vh));
-}
-.chips__pile:nth-child(12) .chip--exchange-to-dealer:nth-child(8) {
-  -webkit-transform: translate(calc(50vw - 352px - 35px), calc(-7px - 50vh));
-          transform: translate(calc(50vw - 352px - 35px), calc(-7px - 50vh));
-}
-.chips__pile:nth-child(12) .chip--exchange-to-dealer:nth-child(7) {
-  -webkit-transform: translate(calc(50vw - 352px - 35px), calc(-6px - 50vh));
-          transform: translate(calc(50vw - 352px - 35px), calc(-6px - 50vh));
-}
-.chips__pile:nth-child(12) .chip--exchange-to-dealer:nth-child(6) {
-  -webkit-transform: translate(calc(50vw - 352px - 35px), calc(-5px - 50vh));
-          transform: translate(calc(50vw - 352px - 35px), calc(-5px - 50vh));
-}
-.chips__pile:nth-child(12) .chip--exchange-to-dealer:nth-child(5) {
+.chips__pile:nth-child(12) .chip.chip--exchange-to-dealer-4 {
   -webkit-transform: translate(calc(50vw - 352px - 35px), calc(-4px - 50vh));
           transform: translate(calc(50vw - 352px - 35px), calc(-4px - 50vh));
 }
-.chips__pile:nth-child(12) .chip--exchange-to-dealer:nth-child(4) {
+.chips__pile:nth-child(12) .chip.chip--exchange-to-dealer-3 {
   -webkit-transform: translate(calc(50vw - 352px - 35px), calc(-3px - 50vh));
           transform: translate(calc(50vw - 352px - 35px), calc(-3px - 50vh));
 }
-.chips__pile:nth-child(12) .chip--exchange-to-dealer:nth-child(3) {
+.chips__pile:nth-child(12) .chip.chip--exchange-to-dealer-2 {
   -webkit-transform: translate(calc(50vw - 352px - 35px), calc(-2px - 50vh));
           transform: translate(calc(50vw - 352px - 35px), calc(-2px - 50vh));
 }
-.chips__pile:nth-child(12) .chip--exchange-to-dealer:nth-child(2) {
+.chips__pile:nth-child(12) .chip.chip--exchange-to-dealer-1 {
   -webkit-transform: translate(calc(50vw - 352px - 35px), calc(-1px - 50vh));
           transform: translate(calc(50vw - 352px - 35px), calc(-1px - 50vh));
 }
-.chips__pile:nth-child(12) .chip--exchange-to-dealer:nth-child(1) {
-  -webkit-transform: translate(calc(50vw - 352px - 35px), calc(0px - 50vh));
-          transform: translate(calc(50vw - 352px - 35px), calc(0px - 50vh));
+.chips__pile:nth-child(12) .chip.chip--exchange-to-dealer-0 {
+  -webkit-transform: translate(calc(50vw - 352px - 35px), -50vh);
+          transform: translate(calc(50vw - 352px - 35px), -50vh);
 }
-.chips__pile:nth-child(11) .chip--exchange-to-dealer:nth-child(10) {
-  -webkit-transform: translate(calc(50vw - 320px - 35px), calc(-9px - 50vh));
-          transform: translate(calc(50vw - 320px - 35px), calc(-9px - 50vh));
-}
-.chips__pile:nth-child(11) .chip--exchange-to-dealer:nth-child(9) {
-  -webkit-transform: translate(calc(50vw - 320px - 35px), calc(-8px - 50vh));
-          transform: translate(calc(50vw - 320px - 35px), calc(-8px - 50vh));
-}
-.chips__pile:nth-child(11) .chip--exchange-to-dealer:nth-child(8) {
-  -webkit-transform: translate(calc(50vw - 320px - 35px), calc(-7px - 50vh));
-          transform: translate(calc(50vw - 320px - 35px), calc(-7px - 50vh));
-}
-.chips__pile:nth-child(11) .chip--exchange-to-dealer:nth-child(7) {
-  -webkit-transform: translate(calc(50vw - 320px - 35px), calc(-6px - 50vh));
-          transform: translate(calc(50vw - 320px - 35px), calc(-6px - 50vh));
-}
-.chips__pile:nth-child(11) .chip--exchange-to-dealer:nth-child(6) {
-  -webkit-transform: translate(calc(50vw - 320px - 35px), calc(-5px - 50vh));
-          transform: translate(calc(50vw - 320px - 35px), calc(-5px - 50vh));
-}
-.chips__pile:nth-child(11) .chip--exchange-to-dealer:nth-child(5) {
+.chips__pile:nth-child(11) .chip.chip--exchange-to-dealer-4 {
   -webkit-transform: translate(calc(50vw - 320px - 35px), calc(-4px - 50vh));
           transform: translate(calc(50vw - 320px - 35px), calc(-4px - 50vh));
 }
-.chips__pile:nth-child(11) .chip--exchange-to-dealer:nth-child(4) {
+.chips__pile:nth-child(11) .chip.chip--exchange-to-dealer-3 {
   -webkit-transform: translate(calc(50vw - 320px - 35px), calc(-3px - 50vh));
           transform: translate(calc(50vw - 320px - 35px), calc(-3px - 50vh));
 }
-.chips__pile:nth-child(11) .chip--exchange-to-dealer:nth-child(3) {
+.chips__pile:nth-child(11) .chip.chip--exchange-to-dealer-2 {
   -webkit-transform: translate(calc(50vw - 320px - 35px), calc(-2px - 50vh));
           transform: translate(calc(50vw - 320px - 35px), calc(-2px - 50vh));
 }
-.chips__pile:nth-child(11) .chip--exchange-to-dealer:nth-child(2) {
+.chips__pile:nth-child(11) .chip.chip--exchange-to-dealer-1 {
   -webkit-transform: translate(calc(50vw - 320px - 35px), calc(-1px - 50vh));
           transform: translate(calc(50vw - 320px - 35px), calc(-1px - 50vh));
 }
-.chips__pile:nth-child(11) .chip--exchange-to-dealer:nth-child(1) {
-  -webkit-transform: translate(calc(50vw - 320px - 35px), calc(0px - 50vh));
-          transform: translate(calc(50vw - 320px - 35px), calc(0px - 50vh));
+.chips__pile:nth-child(11) .chip.chip--exchange-to-dealer-0 {
+  -webkit-transform: translate(calc(50vw - 320px - 35px), -50vh);
+          transform: translate(calc(50vw - 320px - 35px), -50vh);
 }
-.chips__pile:nth-child(10) .chip--exchange-to-dealer:nth-child(10) {
-  -webkit-transform: translate(calc(50vw - 288px - 35px), calc(-9px - 50vh));
-          transform: translate(calc(50vw - 288px - 35px), calc(-9px - 50vh));
-}
-.chips__pile:nth-child(10) .chip--exchange-to-dealer:nth-child(9) {
-  -webkit-transform: translate(calc(50vw - 288px - 35px), calc(-8px - 50vh));
-          transform: translate(calc(50vw - 288px - 35px), calc(-8px - 50vh));
-}
-.chips__pile:nth-child(10) .chip--exchange-to-dealer:nth-child(8) {
-  -webkit-transform: translate(calc(50vw - 288px - 35px), calc(-7px - 50vh));
-          transform: translate(calc(50vw - 288px - 35px), calc(-7px - 50vh));
-}
-.chips__pile:nth-child(10) .chip--exchange-to-dealer:nth-child(7) {
-  -webkit-transform: translate(calc(50vw - 288px - 35px), calc(-6px - 50vh));
-          transform: translate(calc(50vw - 288px - 35px), calc(-6px - 50vh));
-}
-.chips__pile:nth-child(10) .chip--exchange-to-dealer:nth-child(6) {
-  -webkit-transform: translate(calc(50vw - 288px - 35px), calc(-5px - 50vh));
-          transform: translate(calc(50vw - 288px - 35px), calc(-5px - 50vh));
-}
-.chips__pile:nth-child(10) .chip--exchange-to-dealer:nth-child(5) {
+.chips__pile:nth-child(10) .chip.chip--exchange-to-dealer-4 {
   -webkit-transform: translate(calc(50vw - 288px - 35px), calc(-4px - 50vh));
           transform: translate(calc(50vw - 288px - 35px), calc(-4px - 50vh));
 }
-.chips__pile:nth-child(10) .chip--exchange-to-dealer:nth-child(4) {
+.chips__pile:nth-child(10) .chip.chip--exchange-to-dealer-3 {
   -webkit-transform: translate(calc(50vw - 288px - 35px), calc(-3px - 50vh));
           transform: translate(calc(50vw - 288px - 35px), calc(-3px - 50vh));
 }
-.chips__pile:nth-child(10) .chip--exchange-to-dealer:nth-child(3) {
+.chips__pile:nth-child(10) .chip.chip--exchange-to-dealer-2 {
   -webkit-transform: translate(calc(50vw - 288px - 35px), calc(-2px - 50vh));
           transform: translate(calc(50vw - 288px - 35px), calc(-2px - 50vh));
 }
-.chips__pile:nth-child(10) .chip--exchange-to-dealer:nth-child(2) {
+.chips__pile:nth-child(10) .chip.chip--exchange-to-dealer-1 {
   -webkit-transform: translate(calc(50vw - 288px - 35px), calc(-1px - 50vh));
           transform: translate(calc(50vw - 288px - 35px), calc(-1px - 50vh));
 }
-.chips__pile:nth-child(10) .chip--exchange-to-dealer:nth-child(1) {
-  -webkit-transform: translate(calc(50vw - 288px - 35px), calc(0px - 50vh));
-          transform: translate(calc(50vw - 288px - 35px), calc(0px - 50vh));
+.chips__pile:nth-child(10) .chip.chip--exchange-to-dealer-0 {
+  -webkit-transform: translate(calc(50vw - 288px - 35px), -50vh);
+          transform: translate(calc(50vw - 288px - 35px), -50vh);
 }
-.chips__pile:nth-child(9) .chip--exchange-to-dealer:nth-child(10) {
-  -webkit-transform: translate(calc(50vw - 256px - 35px), calc(-9px - 50vh));
-          transform: translate(calc(50vw - 256px - 35px), calc(-9px - 50vh));
-}
-.chips__pile:nth-child(9) .chip--exchange-to-dealer:nth-child(9) {
-  -webkit-transform: translate(calc(50vw - 256px - 35px), calc(-8px - 50vh));
-          transform: translate(calc(50vw - 256px - 35px), calc(-8px - 50vh));
-}
-.chips__pile:nth-child(9) .chip--exchange-to-dealer:nth-child(8) {
-  -webkit-transform: translate(calc(50vw - 256px - 35px), calc(-7px - 50vh));
-          transform: translate(calc(50vw - 256px - 35px), calc(-7px - 50vh));
-}
-.chips__pile:nth-child(9) .chip--exchange-to-dealer:nth-child(7) {
-  -webkit-transform: translate(calc(50vw - 256px - 35px), calc(-6px - 50vh));
-          transform: translate(calc(50vw - 256px - 35px), calc(-6px - 50vh));
-}
-.chips__pile:nth-child(9) .chip--exchange-to-dealer:nth-child(6) {
-  -webkit-transform: translate(calc(50vw - 256px - 35px), calc(-5px - 50vh));
-          transform: translate(calc(50vw - 256px - 35px), calc(-5px - 50vh));
-}
-.chips__pile:nth-child(9) .chip--exchange-to-dealer:nth-child(5) {
+.chips__pile:nth-child(9) .chip.chip--exchange-to-dealer-4 {
   -webkit-transform: translate(calc(50vw - 256px - 35px), calc(-4px - 50vh));
           transform: translate(calc(50vw - 256px - 35px), calc(-4px - 50vh));
 }
-.chips__pile:nth-child(9) .chip--exchange-to-dealer:nth-child(4) {
+.chips__pile:nth-child(9) .chip.chip--exchange-to-dealer-3 {
   -webkit-transform: translate(calc(50vw - 256px - 35px), calc(-3px - 50vh));
           transform: translate(calc(50vw - 256px - 35px), calc(-3px - 50vh));
 }
-.chips__pile:nth-child(9) .chip--exchange-to-dealer:nth-child(3) {
+.chips__pile:nth-child(9) .chip.chip--exchange-to-dealer-2 {
   -webkit-transform: translate(calc(50vw - 256px - 35px), calc(-2px - 50vh));
           transform: translate(calc(50vw - 256px - 35px), calc(-2px - 50vh));
 }
-.chips__pile:nth-child(9) .chip--exchange-to-dealer:nth-child(2) {
+.chips__pile:nth-child(9) .chip.chip--exchange-to-dealer-1 {
   -webkit-transform: translate(calc(50vw - 256px - 35px), calc(-1px - 50vh));
           transform: translate(calc(50vw - 256px - 35px), calc(-1px - 50vh));
 }
-.chips__pile:nth-child(9) .chip--exchange-to-dealer:nth-child(1) {
-  -webkit-transform: translate(calc(50vw - 256px - 35px), calc(0px - 50vh));
-          transform: translate(calc(50vw - 256px - 35px), calc(0px - 50vh));
+.chips__pile:nth-child(9) .chip.chip--exchange-to-dealer-0 {
+  -webkit-transform: translate(calc(50vw - 256px - 35px), -50vh);
+          transform: translate(calc(50vw - 256px - 35px), -50vh);
 }
-.chips__pile:nth-child(8) .chip--exchange-to-dealer:nth-child(10) {
-  -webkit-transform: translate(calc(50vw - 224px - 35px), calc(-9px - 50vh));
-          transform: translate(calc(50vw - 224px - 35px), calc(-9px - 50vh));
-}
-.chips__pile:nth-child(8) .chip--exchange-to-dealer:nth-child(9) {
-  -webkit-transform: translate(calc(50vw - 224px - 35px), calc(-8px - 50vh));
-          transform: translate(calc(50vw - 224px - 35px), calc(-8px - 50vh));
-}
-.chips__pile:nth-child(8) .chip--exchange-to-dealer:nth-child(8) {
-  -webkit-transform: translate(calc(50vw - 224px - 35px), calc(-7px - 50vh));
-          transform: translate(calc(50vw - 224px - 35px), calc(-7px - 50vh));
-}
-.chips__pile:nth-child(8) .chip--exchange-to-dealer:nth-child(7) {
-  -webkit-transform: translate(calc(50vw - 224px - 35px), calc(-6px - 50vh));
-          transform: translate(calc(50vw - 224px - 35px), calc(-6px - 50vh));
-}
-.chips__pile:nth-child(8) .chip--exchange-to-dealer:nth-child(6) {
-  -webkit-transform: translate(calc(50vw - 224px - 35px), calc(-5px - 50vh));
-          transform: translate(calc(50vw - 224px - 35px), calc(-5px - 50vh));
-}
-.chips__pile:nth-child(8) .chip--exchange-to-dealer:nth-child(5) {
+.chips__pile:nth-child(8) .chip.chip--exchange-to-dealer-4 {
   -webkit-transform: translate(calc(50vw - 224px - 35px), calc(-4px - 50vh));
           transform: translate(calc(50vw - 224px - 35px), calc(-4px - 50vh));
 }
-.chips__pile:nth-child(8) .chip--exchange-to-dealer:nth-child(4) {
+.chips__pile:nth-child(8) .chip.chip--exchange-to-dealer-3 {
   -webkit-transform: translate(calc(50vw - 224px - 35px), calc(-3px - 50vh));
           transform: translate(calc(50vw - 224px - 35px), calc(-3px - 50vh));
 }
-.chips__pile:nth-child(8) .chip--exchange-to-dealer:nth-child(3) {
+.chips__pile:nth-child(8) .chip.chip--exchange-to-dealer-2 {
   -webkit-transform: translate(calc(50vw - 224px - 35px), calc(-2px - 50vh));
           transform: translate(calc(50vw - 224px - 35px), calc(-2px - 50vh));
 }
-.chips__pile:nth-child(8) .chip--exchange-to-dealer:nth-child(2) {
+.chips__pile:nth-child(8) .chip.chip--exchange-to-dealer-1 {
   -webkit-transform: translate(calc(50vw - 224px - 35px), calc(-1px - 50vh));
           transform: translate(calc(50vw - 224px - 35px), calc(-1px - 50vh));
 }
-.chips__pile:nth-child(8) .chip--exchange-to-dealer:nth-child(1) {
-  -webkit-transform: translate(calc(50vw - 224px - 35px), calc(0px - 50vh));
-          transform: translate(calc(50vw - 224px - 35px), calc(0px - 50vh));
+.chips__pile:nth-child(8) .chip.chip--exchange-to-dealer-0 {
+  -webkit-transform: translate(calc(50vw - 224px - 35px), -50vh);
+          transform: translate(calc(50vw - 224px - 35px), -50vh);
 }
-.chips__pile:nth-child(7) .chip--exchange-to-dealer:nth-child(10) {
-  -webkit-transform: translate(calc(50vw - 192px - 35px), calc(-9px - 50vh));
-          transform: translate(calc(50vw - 192px - 35px), calc(-9px - 50vh));
-}
-.chips__pile:nth-child(7) .chip--exchange-to-dealer:nth-child(9) {
-  -webkit-transform: translate(calc(50vw - 192px - 35px), calc(-8px - 50vh));
-          transform: translate(calc(50vw - 192px - 35px), calc(-8px - 50vh));
-}
-.chips__pile:nth-child(7) .chip--exchange-to-dealer:nth-child(8) {
-  -webkit-transform: translate(calc(50vw - 192px - 35px), calc(-7px - 50vh));
-          transform: translate(calc(50vw - 192px - 35px), calc(-7px - 50vh));
-}
-.chips__pile:nth-child(7) .chip--exchange-to-dealer:nth-child(7) {
-  -webkit-transform: translate(calc(50vw - 192px - 35px), calc(-6px - 50vh));
-          transform: translate(calc(50vw - 192px - 35px), calc(-6px - 50vh));
-}
-.chips__pile:nth-child(7) .chip--exchange-to-dealer:nth-child(6) {
-  -webkit-transform: translate(calc(50vw - 192px - 35px), calc(-5px - 50vh));
-          transform: translate(calc(50vw - 192px - 35px), calc(-5px - 50vh));
-}
-.chips__pile:nth-child(7) .chip--exchange-to-dealer:nth-child(5) {
+.chips__pile:nth-child(7) .chip.chip--exchange-to-dealer-4 {
   -webkit-transform: translate(calc(50vw - 192px - 35px), calc(-4px - 50vh));
           transform: translate(calc(50vw - 192px - 35px), calc(-4px - 50vh));
 }
-.chips__pile:nth-child(7) .chip--exchange-to-dealer:nth-child(4) {
+.chips__pile:nth-child(7) .chip.chip--exchange-to-dealer-3 {
   -webkit-transform: translate(calc(50vw - 192px - 35px), calc(-3px - 50vh));
           transform: translate(calc(50vw - 192px - 35px), calc(-3px - 50vh));
 }
-.chips__pile:nth-child(7) .chip--exchange-to-dealer:nth-child(3) {
+.chips__pile:nth-child(7) .chip.chip--exchange-to-dealer-2 {
   -webkit-transform: translate(calc(50vw - 192px - 35px), calc(-2px - 50vh));
           transform: translate(calc(50vw - 192px - 35px), calc(-2px - 50vh));
 }
-.chips__pile:nth-child(7) .chip--exchange-to-dealer:nth-child(2) {
+.chips__pile:nth-child(7) .chip.chip--exchange-to-dealer-1 {
   -webkit-transform: translate(calc(50vw - 192px - 35px), calc(-1px - 50vh));
           transform: translate(calc(50vw - 192px - 35px), calc(-1px - 50vh));
 }
-.chips__pile:nth-child(7) .chip--exchange-to-dealer:nth-child(1) {
-  -webkit-transform: translate(calc(50vw - 192px - 35px), calc(0px - 50vh));
-          transform: translate(calc(50vw - 192px - 35px), calc(0px - 50vh));
+.chips__pile:nth-child(7) .chip.chip--exchange-to-dealer-0 {
+  -webkit-transform: translate(calc(50vw - 192px - 35px), -50vh);
+          transform: translate(calc(50vw - 192px - 35px), -50vh);
 }
-.chips__pile:nth-child(6) .chip--exchange-to-dealer:nth-child(10) {
-  -webkit-transform: translate(calc(50vw - 160px - 35px), calc(-9px - 50vh));
-          transform: translate(calc(50vw - 160px - 35px), calc(-9px - 50vh));
-}
-.chips__pile:nth-child(6) .chip--exchange-to-dealer:nth-child(9) {
-  -webkit-transform: translate(calc(50vw - 160px - 35px), calc(-8px - 50vh));
-          transform: translate(calc(50vw - 160px - 35px), calc(-8px - 50vh));
-}
-.chips__pile:nth-child(6) .chip--exchange-to-dealer:nth-child(8) {
-  -webkit-transform: translate(calc(50vw - 160px - 35px), calc(-7px - 50vh));
-          transform: translate(calc(50vw - 160px - 35px), calc(-7px - 50vh));
-}
-.chips__pile:nth-child(6) .chip--exchange-to-dealer:nth-child(7) {
-  -webkit-transform: translate(calc(50vw - 160px - 35px), calc(-6px - 50vh));
-          transform: translate(calc(50vw - 160px - 35px), calc(-6px - 50vh));
-}
-.chips__pile:nth-child(6) .chip--exchange-to-dealer:nth-child(6) {
-  -webkit-transform: translate(calc(50vw - 160px - 35px), calc(-5px - 50vh));
-          transform: translate(calc(50vw - 160px - 35px), calc(-5px - 50vh));
-}
-.chips__pile:nth-child(6) .chip--exchange-to-dealer:nth-child(5) {
+.chips__pile:nth-child(6) .chip.chip--exchange-to-dealer-4 {
   -webkit-transform: translate(calc(50vw - 160px - 35px), calc(-4px - 50vh));
           transform: translate(calc(50vw - 160px - 35px), calc(-4px - 50vh));
 }
-.chips__pile:nth-child(6) .chip--exchange-to-dealer:nth-child(4) {
+.chips__pile:nth-child(6) .chip.chip--exchange-to-dealer-3 {
   -webkit-transform: translate(calc(50vw - 160px - 35px), calc(-3px - 50vh));
           transform: translate(calc(50vw - 160px - 35px), calc(-3px - 50vh));
 }
-.chips__pile:nth-child(6) .chip--exchange-to-dealer:nth-child(3) {
+.chips__pile:nth-child(6) .chip.chip--exchange-to-dealer-2 {
   -webkit-transform: translate(calc(50vw - 160px - 35px), calc(-2px - 50vh));
           transform: translate(calc(50vw - 160px - 35px), calc(-2px - 50vh));
 }
-.chips__pile:nth-child(6) .chip--exchange-to-dealer:nth-child(2) {
+.chips__pile:nth-child(6) .chip.chip--exchange-to-dealer-1 {
   -webkit-transform: translate(calc(50vw - 160px - 35px), calc(-1px - 50vh));
           transform: translate(calc(50vw - 160px - 35px), calc(-1px - 50vh));
 }
-.chips__pile:nth-child(6) .chip--exchange-to-dealer:nth-child(1) {
-  -webkit-transform: translate(calc(50vw - 160px - 35px), calc(0px - 50vh));
-          transform: translate(calc(50vw - 160px - 35px), calc(0px - 50vh));
+.chips__pile:nth-child(6) .chip.chip--exchange-to-dealer-0 {
+  -webkit-transform: translate(calc(50vw - 160px - 35px), -50vh);
+          transform: translate(calc(50vw - 160px - 35px), -50vh);
 }
-.chips__pile:nth-child(5) .chip--exchange-to-dealer:nth-child(10) {
-  -webkit-transform: translate(calc(50vw - 128px - 35px), calc(-9px - 50vh));
-          transform: translate(calc(50vw - 128px - 35px), calc(-9px - 50vh));
-}
-.chips__pile:nth-child(5) .chip--exchange-to-dealer:nth-child(9) {
-  -webkit-transform: translate(calc(50vw - 128px - 35px), calc(-8px - 50vh));
-          transform: translate(calc(50vw - 128px - 35px), calc(-8px - 50vh));
-}
-.chips__pile:nth-child(5) .chip--exchange-to-dealer:nth-child(8) {
-  -webkit-transform: translate(calc(50vw - 128px - 35px), calc(-7px - 50vh));
-          transform: translate(calc(50vw - 128px - 35px), calc(-7px - 50vh));
-}
-.chips__pile:nth-child(5) .chip--exchange-to-dealer:nth-child(7) {
-  -webkit-transform: translate(calc(50vw - 128px - 35px), calc(-6px - 50vh));
-          transform: translate(calc(50vw - 128px - 35px), calc(-6px - 50vh));
-}
-.chips__pile:nth-child(5) .chip--exchange-to-dealer:nth-child(6) {
-  -webkit-transform: translate(calc(50vw - 128px - 35px), calc(-5px - 50vh));
-          transform: translate(calc(50vw - 128px - 35px), calc(-5px - 50vh));
-}
-.chips__pile:nth-child(5) .chip--exchange-to-dealer:nth-child(5) {
+.chips__pile:nth-child(5) .chip.chip--exchange-to-dealer-4 {
   -webkit-transform: translate(calc(50vw - 128px - 35px), calc(-4px - 50vh));
           transform: translate(calc(50vw - 128px - 35px), calc(-4px - 50vh));
 }
-.chips__pile:nth-child(5) .chip--exchange-to-dealer:nth-child(4) {
+.chips__pile:nth-child(5) .chip.chip--exchange-to-dealer-3 {
   -webkit-transform: translate(calc(50vw - 128px - 35px), calc(-3px - 50vh));
           transform: translate(calc(50vw - 128px - 35px), calc(-3px - 50vh));
 }
-.chips__pile:nth-child(5) .chip--exchange-to-dealer:nth-child(3) {
+.chips__pile:nth-child(5) .chip.chip--exchange-to-dealer-2 {
   -webkit-transform: translate(calc(50vw - 128px - 35px), calc(-2px - 50vh));
           transform: translate(calc(50vw - 128px - 35px), calc(-2px - 50vh));
 }
-.chips__pile:nth-child(5) .chip--exchange-to-dealer:nth-child(2) {
+.chips__pile:nth-child(5) .chip.chip--exchange-to-dealer-1 {
   -webkit-transform: translate(calc(50vw - 128px - 35px), calc(-1px - 50vh));
           transform: translate(calc(50vw - 128px - 35px), calc(-1px - 50vh));
 }
-.chips__pile:nth-child(5) .chip--exchange-to-dealer:nth-child(1) {
-  -webkit-transform: translate(calc(50vw - 128px - 35px), calc(0px - 50vh));
-          transform: translate(calc(50vw - 128px - 35px), calc(0px - 50vh));
+.chips__pile:nth-child(5) .chip.chip--exchange-to-dealer-0 {
+  -webkit-transform: translate(calc(50vw - 128px - 35px), -50vh);
+          transform: translate(calc(50vw - 128px - 35px), -50vh);
 }
-.chips__pile:nth-child(4) .chip--exchange-to-dealer:nth-child(10) {
-  -webkit-transform: translate(calc(50vw - 96px - 35px), calc(-9px - 50vh));
-          transform: translate(calc(50vw - 96px - 35px), calc(-9px - 50vh));
-}
-.chips__pile:nth-child(4) .chip--exchange-to-dealer:nth-child(9) {
-  -webkit-transform: translate(calc(50vw - 96px - 35px), calc(-8px - 50vh));
-          transform: translate(calc(50vw - 96px - 35px), calc(-8px - 50vh));
-}
-.chips__pile:nth-child(4) .chip--exchange-to-dealer:nth-child(8) {
-  -webkit-transform: translate(calc(50vw - 96px - 35px), calc(-7px - 50vh));
-          transform: translate(calc(50vw - 96px - 35px), calc(-7px - 50vh));
-}
-.chips__pile:nth-child(4) .chip--exchange-to-dealer:nth-child(7) {
-  -webkit-transform: translate(calc(50vw - 96px - 35px), calc(-6px - 50vh));
-          transform: translate(calc(50vw - 96px - 35px), calc(-6px - 50vh));
-}
-.chips__pile:nth-child(4) .chip--exchange-to-dealer:nth-child(6) {
-  -webkit-transform: translate(calc(50vw - 96px - 35px), calc(-5px - 50vh));
-          transform: translate(calc(50vw - 96px - 35px), calc(-5px - 50vh));
-}
-.chips__pile:nth-child(4) .chip--exchange-to-dealer:nth-child(5) {
+.chips__pile:nth-child(4) .chip.chip--exchange-to-dealer-4 {
   -webkit-transform: translate(calc(50vw - 96px - 35px), calc(-4px - 50vh));
           transform: translate(calc(50vw - 96px - 35px), calc(-4px - 50vh));
 }
-.chips__pile:nth-child(4) .chip--exchange-to-dealer:nth-child(4) {
+.chips__pile:nth-child(4) .chip.chip--exchange-to-dealer-3 {
   -webkit-transform: translate(calc(50vw - 96px - 35px), calc(-3px - 50vh));
           transform: translate(calc(50vw - 96px - 35px), calc(-3px - 50vh));
 }
-.chips__pile:nth-child(4) .chip--exchange-to-dealer:nth-child(3) {
+.chips__pile:nth-child(4) .chip.chip--exchange-to-dealer-2 {
   -webkit-transform: translate(calc(50vw - 96px - 35px), calc(-2px - 50vh));
           transform: translate(calc(50vw - 96px - 35px), calc(-2px - 50vh));
 }
-.chips__pile:nth-child(4) .chip--exchange-to-dealer:nth-child(2) {
+.chips__pile:nth-child(4) .chip.chip--exchange-to-dealer-1 {
   -webkit-transform: translate(calc(50vw - 96px - 35px), calc(-1px - 50vh));
           transform: translate(calc(50vw - 96px - 35px), calc(-1px - 50vh));
 }
-.chips__pile:nth-child(4) .chip--exchange-to-dealer:nth-child(1) {
-  -webkit-transform: translate(calc(50vw - 96px - 35px), calc(0px - 50vh));
-          transform: translate(calc(50vw - 96px - 35px), calc(0px - 50vh));
+.chips__pile:nth-child(4) .chip.chip--exchange-to-dealer-0 {
+  -webkit-transform: translate(calc(50vw - 96px - 35px), -50vh);
+          transform: translate(calc(50vw - 96px - 35px), -50vh);
 }
-.chips__pile:nth-child(3) .chip--exchange-to-dealer:nth-child(10) {
-  -webkit-transform: translate(calc(50vw - 64px - 35px), calc(-9px - 50vh));
-          transform: translate(calc(50vw - 64px - 35px), calc(-9px - 50vh));
-}
-.chips__pile:nth-child(3) .chip--exchange-to-dealer:nth-child(9) {
-  -webkit-transform: translate(calc(50vw - 64px - 35px), calc(-8px - 50vh));
-          transform: translate(calc(50vw - 64px - 35px), calc(-8px - 50vh));
-}
-.chips__pile:nth-child(3) .chip--exchange-to-dealer:nth-child(8) {
-  -webkit-transform: translate(calc(50vw - 64px - 35px), calc(-7px - 50vh));
-          transform: translate(calc(50vw - 64px - 35px), calc(-7px - 50vh));
-}
-.chips__pile:nth-child(3) .chip--exchange-to-dealer:nth-child(7) {
-  -webkit-transform: translate(calc(50vw - 64px - 35px), calc(-6px - 50vh));
-          transform: translate(calc(50vw - 64px - 35px), calc(-6px - 50vh));
-}
-.chips__pile:nth-child(3) .chip--exchange-to-dealer:nth-child(6) {
-  -webkit-transform: translate(calc(50vw - 64px - 35px), calc(-5px - 50vh));
-          transform: translate(calc(50vw - 64px - 35px), calc(-5px - 50vh));
-}
-.chips__pile:nth-child(3) .chip--exchange-to-dealer:nth-child(5) {
+.chips__pile:nth-child(3) .chip.chip--exchange-to-dealer-4 {
   -webkit-transform: translate(calc(50vw - 64px - 35px), calc(-4px - 50vh));
           transform: translate(calc(50vw - 64px - 35px), calc(-4px - 50vh));
 }
-.chips__pile:nth-child(3) .chip--exchange-to-dealer:nth-child(4) {
+.chips__pile:nth-child(3) .chip.chip--exchange-to-dealer-3 {
   -webkit-transform: translate(calc(50vw - 64px - 35px), calc(-3px - 50vh));
           transform: translate(calc(50vw - 64px - 35px), calc(-3px - 50vh));
 }
-.chips__pile:nth-child(3) .chip--exchange-to-dealer:nth-child(3) {
+.chips__pile:nth-child(3) .chip.chip--exchange-to-dealer-2 {
   -webkit-transform: translate(calc(50vw - 64px - 35px), calc(-2px - 50vh));
           transform: translate(calc(50vw - 64px - 35px), calc(-2px - 50vh));
 }
-.chips__pile:nth-child(3) .chip--exchange-to-dealer:nth-child(2) {
+.chips__pile:nth-child(3) .chip.chip--exchange-to-dealer-1 {
   -webkit-transform: translate(calc(50vw - 64px - 35px), calc(-1px - 50vh));
           transform: translate(calc(50vw - 64px - 35px), calc(-1px - 50vh));
 }
-.chips__pile:nth-child(3) .chip--exchange-to-dealer:nth-child(1) {
-  -webkit-transform: translate(calc(50vw - 64px - 35px), calc(0px - 50vh));
-          transform: translate(calc(50vw - 64px - 35px), calc(0px - 50vh));
+.chips__pile:nth-child(3) .chip.chip--exchange-to-dealer-0 {
+  -webkit-transform: translate(calc(50vw - 64px - 35px), -50vh);
+          transform: translate(calc(50vw - 64px - 35px), -50vh);
 }
-.chips__pile:nth-child(2) .chip--exchange-to-dealer:nth-child(10) {
-  -webkit-transform: translate(calc(50vw - 32px - 35px), calc(-9px - 50vh));
-          transform: translate(calc(50vw - 32px - 35px), calc(-9px - 50vh));
-}
-.chips__pile:nth-child(2) .chip--exchange-to-dealer:nth-child(9) {
-  -webkit-transform: translate(calc(50vw - 32px - 35px), calc(-8px - 50vh));
-          transform: translate(calc(50vw - 32px - 35px), calc(-8px - 50vh));
-}
-.chips__pile:nth-child(2) .chip--exchange-to-dealer:nth-child(8) {
-  -webkit-transform: translate(calc(50vw - 32px - 35px), calc(-7px - 50vh));
-          transform: translate(calc(50vw - 32px - 35px), calc(-7px - 50vh));
-}
-.chips__pile:nth-child(2) .chip--exchange-to-dealer:nth-child(7) {
-  -webkit-transform: translate(calc(50vw - 32px - 35px), calc(-6px - 50vh));
-          transform: translate(calc(50vw - 32px - 35px), calc(-6px - 50vh));
-}
-.chips__pile:nth-child(2) .chip--exchange-to-dealer:nth-child(6) {
-  -webkit-transform: translate(calc(50vw - 32px - 35px), calc(-5px - 50vh));
-          transform: translate(calc(50vw - 32px - 35px), calc(-5px - 50vh));
-}
-.chips__pile:nth-child(2) .chip--exchange-to-dealer:nth-child(5) {
+.chips__pile:nth-child(2) .chip.chip--exchange-to-dealer-4 {
   -webkit-transform: translate(calc(50vw - 32px - 35px), calc(-4px - 50vh));
           transform: translate(calc(50vw - 32px - 35px), calc(-4px - 50vh));
 }
-.chips__pile:nth-child(2) .chip--exchange-to-dealer:nth-child(4) {
+.chips__pile:nth-child(2) .chip.chip--exchange-to-dealer-3 {
   -webkit-transform: translate(calc(50vw - 32px - 35px), calc(-3px - 50vh));
           transform: translate(calc(50vw - 32px - 35px), calc(-3px - 50vh));
 }
-.chips__pile:nth-child(2) .chip--exchange-to-dealer:nth-child(3) {
+.chips__pile:nth-child(2) .chip.chip--exchange-to-dealer-2 {
   -webkit-transform: translate(calc(50vw - 32px - 35px), calc(-2px - 50vh));
           transform: translate(calc(50vw - 32px - 35px), calc(-2px - 50vh));
 }
-.chips__pile:nth-child(2) .chip--exchange-to-dealer:nth-child(2) {
+.chips__pile:nth-child(2) .chip.chip--exchange-to-dealer-1 {
   -webkit-transform: translate(calc(50vw - 32px - 35px), calc(-1px - 50vh));
           transform: translate(calc(50vw - 32px - 35px), calc(-1px - 50vh));
 }
-.chips__pile:nth-child(2) .chip--exchange-to-dealer:nth-child(1) {
-  -webkit-transform: translate(calc(50vw - 32px - 35px), calc(0px - 50vh));
-          transform: translate(calc(50vw - 32px - 35px), calc(0px - 50vh));
+.chips__pile:nth-child(2) .chip.chip--exchange-to-dealer-0 {
+  -webkit-transform: translate(calc(50vw - 32px - 35px), -50vh);
+          transform: translate(calc(50vw - 32px - 35px), -50vh);
 }
-.chips__pile:nth-child(1) .chip--exchange-to-dealer:nth-child(10) {
-  -webkit-transform: translate(calc(50vw - 0px - 35px), calc(-9px - 50vh));
-          transform: translate(calc(50vw - 0px - 35px), calc(-9px - 50vh));
-}
-.chips__pile:nth-child(1) .chip--exchange-to-dealer:nth-child(9) {
-  -webkit-transform: translate(calc(50vw - 0px - 35px), calc(-8px - 50vh));
-          transform: translate(calc(50vw - 0px - 35px), calc(-8px - 50vh));
-}
-.chips__pile:nth-child(1) .chip--exchange-to-dealer:nth-child(8) {
-  -webkit-transform: translate(calc(50vw - 0px - 35px), calc(-7px - 50vh));
-          transform: translate(calc(50vw - 0px - 35px), calc(-7px - 50vh));
-}
-.chips__pile:nth-child(1) .chip--exchange-to-dealer:nth-child(7) {
-  -webkit-transform: translate(calc(50vw - 0px - 35px), calc(-6px - 50vh));
-          transform: translate(calc(50vw - 0px - 35px), calc(-6px - 50vh));
-}
-.chips__pile:nth-child(1) .chip--exchange-to-dealer:nth-child(6) {
-  -webkit-transform: translate(calc(50vw - 0px - 35px), calc(-5px - 50vh));
-          transform: translate(calc(50vw - 0px - 35px), calc(-5px - 50vh));
-}
-.chips__pile:nth-child(1) .chip--exchange-to-dealer:nth-child(5) {
+.chips__pile:nth-child(1) .chip.chip--exchange-to-dealer-4 {
   -webkit-transform: translate(calc(50vw - 0px - 35px), calc(-4px - 50vh));
           transform: translate(calc(50vw - 0px - 35px), calc(-4px - 50vh));
 }
-.chips__pile:nth-child(1) .chip--exchange-to-dealer:nth-child(4) {
+.chips__pile:nth-child(1) .chip.chip--exchange-to-dealer-3 {
   -webkit-transform: translate(calc(50vw - 0px - 35px), calc(-3px - 50vh));
           transform: translate(calc(50vw - 0px - 35px), calc(-3px - 50vh));
 }
-.chips__pile:nth-child(1) .chip--exchange-to-dealer:nth-child(3) {
+.chips__pile:nth-child(1) .chip.chip--exchange-to-dealer-2 {
   -webkit-transform: translate(calc(50vw - 0px - 35px), calc(-2px - 50vh));
           transform: translate(calc(50vw - 0px - 35px), calc(-2px - 50vh));
 }
-.chips__pile:nth-child(1) .chip--exchange-to-dealer:nth-child(2) {
+.chips__pile:nth-child(1) .chip.chip--exchange-to-dealer-1 {
   -webkit-transform: translate(calc(50vw - 0px - 35px), calc(-1px - 50vh));
           transform: translate(calc(50vw - 0px - 35px), calc(-1px - 50vh));
 }
-.chips__pile:nth-child(1) .chip--exchange-to-dealer:nth-child(1) {
-  -webkit-transform: translate(calc(50vw - 0px - 35px), calc(0px - 50vh));
-          transform: translate(calc(50vw - 0px - 35px), calc(0px - 50vh));
+.chips__pile:nth-child(1) .chip.chip--exchange-to-dealer-0 {
+  -webkit-transform: translate(calc(50vw - 0px - 35px), -50vh);
+          transform: translate(calc(50vw - 0px - 35px), -50vh);
 }
-.chips__pile:nth-child(20) .chip--exchange-to-dealer.chip--split-5:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 608px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 608px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(20) .chip--exchange-to-dealer.chip--split-4:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 608px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 608px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(20) .chip--exchange-to-dealer.chip--split-3:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 608px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 608px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(20) .chip--exchange-to-dealer.chip--split-2:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 608px - 35px + -60px), -50vh);
-          transform: translate(calc(50vw - 608px - 35px + -60px), -50vh);
-}
-.chips__pile:nth-child(20) .chip--exchange-to-dealer.chip--split-5:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 608px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 608px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(20) .chip--exchange-to-dealer.chip--split-4:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 608px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 608px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(20) .chip--exchange-to-dealer.chip--split-3:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 608px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 608px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(20) .chip--exchange-to-dealer.chip--split-2:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 608px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 608px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(20) .chip--exchange-to-dealer.chip--split-5:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 608px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 608px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(20) .chip--exchange-to-dealer.chip--split-4:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 608px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 608px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(20) .chip--exchange-to-dealer.chip--split-3:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 608px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 608px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(20) .chip--exchange-to-dealer.chip--split-2:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 608px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 608px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(20) .chip--exchange-to-dealer.chip--split-5:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 608px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 608px - 35px + 60px), -50vh);
-}
-.chips__pile:nth-child(20) .chip--exchange-to-dealer.chip--split-4:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 608px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 608px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(20) .chip--exchange-to-dealer.chip--split-3:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 608px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 608px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(20) .chip--exchange-to-dealer.chip--split-2:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 608px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 608px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(20) .chip--exchange-to-dealer.chip--split-5:nth-last-child(1) {
+.chips__pile:nth-child(20) .chip.chip--split-4 {
   -webkit-transform: translate(calc(50vw - 608px - 35px + 80px), -50vh);
           transform: translate(calc(50vw - 608px - 35px + 80px), -50vh);
 }
-.chips__pile:nth-child(20) .chip--exchange-to-dealer.chip--split-4:nth-last-child(1) {
+.chips__pile:nth-child(20) .chip.chip--split-3 {
   -webkit-transform: translate(calc(50vw - 608px - 35px + 60px), -50vh);
           transform: translate(calc(50vw - 608px - 35px + 60px), -50vh);
 }
-.chips__pile:nth-child(20) .chip--exchange-to-dealer.chip--split-3:nth-last-child(1) {
+.chips__pile:nth-child(20) .chip.chip--split-2 {
   -webkit-transform: translate(calc(50vw - 608px - 35px + 40px), -50vh);
           transform: translate(calc(50vw - 608px - 35px + 40px), -50vh);
 }
-.chips__pile:nth-child(20) .chip--exchange-to-dealer.chip--split-2:nth-last-child(1) {
+.chips__pile:nth-child(20) .chip.chip--split-1 {
   -webkit-transform: translate(calc(50vw - 608px - 35px + 20px), -50vh);
           transform: translate(calc(50vw - 608px - 35px + 20px), -50vh);
 }
-.chips__pile:nth-child(19) .chip--exchange-to-dealer.chip--split-5:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 576px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 576px - 35px + 0px), -50vh);
+.chips__pile:nth-child(20) .chip.chip--split-0 {
+  -webkit-transform: translate(calc(50vw - 608px - 35px), -50vh);
+          transform: translate(calc(50vw - 608px - 35px), -50vh);
 }
-.chips__pile:nth-child(19) .chip--exchange-to-dealer.chip--split-4:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 576px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 576px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(19) .chip--exchange-to-dealer.chip--split-3:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 576px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 576px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(19) .chip--exchange-to-dealer.chip--split-2:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 576px - 35px + -60px), -50vh);
-          transform: translate(calc(50vw - 576px - 35px + -60px), -50vh);
-}
-.chips__pile:nth-child(19) .chip--exchange-to-dealer.chip--split-5:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 576px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 576px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(19) .chip--exchange-to-dealer.chip--split-4:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 576px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 576px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(19) .chip--exchange-to-dealer.chip--split-3:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 576px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 576px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(19) .chip--exchange-to-dealer.chip--split-2:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 576px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 576px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(19) .chip--exchange-to-dealer.chip--split-5:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 576px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 576px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(19) .chip--exchange-to-dealer.chip--split-4:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 576px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 576px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(19) .chip--exchange-to-dealer.chip--split-3:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 576px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 576px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(19) .chip--exchange-to-dealer.chip--split-2:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 576px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 576px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(19) .chip--exchange-to-dealer.chip--split-5:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 576px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 576px - 35px + 60px), -50vh);
-}
-.chips__pile:nth-child(19) .chip--exchange-to-dealer.chip--split-4:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 576px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 576px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(19) .chip--exchange-to-dealer.chip--split-3:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 576px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 576px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(19) .chip--exchange-to-dealer.chip--split-2:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 576px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 576px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(19) .chip--exchange-to-dealer.chip--split-5:nth-last-child(1) {
+.chips__pile:nth-child(19) .chip.chip--split-4 {
   -webkit-transform: translate(calc(50vw - 576px - 35px + 80px), -50vh);
           transform: translate(calc(50vw - 576px - 35px + 80px), -50vh);
 }
-.chips__pile:nth-child(19) .chip--exchange-to-dealer.chip--split-4:nth-last-child(1) {
+.chips__pile:nth-child(19) .chip.chip--split-3 {
   -webkit-transform: translate(calc(50vw - 576px - 35px + 60px), -50vh);
           transform: translate(calc(50vw - 576px - 35px + 60px), -50vh);
 }
-.chips__pile:nth-child(19) .chip--exchange-to-dealer.chip--split-3:nth-last-child(1) {
+.chips__pile:nth-child(19) .chip.chip--split-2 {
   -webkit-transform: translate(calc(50vw - 576px - 35px + 40px), -50vh);
           transform: translate(calc(50vw - 576px - 35px + 40px), -50vh);
 }
-.chips__pile:nth-child(19) .chip--exchange-to-dealer.chip--split-2:nth-last-child(1) {
+.chips__pile:nth-child(19) .chip.chip--split-1 {
   -webkit-transform: translate(calc(50vw - 576px - 35px + 20px), -50vh);
           transform: translate(calc(50vw - 576px - 35px + 20px), -50vh);
 }
-.chips__pile:nth-child(18) .chip--exchange-to-dealer.chip--split-5:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 544px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 544px - 35px + 0px), -50vh);
+.chips__pile:nth-child(19) .chip.chip--split-0 {
+  -webkit-transform: translate(calc(50vw - 576px - 35px), -50vh);
+          transform: translate(calc(50vw - 576px - 35px), -50vh);
 }
-.chips__pile:nth-child(18) .chip--exchange-to-dealer.chip--split-4:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 544px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 544px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(18) .chip--exchange-to-dealer.chip--split-3:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 544px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 544px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(18) .chip--exchange-to-dealer.chip--split-2:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 544px - 35px + -60px), -50vh);
-          transform: translate(calc(50vw - 544px - 35px + -60px), -50vh);
-}
-.chips__pile:nth-child(18) .chip--exchange-to-dealer.chip--split-5:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 544px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 544px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(18) .chip--exchange-to-dealer.chip--split-4:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 544px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 544px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(18) .chip--exchange-to-dealer.chip--split-3:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 544px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 544px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(18) .chip--exchange-to-dealer.chip--split-2:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 544px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 544px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(18) .chip--exchange-to-dealer.chip--split-5:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 544px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 544px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(18) .chip--exchange-to-dealer.chip--split-4:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 544px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 544px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(18) .chip--exchange-to-dealer.chip--split-3:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 544px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 544px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(18) .chip--exchange-to-dealer.chip--split-2:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 544px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 544px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(18) .chip--exchange-to-dealer.chip--split-5:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 544px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 544px - 35px + 60px), -50vh);
-}
-.chips__pile:nth-child(18) .chip--exchange-to-dealer.chip--split-4:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 544px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 544px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(18) .chip--exchange-to-dealer.chip--split-3:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 544px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 544px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(18) .chip--exchange-to-dealer.chip--split-2:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 544px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 544px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(18) .chip--exchange-to-dealer.chip--split-5:nth-last-child(1) {
+.chips__pile:nth-child(18) .chip.chip--split-4 {
   -webkit-transform: translate(calc(50vw - 544px - 35px + 80px), -50vh);
           transform: translate(calc(50vw - 544px - 35px + 80px), -50vh);
 }
-.chips__pile:nth-child(18) .chip--exchange-to-dealer.chip--split-4:nth-last-child(1) {
+.chips__pile:nth-child(18) .chip.chip--split-3 {
   -webkit-transform: translate(calc(50vw - 544px - 35px + 60px), -50vh);
           transform: translate(calc(50vw - 544px - 35px + 60px), -50vh);
 }
-.chips__pile:nth-child(18) .chip--exchange-to-dealer.chip--split-3:nth-last-child(1) {
+.chips__pile:nth-child(18) .chip.chip--split-2 {
   -webkit-transform: translate(calc(50vw - 544px - 35px + 40px), -50vh);
           transform: translate(calc(50vw - 544px - 35px + 40px), -50vh);
 }
-.chips__pile:nth-child(18) .chip--exchange-to-dealer.chip--split-2:nth-last-child(1) {
+.chips__pile:nth-child(18) .chip.chip--split-1 {
   -webkit-transform: translate(calc(50vw - 544px - 35px + 20px), -50vh);
           transform: translate(calc(50vw - 544px - 35px + 20px), -50vh);
 }
-.chips__pile:nth-child(17) .chip--exchange-to-dealer.chip--split-5:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 512px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 512px - 35px + 0px), -50vh);
+.chips__pile:nth-child(18) .chip.chip--split-0 {
+  -webkit-transform: translate(calc(50vw - 544px - 35px), -50vh);
+          transform: translate(calc(50vw - 544px - 35px), -50vh);
 }
-.chips__pile:nth-child(17) .chip--exchange-to-dealer.chip--split-4:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 512px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 512px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(17) .chip--exchange-to-dealer.chip--split-3:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 512px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 512px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(17) .chip--exchange-to-dealer.chip--split-2:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 512px - 35px + -60px), -50vh);
-          transform: translate(calc(50vw - 512px - 35px + -60px), -50vh);
-}
-.chips__pile:nth-child(17) .chip--exchange-to-dealer.chip--split-5:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 512px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 512px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(17) .chip--exchange-to-dealer.chip--split-4:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 512px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 512px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(17) .chip--exchange-to-dealer.chip--split-3:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 512px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 512px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(17) .chip--exchange-to-dealer.chip--split-2:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 512px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 512px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(17) .chip--exchange-to-dealer.chip--split-5:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 512px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 512px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(17) .chip--exchange-to-dealer.chip--split-4:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 512px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 512px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(17) .chip--exchange-to-dealer.chip--split-3:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 512px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 512px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(17) .chip--exchange-to-dealer.chip--split-2:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 512px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 512px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(17) .chip--exchange-to-dealer.chip--split-5:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 512px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 512px - 35px + 60px), -50vh);
-}
-.chips__pile:nth-child(17) .chip--exchange-to-dealer.chip--split-4:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 512px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 512px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(17) .chip--exchange-to-dealer.chip--split-3:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 512px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 512px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(17) .chip--exchange-to-dealer.chip--split-2:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 512px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 512px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(17) .chip--exchange-to-dealer.chip--split-5:nth-last-child(1) {
+.chips__pile:nth-child(17) .chip.chip--split-4 {
   -webkit-transform: translate(calc(50vw - 512px - 35px + 80px), -50vh);
           transform: translate(calc(50vw - 512px - 35px + 80px), -50vh);
 }
-.chips__pile:nth-child(17) .chip--exchange-to-dealer.chip--split-4:nth-last-child(1) {
+.chips__pile:nth-child(17) .chip.chip--split-3 {
   -webkit-transform: translate(calc(50vw - 512px - 35px + 60px), -50vh);
           transform: translate(calc(50vw - 512px - 35px + 60px), -50vh);
 }
-.chips__pile:nth-child(17) .chip--exchange-to-dealer.chip--split-3:nth-last-child(1) {
+.chips__pile:nth-child(17) .chip.chip--split-2 {
   -webkit-transform: translate(calc(50vw - 512px - 35px + 40px), -50vh);
           transform: translate(calc(50vw - 512px - 35px + 40px), -50vh);
 }
-.chips__pile:nth-child(17) .chip--exchange-to-dealer.chip--split-2:nth-last-child(1) {
+.chips__pile:nth-child(17) .chip.chip--split-1 {
   -webkit-transform: translate(calc(50vw - 512px - 35px + 20px), -50vh);
           transform: translate(calc(50vw - 512px - 35px + 20px), -50vh);
 }
-.chips__pile:nth-child(16) .chip--exchange-to-dealer.chip--split-5:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 480px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 480px - 35px + 0px), -50vh);
+.chips__pile:nth-child(17) .chip.chip--split-0 {
+  -webkit-transform: translate(calc(50vw - 512px - 35px), -50vh);
+          transform: translate(calc(50vw - 512px - 35px), -50vh);
 }
-.chips__pile:nth-child(16) .chip--exchange-to-dealer.chip--split-4:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 480px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 480px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(16) .chip--exchange-to-dealer.chip--split-3:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 480px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 480px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(16) .chip--exchange-to-dealer.chip--split-2:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 480px - 35px + -60px), -50vh);
-          transform: translate(calc(50vw - 480px - 35px + -60px), -50vh);
-}
-.chips__pile:nth-child(16) .chip--exchange-to-dealer.chip--split-5:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 480px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 480px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(16) .chip--exchange-to-dealer.chip--split-4:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 480px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 480px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(16) .chip--exchange-to-dealer.chip--split-3:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 480px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 480px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(16) .chip--exchange-to-dealer.chip--split-2:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 480px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 480px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(16) .chip--exchange-to-dealer.chip--split-5:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 480px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 480px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(16) .chip--exchange-to-dealer.chip--split-4:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 480px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 480px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(16) .chip--exchange-to-dealer.chip--split-3:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 480px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 480px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(16) .chip--exchange-to-dealer.chip--split-2:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 480px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 480px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(16) .chip--exchange-to-dealer.chip--split-5:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 480px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 480px - 35px + 60px), -50vh);
-}
-.chips__pile:nth-child(16) .chip--exchange-to-dealer.chip--split-4:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 480px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 480px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(16) .chip--exchange-to-dealer.chip--split-3:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 480px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 480px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(16) .chip--exchange-to-dealer.chip--split-2:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 480px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 480px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(16) .chip--exchange-to-dealer.chip--split-5:nth-last-child(1) {
+.chips__pile:nth-child(16) .chip.chip--split-4 {
   -webkit-transform: translate(calc(50vw - 480px - 35px + 80px), -50vh);
           transform: translate(calc(50vw - 480px - 35px + 80px), -50vh);
 }
-.chips__pile:nth-child(16) .chip--exchange-to-dealer.chip--split-4:nth-last-child(1) {
+.chips__pile:nth-child(16) .chip.chip--split-3 {
   -webkit-transform: translate(calc(50vw - 480px - 35px + 60px), -50vh);
           transform: translate(calc(50vw - 480px - 35px + 60px), -50vh);
 }
-.chips__pile:nth-child(16) .chip--exchange-to-dealer.chip--split-3:nth-last-child(1) {
+.chips__pile:nth-child(16) .chip.chip--split-2 {
   -webkit-transform: translate(calc(50vw - 480px - 35px + 40px), -50vh);
           transform: translate(calc(50vw - 480px - 35px + 40px), -50vh);
 }
-.chips__pile:nth-child(16) .chip--exchange-to-dealer.chip--split-2:nth-last-child(1) {
+.chips__pile:nth-child(16) .chip.chip--split-1 {
   -webkit-transform: translate(calc(50vw - 480px - 35px + 20px), -50vh);
           transform: translate(calc(50vw - 480px - 35px + 20px), -50vh);
 }
-.chips__pile:nth-child(15) .chip--exchange-to-dealer.chip--split-5:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 448px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 448px - 35px + 0px), -50vh);
+.chips__pile:nth-child(16) .chip.chip--split-0 {
+  -webkit-transform: translate(calc(50vw - 480px - 35px), -50vh);
+          transform: translate(calc(50vw - 480px - 35px), -50vh);
 }
-.chips__pile:nth-child(15) .chip--exchange-to-dealer.chip--split-4:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 448px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 448px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(15) .chip--exchange-to-dealer.chip--split-3:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 448px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 448px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(15) .chip--exchange-to-dealer.chip--split-2:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 448px - 35px + -60px), -50vh);
-          transform: translate(calc(50vw - 448px - 35px + -60px), -50vh);
-}
-.chips__pile:nth-child(15) .chip--exchange-to-dealer.chip--split-5:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 448px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 448px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(15) .chip--exchange-to-dealer.chip--split-4:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 448px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 448px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(15) .chip--exchange-to-dealer.chip--split-3:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 448px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 448px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(15) .chip--exchange-to-dealer.chip--split-2:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 448px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 448px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(15) .chip--exchange-to-dealer.chip--split-5:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 448px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 448px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(15) .chip--exchange-to-dealer.chip--split-4:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 448px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 448px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(15) .chip--exchange-to-dealer.chip--split-3:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 448px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 448px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(15) .chip--exchange-to-dealer.chip--split-2:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 448px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 448px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(15) .chip--exchange-to-dealer.chip--split-5:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 448px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 448px - 35px + 60px), -50vh);
-}
-.chips__pile:nth-child(15) .chip--exchange-to-dealer.chip--split-4:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 448px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 448px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(15) .chip--exchange-to-dealer.chip--split-3:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 448px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 448px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(15) .chip--exchange-to-dealer.chip--split-2:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 448px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 448px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(15) .chip--exchange-to-dealer.chip--split-5:nth-last-child(1) {
+.chips__pile:nth-child(15) .chip.chip--split-4 {
   -webkit-transform: translate(calc(50vw - 448px - 35px + 80px), -50vh);
           transform: translate(calc(50vw - 448px - 35px + 80px), -50vh);
 }
-.chips__pile:nth-child(15) .chip--exchange-to-dealer.chip--split-4:nth-last-child(1) {
+.chips__pile:nth-child(15) .chip.chip--split-3 {
   -webkit-transform: translate(calc(50vw - 448px - 35px + 60px), -50vh);
           transform: translate(calc(50vw - 448px - 35px + 60px), -50vh);
 }
-.chips__pile:nth-child(15) .chip--exchange-to-dealer.chip--split-3:nth-last-child(1) {
+.chips__pile:nth-child(15) .chip.chip--split-2 {
   -webkit-transform: translate(calc(50vw - 448px - 35px + 40px), -50vh);
           transform: translate(calc(50vw - 448px - 35px + 40px), -50vh);
 }
-.chips__pile:nth-child(15) .chip--exchange-to-dealer.chip--split-2:nth-last-child(1) {
+.chips__pile:nth-child(15) .chip.chip--split-1 {
   -webkit-transform: translate(calc(50vw - 448px - 35px + 20px), -50vh);
           transform: translate(calc(50vw - 448px - 35px + 20px), -50vh);
 }
-.chips__pile:nth-child(14) .chip--exchange-to-dealer.chip--split-5:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 416px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 416px - 35px + 0px), -50vh);
+.chips__pile:nth-child(15) .chip.chip--split-0 {
+  -webkit-transform: translate(calc(50vw - 448px - 35px), -50vh);
+          transform: translate(calc(50vw - 448px - 35px), -50vh);
 }
-.chips__pile:nth-child(14) .chip--exchange-to-dealer.chip--split-4:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 416px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 416px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(14) .chip--exchange-to-dealer.chip--split-3:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 416px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 416px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(14) .chip--exchange-to-dealer.chip--split-2:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 416px - 35px + -60px), -50vh);
-          transform: translate(calc(50vw - 416px - 35px + -60px), -50vh);
-}
-.chips__pile:nth-child(14) .chip--exchange-to-dealer.chip--split-5:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 416px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 416px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(14) .chip--exchange-to-dealer.chip--split-4:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 416px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 416px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(14) .chip--exchange-to-dealer.chip--split-3:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 416px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 416px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(14) .chip--exchange-to-dealer.chip--split-2:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 416px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 416px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(14) .chip--exchange-to-dealer.chip--split-5:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 416px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 416px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(14) .chip--exchange-to-dealer.chip--split-4:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 416px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 416px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(14) .chip--exchange-to-dealer.chip--split-3:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 416px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 416px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(14) .chip--exchange-to-dealer.chip--split-2:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 416px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 416px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(14) .chip--exchange-to-dealer.chip--split-5:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 416px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 416px - 35px + 60px), -50vh);
-}
-.chips__pile:nth-child(14) .chip--exchange-to-dealer.chip--split-4:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 416px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 416px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(14) .chip--exchange-to-dealer.chip--split-3:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 416px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 416px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(14) .chip--exchange-to-dealer.chip--split-2:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 416px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 416px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(14) .chip--exchange-to-dealer.chip--split-5:nth-last-child(1) {
+.chips__pile:nth-child(14) .chip.chip--split-4 {
   -webkit-transform: translate(calc(50vw - 416px - 35px + 80px), -50vh);
           transform: translate(calc(50vw - 416px - 35px + 80px), -50vh);
 }
-.chips__pile:nth-child(14) .chip--exchange-to-dealer.chip--split-4:nth-last-child(1) {
+.chips__pile:nth-child(14) .chip.chip--split-3 {
   -webkit-transform: translate(calc(50vw - 416px - 35px + 60px), -50vh);
           transform: translate(calc(50vw - 416px - 35px + 60px), -50vh);
 }
-.chips__pile:nth-child(14) .chip--exchange-to-dealer.chip--split-3:nth-last-child(1) {
+.chips__pile:nth-child(14) .chip.chip--split-2 {
   -webkit-transform: translate(calc(50vw - 416px - 35px + 40px), -50vh);
           transform: translate(calc(50vw - 416px - 35px + 40px), -50vh);
 }
-.chips__pile:nth-child(14) .chip--exchange-to-dealer.chip--split-2:nth-last-child(1) {
+.chips__pile:nth-child(14) .chip.chip--split-1 {
   -webkit-transform: translate(calc(50vw - 416px - 35px + 20px), -50vh);
           transform: translate(calc(50vw - 416px - 35px + 20px), -50vh);
 }
-.chips__pile:nth-child(13) .chip--exchange-to-dealer.chip--split-5:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 384px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 384px - 35px + 0px), -50vh);
+.chips__pile:nth-child(14) .chip.chip--split-0 {
+  -webkit-transform: translate(calc(50vw - 416px - 35px), -50vh);
+          transform: translate(calc(50vw - 416px - 35px), -50vh);
 }
-.chips__pile:nth-child(13) .chip--exchange-to-dealer.chip--split-4:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 384px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 384px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(13) .chip--exchange-to-dealer.chip--split-3:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 384px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 384px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(13) .chip--exchange-to-dealer.chip--split-2:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 384px - 35px + -60px), -50vh);
-          transform: translate(calc(50vw - 384px - 35px + -60px), -50vh);
-}
-.chips__pile:nth-child(13) .chip--exchange-to-dealer.chip--split-5:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 384px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 384px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(13) .chip--exchange-to-dealer.chip--split-4:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 384px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 384px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(13) .chip--exchange-to-dealer.chip--split-3:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 384px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 384px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(13) .chip--exchange-to-dealer.chip--split-2:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 384px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 384px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(13) .chip--exchange-to-dealer.chip--split-5:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 384px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 384px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(13) .chip--exchange-to-dealer.chip--split-4:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 384px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 384px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(13) .chip--exchange-to-dealer.chip--split-3:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 384px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 384px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(13) .chip--exchange-to-dealer.chip--split-2:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 384px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 384px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(13) .chip--exchange-to-dealer.chip--split-5:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 384px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 384px - 35px + 60px), -50vh);
-}
-.chips__pile:nth-child(13) .chip--exchange-to-dealer.chip--split-4:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 384px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 384px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(13) .chip--exchange-to-dealer.chip--split-3:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 384px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 384px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(13) .chip--exchange-to-dealer.chip--split-2:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 384px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 384px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(13) .chip--exchange-to-dealer.chip--split-5:nth-last-child(1) {
+.chips__pile:nth-child(13) .chip.chip--split-4 {
   -webkit-transform: translate(calc(50vw - 384px - 35px + 80px), -50vh);
           transform: translate(calc(50vw - 384px - 35px + 80px), -50vh);
 }
-.chips__pile:nth-child(13) .chip--exchange-to-dealer.chip--split-4:nth-last-child(1) {
+.chips__pile:nth-child(13) .chip.chip--split-3 {
   -webkit-transform: translate(calc(50vw - 384px - 35px + 60px), -50vh);
           transform: translate(calc(50vw - 384px - 35px + 60px), -50vh);
 }
-.chips__pile:nth-child(13) .chip--exchange-to-dealer.chip--split-3:nth-last-child(1) {
+.chips__pile:nth-child(13) .chip.chip--split-2 {
   -webkit-transform: translate(calc(50vw - 384px - 35px + 40px), -50vh);
           transform: translate(calc(50vw - 384px - 35px + 40px), -50vh);
 }
-.chips__pile:nth-child(13) .chip--exchange-to-dealer.chip--split-2:nth-last-child(1) {
+.chips__pile:nth-child(13) .chip.chip--split-1 {
   -webkit-transform: translate(calc(50vw - 384px - 35px + 20px), -50vh);
           transform: translate(calc(50vw - 384px - 35px + 20px), -50vh);
 }
-.chips__pile:nth-child(12) .chip--exchange-to-dealer.chip--split-5:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 352px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 352px - 35px + 0px), -50vh);
+.chips__pile:nth-child(13) .chip.chip--split-0 {
+  -webkit-transform: translate(calc(50vw - 384px - 35px), -50vh);
+          transform: translate(calc(50vw - 384px - 35px), -50vh);
 }
-.chips__pile:nth-child(12) .chip--exchange-to-dealer.chip--split-4:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 352px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 352px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(12) .chip--exchange-to-dealer.chip--split-3:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 352px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 352px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(12) .chip--exchange-to-dealer.chip--split-2:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 352px - 35px + -60px), -50vh);
-          transform: translate(calc(50vw - 352px - 35px + -60px), -50vh);
-}
-.chips__pile:nth-child(12) .chip--exchange-to-dealer.chip--split-5:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 352px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 352px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(12) .chip--exchange-to-dealer.chip--split-4:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 352px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 352px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(12) .chip--exchange-to-dealer.chip--split-3:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 352px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 352px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(12) .chip--exchange-to-dealer.chip--split-2:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 352px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 352px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(12) .chip--exchange-to-dealer.chip--split-5:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 352px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 352px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(12) .chip--exchange-to-dealer.chip--split-4:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 352px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 352px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(12) .chip--exchange-to-dealer.chip--split-3:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 352px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 352px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(12) .chip--exchange-to-dealer.chip--split-2:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 352px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 352px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(12) .chip--exchange-to-dealer.chip--split-5:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 352px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 352px - 35px + 60px), -50vh);
-}
-.chips__pile:nth-child(12) .chip--exchange-to-dealer.chip--split-4:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 352px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 352px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(12) .chip--exchange-to-dealer.chip--split-3:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 352px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 352px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(12) .chip--exchange-to-dealer.chip--split-2:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 352px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 352px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(12) .chip--exchange-to-dealer.chip--split-5:nth-last-child(1) {
+.chips__pile:nth-child(12) .chip.chip--split-4 {
   -webkit-transform: translate(calc(50vw - 352px - 35px + 80px), -50vh);
           transform: translate(calc(50vw - 352px - 35px + 80px), -50vh);
 }
-.chips__pile:nth-child(12) .chip--exchange-to-dealer.chip--split-4:nth-last-child(1) {
+.chips__pile:nth-child(12) .chip.chip--split-3 {
   -webkit-transform: translate(calc(50vw - 352px - 35px + 60px), -50vh);
           transform: translate(calc(50vw - 352px - 35px + 60px), -50vh);
 }
-.chips__pile:nth-child(12) .chip--exchange-to-dealer.chip--split-3:nth-last-child(1) {
+.chips__pile:nth-child(12) .chip.chip--split-2 {
   -webkit-transform: translate(calc(50vw - 352px - 35px + 40px), -50vh);
           transform: translate(calc(50vw - 352px - 35px + 40px), -50vh);
 }
-.chips__pile:nth-child(12) .chip--exchange-to-dealer.chip--split-2:nth-last-child(1) {
+.chips__pile:nth-child(12) .chip.chip--split-1 {
   -webkit-transform: translate(calc(50vw - 352px - 35px + 20px), -50vh);
           transform: translate(calc(50vw - 352px - 35px + 20px), -50vh);
 }
-.chips__pile:nth-child(11) .chip--exchange-to-dealer.chip--split-5:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 320px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 320px - 35px + 0px), -50vh);
+.chips__pile:nth-child(12) .chip.chip--split-0 {
+  -webkit-transform: translate(calc(50vw - 352px - 35px), -50vh);
+          transform: translate(calc(50vw - 352px - 35px), -50vh);
 }
-.chips__pile:nth-child(11) .chip--exchange-to-dealer.chip--split-4:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 320px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 320px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(11) .chip--exchange-to-dealer.chip--split-3:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 320px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 320px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(11) .chip--exchange-to-dealer.chip--split-2:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 320px - 35px + -60px), -50vh);
-          transform: translate(calc(50vw - 320px - 35px + -60px), -50vh);
-}
-.chips__pile:nth-child(11) .chip--exchange-to-dealer.chip--split-5:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 320px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 320px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(11) .chip--exchange-to-dealer.chip--split-4:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 320px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 320px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(11) .chip--exchange-to-dealer.chip--split-3:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 320px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 320px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(11) .chip--exchange-to-dealer.chip--split-2:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 320px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 320px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(11) .chip--exchange-to-dealer.chip--split-5:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 320px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 320px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(11) .chip--exchange-to-dealer.chip--split-4:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 320px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 320px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(11) .chip--exchange-to-dealer.chip--split-3:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 320px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 320px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(11) .chip--exchange-to-dealer.chip--split-2:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 320px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 320px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(11) .chip--exchange-to-dealer.chip--split-5:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 320px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 320px - 35px + 60px), -50vh);
-}
-.chips__pile:nth-child(11) .chip--exchange-to-dealer.chip--split-4:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 320px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 320px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(11) .chip--exchange-to-dealer.chip--split-3:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 320px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 320px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(11) .chip--exchange-to-dealer.chip--split-2:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 320px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 320px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(11) .chip--exchange-to-dealer.chip--split-5:nth-last-child(1) {
+.chips__pile:nth-child(11) .chip.chip--split-4 {
   -webkit-transform: translate(calc(50vw - 320px - 35px + 80px), -50vh);
           transform: translate(calc(50vw - 320px - 35px + 80px), -50vh);
 }
-.chips__pile:nth-child(11) .chip--exchange-to-dealer.chip--split-4:nth-last-child(1) {
+.chips__pile:nth-child(11) .chip.chip--split-3 {
   -webkit-transform: translate(calc(50vw - 320px - 35px + 60px), -50vh);
           transform: translate(calc(50vw - 320px - 35px + 60px), -50vh);
 }
-.chips__pile:nth-child(11) .chip--exchange-to-dealer.chip--split-3:nth-last-child(1) {
+.chips__pile:nth-child(11) .chip.chip--split-2 {
   -webkit-transform: translate(calc(50vw - 320px - 35px + 40px), -50vh);
           transform: translate(calc(50vw - 320px - 35px + 40px), -50vh);
 }
-.chips__pile:nth-child(11) .chip--exchange-to-dealer.chip--split-2:nth-last-child(1) {
+.chips__pile:nth-child(11) .chip.chip--split-1 {
   -webkit-transform: translate(calc(50vw - 320px - 35px + 20px), -50vh);
           transform: translate(calc(50vw - 320px - 35px + 20px), -50vh);
 }
-.chips__pile:nth-child(10) .chip--exchange-to-dealer.chip--split-5:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 288px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 288px - 35px + 0px), -50vh);
+.chips__pile:nth-child(11) .chip.chip--split-0 {
+  -webkit-transform: translate(calc(50vw - 320px - 35px), -50vh);
+          transform: translate(calc(50vw - 320px - 35px), -50vh);
 }
-.chips__pile:nth-child(10) .chip--exchange-to-dealer.chip--split-4:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 288px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 288px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(10) .chip--exchange-to-dealer.chip--split-3:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 288px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 288px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(10) .chip--exchange-to-dealer.chip--split-2:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 288px - 35px + -60px), -50vh);
-          transform: translate(calc(50vw - 288px - 35px + -60px), -50vh);
-}
-.chips__pile:nth-child(10) .chip--exchange-to-dealer.chip--split-5:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 288px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 288px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(10) .chip--exchange-to-dealer.chip--split-4:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 288px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 288px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(10) .chip--exchange-to-dealer.chip--split-3:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 288px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 288px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(10) .chip--exchange-to-dealer.chip--split-2:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 288px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 288px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(10) .chip--exchange-to-dealer.chip--split-5:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 288px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 288px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(10) .chip--exchange-to-dealer.chip--split-4:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 288px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 288px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(10) .chip--exchange-to-dealer.chip--split-3:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 288px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 288px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(10) .chip--exchange-to-dealer.chip--split-2:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 288px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 288px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(10) .chip--exchange-to-dealer.chip--split-5:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 288px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 288px - 35px + 60px), -50vh);
-}
-.chips__pile:nth-child(10) .chip--exchange-to-dealer.chip--split-4:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 288px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 288px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(10) .chip--exchange-to-dealer.chip--split-3:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 288px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 288px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(10) .chip--exchange-to-dealer.chip--split-2:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 288px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 288px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(10) .chip--exchange-to-dealer.chip--split-5:nth-last-child(1) {
+.chips__pile:nth-child(10) .chip.chip--split-4 {
   -webkit-transform: translate(calc(50vw - 288px - 35px + 80px), -50vh);
           transform: translate(calc(50vw - 288px - 35px + 80px), -50vh);
 }
-.chips__pile:nth-child(10) .chip--exchange-to-dealer.chip--split-4:nth-last-child(1) {
+.chips__pile:nth-child(10) .chip.chip--split-3 {
   -webkit-transform: translate(calc(50vw - 288px - 35px + 60px), -50vh);
           transform: translate(calc(50vw - 288px - 35px + 60px), -50vh);
 }
-.chips__pile:nth-child(10) .chip--exchange-to-dealer.chip--split-3:nth-last-child(1) {
+.chips__pile:nth-child(10) .chip.chip--split-2 {
   -webkit-transform: translate(calc(50vw - 288px - 35px + 40px), -50vh);
           transform: translate(calc(50vw - 288px - 35px + 40px), -50vh);
 }
-.chips__pile:nth-child(10) .chip--exchange-to-dealer.chip--split-2:nth-last-child(1) {
+.chips__pile:nth-child(10) .chip.chip--split-1 {
   -webkit-transform: translate(calc(50vw - 288px - 35px + 20px), -50vh);
           transform: translate(calc(50vw - 288px - 35px + 20px), -50vh);
 }
-.chips__pile:nth-child(9) .chip--exchange-to-dealer.chip--split-5:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 256px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 256px - 35px + 0px), -50vh);
+.chips__pile:nth-child(10) .chip.chip--split-0 {
+  -webkit-transform: translate(calc(50vw - 288px - 35px), -50vh);
+          transform: translate(calc(50vw - 288px - 35px), -50vh);
 }
-.chips__pile:nth-child(9) .chip--exchange-to-dealer.chip--split-4:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 256px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 256px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(9) .chip--exchange-to-dealer.chip--split-3:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 256px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 256px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(9) .chip--exchange-to-dealer.chip--split-2:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 256px - 35px + -60px), -50vh);
-          transform: translate(calc(50vw - 256px - 35px + -60px), -50vh);
-}
-.chips__pile:nth-child(9) .chip--exchange-to-dealer.chip--split-5:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 256px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 256px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(9) .chip--exchange-to-dealer.chip--split-4:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 256px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 256px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(9) .chip--exchange-to-dealer.chip--split-3:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 256px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 256px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(9) .chip--exchange-to-dealer.chip--split-2:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 256px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 256px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(9) .chip--exchange-to-dealer.chip--split-5:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 256px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 256px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(9) .chip--exchange-to-dealer.chip--split-4:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 256px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 256px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(9) .chip--exchange-to-dealer.chip--split-3:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 256px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 256px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(9) .chip--exchange-to-dealer.chip--split-2:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 256px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 256px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(9) .chip--exchange-to-dealer.chip--split-5:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 256px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 256px - 35px + 60px), -50vh);
-}
-.chips__pile:nth-child(9) .chip--exchange-to-dealer.chip--split-4:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 256px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 256px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(9) .chip--exchange-to-dealer.chip--split-3:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 256px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 256px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(9) .chip--exchange-to-dealer.chip--split-2:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 256px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 256px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(9) .chip--exchange-to-dealer.chip--split-5:nth-last-child(1) {
+.chips__pile:nth-child(9) .chip.chip--split-4 {
   -webkit-transform: translate(calc(50vw - 256px - 35px + 80px), -50vh);
           transform: translate(calc(50vw - 256px - 35px + 80px), -50vh);
 }
-.chips__pile:nth-child(9) .chip--exchange-to-dealer.chip--split-4:nth-last-child(1) {
+.chips__pile:nth-child(9) .chip.chip--split-3 {
   -webkit-transform: translate(calc(50vw - 256px - 35px + 60px), -50vh);
           transform: translate(calc(50vw - 256px - 35px + 60px), -50vh);
 }
-.chips__pile:nth-child(9) .chip--exchange-to-dealer.chip--split-3:nth-last-child(1) {
+.chips__pile:nth-child(9) .chip.chip--split-2 {
   -webkit-transform: translate(calc(50vw - 256px - 35px + 40px), -50vh);
           transform: translate(calc(50vw - 256px - 35px + 40px), -50vh);
 }
-.chips__pile:nth-child(9) .chip--exchange-to-dealer.chip--split-2:nth-last-child(1) {
+.chips__pile:nth-child(9) .chip.chip--split-1 {
   -webkit-transform: translate(calc(50vw - 256px - 35px + 20px), -50vh);
           transform: translate(calc(50vw - 256px - 35px + 20px), -50vh);
 }
-.chips__pile:nth-child(8) .chip--exchange-to-dealer.chip--split-5:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 224px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 224px - 35px + 0px), -50vh);
+.chips__pile:nth-child(9) .chip.chip--split-0 {
+  -webkit-transform: translate(calc(50vw - 256px - 35px), -50vh);
+          transform: translate(calc(50vw - 256px - 35px), -50vh);
 }
-.chips__pile:nth-child(8) .chip--exchange-to-dealer.chip--split-4:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 224px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 224px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(8) .chip--exchange-to-dealer.chip--split-3:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 224px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 224px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(8) .chip--exchange-to-dealer.chip--split-2:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 224px - 35px + -60px), -50vh);
-          transform: translate(calc(50vw - 224px - 35px + -60px), -50vh);
-}
-.chips__pile:nth-child(8) .chip--exchange-to-dealer.chip--split-5:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 224px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 224px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(8) .chip--exchange-to-dealer.chip--split-4:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 224px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 224px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(8) .chip--exchange-to-dealer.chip--split-3:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 224px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 224px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(8) .chip--exchange-to-dealer.chip--split-2:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 224px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 224px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(8) .chip--exchange-to-dealer.chip--split-5:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 224px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 224px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(8) .chip--exchange-to-dealer.chip--split-4:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 224px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 224px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(8) .chip--exchange-to-dealer.chip--split-3:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 224px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 224px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(8) .chip--exchange-to-dealer.chip--split-2:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 224px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 224px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(8) .chip--exchange-to-dealer.chip--split-5:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 224px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 224px - 35px + 60px), -50vh);
-}
-.chips__pile:nth-child(8) .chip--exchange-to-dealer.chip--split-4:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 224px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 224px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(8) .chip--exchange-to-dealer.chip--split-3:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 224px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 224px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(8) .chip--exchange-to-dealer.chip--split-2:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 224px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 224px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(8) .chip--exchange-to-dealer.chip--split-5:nth-last-child(1) {
+.chips__pile:nth-child(8) .chip.chip--split-4 {
   -webkit-transform: translate(calc(50vw - 224px - 35px + 80px), -50vh);
           transform: translate(calc(50vw - 224px - 35px + 80px), -50vh);
 }
-.chips__pile:nth-child(8) .chip--exchange-to-dealer.chip--split-4:nth-last-child(1) {
+.chips__pile:nth-child(8) .chip.chip--split-3 {
   -webkit-transform: translate(calc(50vw - 224px - 35px + 60px), -50vh);
           transform: translate(calc(50vw - 224px - 35px + 60px), -50vh);
 }
-.chips__pile:nth-child(8) .chip--exchange-to-dealer.chip--split-3:nth-last-child(1) {
+.chips__pile:nth-child(8) .chip.chip--split-2 {
   -webkit-transform: translate(calc(50vw - 224px - 35px + 40px), -50vh);
           transform: translate(calc(50vw - 224px - 35px + 40px), -50vh);
 }
-.chips__pile:nth-child(8) .chip--exchange-to-dealer.chip--split-2:nth-last-child(1) {
+.chips__pile:nth-child(8) .chip.chip--split-1 {
   -webkit-transform: translate(calc(50vw - 224px - 35px + 20px), -50vh);
           transform: translate(calc(50vw - 224px - 35px + 20px), -50vh);
 }
-.chips__pile:nth-child(7) .chip--exchange-to-dealer.chip--split-5:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 192px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 192px - 35px + 0px), -50vh);
+.chips__pile:nth-child(8) .chip.chip--split-0 {
+  -webkit-transform: translate(calc(50vw - 224px - 35px), -50vh);
+          transform: translate(calc(50vw - 224px - 35px), -50vh);
 }
-.chips__pile:nth-child(7) .chip--exchange-to-dealer.chip--split-4:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 192px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 192px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(7) .chip--exchange-to-dealer.chip--split-3:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 192px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 192px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(7) .chip--exchange-to-dealer.chip--split-2:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 192px - 35px + -60px), -50vh);
-          transform: translate(calc(50vw - 192px - 35px + -60px), -50vh);
-}
-.chips__pile:nth-child(7) .chip--exchange-to-dealer.chip--split-5:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 192px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 192px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(7) .chip--exchange-to-dealer.chip--split-4:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 192px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 192px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(7) .chip--exchange-to-dealer.chip--split-3:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 192px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 192px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(7) .chip--exchange-to-dealer.chip--split-2:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 192px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 192px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(7) .chip--exchange-to-dealer.chip--split-5:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 192px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 192px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(7) .chip--exchange-to-dealer.chip--split-4:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 192px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 192px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(7) .chip--exchange-to-dealer.chip--split-3:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 192px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 192px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(7) .chip--exchange-to-dealer.chip--split-2:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 192px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 192px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(7) .chip--exchange-to-dealer.chip--split-5:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 192px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 192px - 35px + 60px), -50vh);
-}
-.chips__pile:nth-child(7) .chip--exchange-to-dealer.chip--split-4:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 192px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 192px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(7) .chip--exchange-to-dealer.chip--split-3:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 192px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 192px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(7) .chip--exchange-to-dealer.chip--split-2:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 192px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 192px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(7) .chip--exchange-to-dealer.chip--split-5:nth-last-child(1) {
+.chips__pile:nth-child(7) .chip.chip--split-4 {
   -webkit-transform: translate(calc(50vw - 192px - 35px + 80px), -50vh);
           transform: translate(calc(50vw - 192px - 35px + 80px), -50vh);
 }
-.chips__pile:nth-child(7) .chip--exchange-to-dealer.chip--split-4:nth-last-child(1) {
+.chips__pile:nth-child(7) .chip.chip--split-3 {
   -webkit-transform: translate(calc(50vw - 192px - 35px + 60px), -50vh);
           transform: translate(calc(50vw - 192px - 35px + 60px), -50vh);
 }
-.chips__pile:nth-child(7) .chip--exchange-to-dealer.chip--split-3:nth-last-child(1) {
+.chips__pile:nth-child(7) .chip.chip--split-2 {
   -webkit-transform: translate(calc(50vw - 192px - 35px + 40px), -50vh);
           transform: translate(calc(50vw - 192px - 35px + 40px), -50vh);
 }
-.chips__pile:nth-child(7) .chip--exchange-to-dealer.chip--split-2:nth-last-child(1) {
+.chips__pile:nth-child(7) .chip.chip--split-1 {
   -webkit-transform: translate(calc(50vw - 192px - 35px + 20px), -50vh);
           transform: translate(calc(50vw - 192px - 35px + 20px), -50vh);
 }
-.chips__pile:nth-child(6) .chip--exchange-to-dealer.chip--split-5:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 160px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 160px - 35px + 0px), -50vh);
+.chips__pile:nth-child(7) .chip.chip--split-0 {
+  -webkit-transform: translate(calc(50vw - 192px - 35px), -50vh);
+          transform: translate(calc(50vw - 192px - 35px), -50vh);
 }
-.chips__pile:nth-child(6) .chip--exchange-to-dealer.chip--split-4:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 160px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 160px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(6) .chip--exchange-to-dealer.chip--split-3:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 160px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 160px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(6) .chip--exchange-to-dealer.chip--split-2:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 160px - 35px + -60px), -50vh);
-          transform: translate(calc(50vw - 160px - 35px + -60px), -50vh);
-}
-.chips__pile:nth-child(6) .chip--exchange-to-dealer.chip--split-5:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 160px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 160px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(6) .chip--exchange-to-dealer.chip--split-4:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 160px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 160px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(6) .chip--exchange-to-dealer.chip--split-3:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 160px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 160px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(6) .chip--exchange-to-dealer.chip--split-2:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 160px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 160px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(6) .chip--exchange-to-dealer.chip--split-5:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 160px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 160px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(6) .chip--exchange-to-dealer.chip--split-4:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 160px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 160px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(6) .chip--exchange-to-dealer.chip--split-3:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 160px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 160px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(6) .chip--exchange-to-dealer.chip--split-2:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 160px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 160px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(6) .chip--exchange-to-dealer.chip--split-5:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 160px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 160px - 35px + 60px), -50vh);
-}
-.chips__pile:nth-child(6) .chip--exchange-to-dealer.chip--split-4:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 160px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 160px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(6) .chip--exchange-to-dealer.chip--split-3:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 160px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 160px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(6) .chip--exchange-to-dealer.chip--split-2:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 160px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 160px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(6) .chip--exchange-to-dealer.chip--split-5:nth-last-child(1) {
+.chips__pile:nth-child(6) .chip.chip--split-4 {
   -webkit-transform: translate(calc(50vw - 160px - 35px + 80px), -50vh);
           transform: translate(calc(50vw - 160px - 35px + 80px), -50vh);
 }
-.chips__pile:nth-child(6) .chip--exchange-to-dealer.chip--split-4:nth-last-child(1) {
+.chips__pile:nth-child(6) .chip.chip--split-3 {
   -webkit-transform: translate(calc(50vw - 160px - 35px + 60px), -50vh);
           transform: translate(calc(50vw - 160px - 35px + 60px), -50vh);
 }
-.chips__pile:nth-child(6) .chip--exchange-to-dealer.chip--split-3:nth-last-child(1) {
+.chips__pile:nth-child(6) .chip.chip--split-2 {
   -webkit-transform: translate(calc(50vw - 160px - 35px + 40px), -50vh);
           transform: translate(calc(50vw - 160px - 35px + 40px), -50vh);
 }
-.chips__pile:nth-child(6) .chip--exchange-to-dealer.chip--split-2:nth-last-child(1) {
+.chips__pile:nth-child(6) .chip.chip--split-1 {
   -webkit-transform: translate(calc(50vw - 160px - 35px + 20px), -50vh);
           transform: translate(calc(50vw - 160px - 35px + 20px), -50vh);
 }
-.chips__pile:nth-child(5) .chip--exchange-to-dealer.chip--split-5:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 128px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 128px - 35px + 0px), -50vh);
+.chips__pile:nth-child(6) .chip.chip--split-0 {
+  -webkit-transform: translate(calc(50vw - 160px - 35px), -50vh);
+          transform: translate(calc(50vw - 160px - 35px), -50vh);
 }
-.chips__pile:nth-child(5) .chip--exchange-to-dealer.chip--split-4:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 128px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 128px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(5) .chip--exchange-to-dealer.chip--split-3:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 128px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 128px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(5) .chip--exchange-to-dealer.chip--split-2:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 128px - 35px + -60px), -50vh);
-          transform: translate(calc(50vw - 128px - 35px + -60px), -50vh);
-}
-.chips__pile:nth-child(5) .chip--exchange-to-dealer.chip--split-5:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 128px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 128px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(5) .chip--exchange-to-dealer.chip--split-4:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 128px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 128px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(5) .chip--exchange-to-dealer.chip--split-3:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 128px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 128px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(5) .chip--exchange-to-dealer.chip--split-2:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 128px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 128px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(5) .chip--exchange-to-dealer.chip--split-5:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 128px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 128px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(5) .chip--exchange-to-dealer.chip--split-4:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 128px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 128px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(5) .chip--exchange-to-dealer.chip--split-3:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 128px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 128px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(5) .chip--exchange-to-dealer.chip--split-2:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 128px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 128px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(5) .chip--exchange-to-dealer.chip--split-5:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 128px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 128px - 35px + 60px), -50vh);
-}
-.chips__pile:nth-child(5) .chip--exchange-to-dealer.chip--split-4:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 128px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 128px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(5) .chip--exchange-to-dealer.chip--split-3:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 128px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 128px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(5) .chip--exchange-to-dealer.chip--split-2:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 128px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 128px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(5) .chip--exchange-to-dealer.chip--split-5:nth-last-child(1) {
+.chips__pile:nth-child(5) .chip.chip--split-4 {
   -webkit-transform: translate(calc(50vw - 128px - 35px + 80px), -50vh);
           transform: translate(calc(50vw - 128px - 35px + 80px), -50vh);
 }
-.chips__pile:nth-child(5) .chip--exchange-to-dealer.chip--split-4:nth-last-child(1) {
+.chips__pile:nth-child(5) .chip.chip--split-3 {
   -webkit-transform: translate(calc(50vw - 128px - 35px + 60px), -50vh);
           transform: translate(calc(50vw - 128px - 35px + 60px), -50vh);
 }
-.chips__pile:nth-child(5) .chip--exchange-to-dealer.chip--split-3:nth-last-child(1) {
+.chips__pile:nth-child(5) .chip.chip--split-2 {
   -webkit-transform: translate(calc(50vw - 128px - 35px + 40px), -50vh);
           transform: translate(calc(50vw - 128px - 35px + 40px), -50vh);
 }
-.chips__pile:nth-child(5) .chip--exchange-to-dealer.chip--split-2:nth-last-child(1) {
+.chips__pile:nth-child(5) .chip.chip--split-1 {
   -webkit-transform: translate(calc(50vw - 128px - 35px + 20px), -50vh);
           transform: translate(calc(50vw - 128px - 35px + 20px), -50vh);
 }
-.chips__pile:nth-child(4) .chip--exchange-to-dealer.chip--split-5:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 96px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 96px - 35px + 0px), -50vh);
+.chips__pile:nth-child(5) .chip.chip--split-0 {
+  -webkit-transform: translate(calc(50vw - 128px - 35px), -50vh);
+          transform: translate(calc(50vw - 128px - 35px), -50vh);
 }
-.chips__pile:nth-child(4) .chip--exchange-to-dealer.chip--split-4:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 96px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 96px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(4) .chip--exchange-to-dealer.chip--split-3:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 96px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 96px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(4) .chip--exchange-to-dealer.chip--split-2:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 96px - 35px + -60px), -50vh);
-          transform: translate(calc(50vw - 96px - 35px + -60px), -50vh);
-}
-.chips__pile:nth-child(4) .chip--exchange-to-dealer.chip--split-5:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 96px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 96px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(4) .chip--exchange-to-dealer.chip--split-4:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 96px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 96px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(4) .chip--exchange-to-dealer.chip--split-3:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 96px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 96px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(4) .chip--exchange-to-dealer.chip--split-2:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 96px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 96px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(4) .chip--exchange-to-dealer.chip--split-5:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 96px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 96px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(4) .chip--exchange-to-dealer.chip--split-4:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 96px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 96px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(4) .chip--exchange-to-dealer.chip--split-3:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 96px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 96px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(4) .chip--exchange-to-dealer.chip--split-2:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 96px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 96px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(4) .chip--exchange-to-dealer.chip--split-5:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 96px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 96px - 35px + 60px), -50vh);
-}
-.chips__pile:nth-child(4) .chip--exchange-to-dealer.chip--split-4:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 96px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 96px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(4) .chip--exchange-to-dealer.chip--split-3:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 96px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 96px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(4) .chip--exchange-to-dealer.chip--split-2:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 96px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 96px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(4) .chip--exchange-to-dealer.chip--split-5:nth-last-child(1) {
+.chips__pile:nth-child(4) .chip.chip--split-4 {
   -webkit-transform: translate(calc(50vw - 96px - 35px + 80px), -50vh);
           transform: translate(calc(50vw - 96px - 35px + 80px), -50vh);
 }
-.chips__pile:nth-child(4) .chip--exchange-to-dealer.chip--split-4:nth-last-child(1) {
+.chips__pile:nth-child(4) .chip.chip--split-3 {
   -webkit-transform: translate(calc(50vw - 96px - 35px + 60px), -50vh);
           transform: translate(calc(50vw - 96px - 35px + 60px), -50vh);
 }
-.chips__pile:nth-child(4) .chip--exchange-to-dealer.chip--split-3:nth-last-child(1) {
+.chips__pile:nth-child(4) .chip.chip--split-2 {
   -webkit-transform: translate(calc(50vw - 96px - 35px + 40px), -50vh);
           transform: translate(calc(50vw - 96px - 35px + 40px), -50vh);
 }
-.chips__pile:nth-child(4) .chip--exchange-to-dealer.chip--split-2:nth-last-child(1) {
+.chips__pile:nth-child(4) .chip.chip--split-1 {
   -webkit-transform: translate(calc(50vw - 96px - 35px + 20px), -50vh);
           transform: translate(calc(50vw - 96px - 35px + 20px), -50vh);
 }
-.chips__pile:nth-child(3) .chip--exchange-to-dealer.chip--split-5:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 64px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 64px - 35px + 0px), -50vh);
+.chips__pile:nth-child(4) .chip.chip--split-0 {
+  -webkit-transform: translate(calc(50vw - 96px - 35px), -50vh);
+          transform: translate(calc(50vw - 96px - 35px), -50vh);
 }
-.chips__pile:nth-child(3) .chip--exchange-to-dealer.chip--split-4:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 64px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 64px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(3) .chip--exchange-to-dealer.chip--split-3:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 64px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 64px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(3) .chip--exchange-to-dealer.chip--split-2:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 64px - 35px + -60px), -50vh);
-          transform: translate(calc(50vw - 64px - 35px + -60px), -50vh);
-}
-.chips__pile:nth-child(3) .chip--exchange-to-dealer.chip--split-5:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 64px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 64px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(3) .chip--exchange-to-dealer.chip--split-4:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 64px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 64px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(3) .chip--exchange-to-dealer.chip--split-3:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 64px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 64px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(3) .chip--exchange-to-dealer.chip--split-2:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 64px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 64px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(3) .chip--exchange-to-dealer.chip--split-5:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 64px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 64px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(3) .chip--exchange-to-dealer.chip--split-4:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 64px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 64px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(3) .chip--exchange-to-dealer.chip--split-3:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 64px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 64px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(3) .chip--exchange-to-dealer.chip--split-2:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 64px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 64px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(3) .chip--exchange-to-dealer.chip--split-5:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 64px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 64px - 35px + 60px), -50vh);
-}
-.chips__pile:nth-child(3) .chip--exchange-to-dealer.chip--split-4:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 64px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 64px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(3) .chip--exchange-to-dealer.chip--split-3:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 64px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 64px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(3) .chip--exchange-to-dealer.chip--split-2:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 64px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 64px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(3) .chip--exchange-to-dealer.chip--split-5:nth-last-child(1) {
+.chips__pile:nth-child(3) .chip.chip--split-4 {
   -webkit-transform: translate(calc(50vw - 64px - 35px + 80px), -50vh);
           transform: translate(calc(50vw - 64px - 35px + 80px), -50vh);
 }
-.chips__pile:nth-child(3) .chip--exchange-to-dealer.chip--split-4:nth-last-child(1) {
+.chips__pile:nth-child(3) .chip.chip--split-3 {
   -webkit-transform: translate(calc(50vw - 64px - 35px + 60px), -50vh);
           transform: translate(calc(50vw - 64px - 35px + 60px), -50vh);
 }
-.chips__pile:nth-child(3) .chip--exchange-to-dealer.chip--split-3:nth-last-child(1) {
+.chips__pile:nth-child(3) .chip.chip--split-2 {
   -webkit-transform: translate(calc(50vw - 64px - 35px + 40px), -50vh);
           transform: translate(calc(50vw - 64px - 35px + 40px), -50vh);
 }
-.chips__pile:nth-child(3) .chip--exchange-to-dealer.chip--split-2:nth-last-child(1) {
+.chips__pile:nth-child(3) .chip.chip--split-1 {
   -webkit-transform: translate(calc(50vw - 64px - 35px + 20px), -50vh);
           transform: translate(calc(50vw - 64px - 35px + 20px), -50vh);
 }
-.chips__pile:nth-child(2) .chip--exchange-to-dealer.chip--split-5:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 32px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 32px - 35px + 0px), -50vh);
+.chips__pile:nth-child(3) .chip.chip--split-0 {
+  -webkit-transform: translate(calc(50vw - 64px - 35px), -50vh);
+          transform: translate(calc(50vw - 64px - 35px), -50vh);
 }
-.chips__pile:nth-child(2) .chip--exchange-to-dealer.chip--split-4:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 32px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 32px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(2) .chip--exchange-to-dealer.chip--split-3:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 32px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 32px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(2) .chip--exchange-to-dealer.chip--split-2:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 32px - 35px + -60px), -50vh);
-          transform: translate(calc(50vw - 32px - 35px + -60px), -50vh);
-}
-.chips__pile:nth-child(2) .chip--exchange-to-dealer.chip--split-5:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 32px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 32px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(2) .chip--exchange-to-dealer.chip--split-4:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 32px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 32px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(2) .chip--exchange-to-dealer.chip--split-3:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 32px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 32px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(2) .chip--exchange-to-dealer.chip--split-2:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 32px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 32px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(2) .chip--exchange-to-dealer.chip--split-5:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 32px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 32px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(2) .chip--exchange-to-dealer.chip--split-4:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 32px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 32px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(2) .chip--exchange-to-dealer.chip--split-3:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 32px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 32px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(2) .chip--exchange-to-dealer.chip--split-2:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 32px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 32px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(2) .chip--exchange-to-dealer.chip--split-5:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 32px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 32px - 35px + 60px), -50vh);
-}
-.chips__pile:nth-child(2) .chip--exchange-to-dealer.chip--split-4:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 32px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 32px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(2) .chip--exchange-to-dealer.chip--split-3:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 32px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 32px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(2) .chip--exchange-to-dealer.chip--split-2:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 32px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 32px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(2) .chip--exchange-to-dealer.chip--split-5:nth-last-child(1) {
+.chips__pile:nth-child(2) .chip.chip--split-4 {
   -webkit-transform: translate(calc(50vw - 32px - 35px + 80px), -50vh);
           transform: translate(calc(50vw - 32px - 35px + 80px), -50vh);
 }
-.chips__pile:nth-child(2) .chip--exchange-to-dealer.chip--split-4:nth-last-child(1) {
+.chips__pile:nth-child(2) .chip.chip--split-3 {
   -webkit-transform: translate(calc(50vw - 32px - 35px + 60px), -50vh);
           transform: translate(calc(50vw - 32px - 35px + 60px), -50vh);
 }
-.chips__pile:nth-child(2) .chip--exchange-to-dealer.chip--split-3:nth-last-child(1) {
+.chips__pile:nth-child(2) .chip.chip--split-2 {
   -webkit-transform: translate(calc(50vw - 32px - 35px + 40px), -50vh);
           transform: translate(calc(50vw - 32px - 35px + 40px), -50vh);
 }
-.chips__pile:nth-child(2) .chip--exchange-to-dealer.chip--split-2:nth-last-child(1) {
+.chips__pile:nth-child(2) .chip.chip--split-1 {
   -webkit-transform: translate(calc(50vw - 32px - 35px + 20px), -50vh);
           transform: translate(calc(50vw - 32px - 35px + 20px), -50vh);
 }
-.chips__pile:nth-child(1) .chip--exchange-to-dealer.chip--split-5:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 0px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 0px - 35px + 0px), -50vh);
+.chips__pile:nth-child(2) .chip.chip--split-0 {
+  -webkit-transform: translate(calc(50vw - 32px - 35px), -50vh);
+          transform: translate(calc(50vw - 32px - 35px), -50vh);
 }
-.chips__pile:nth-child(1) .chip--exchange-to-dealer.chip--split-4:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 0px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 0px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(1) .chip--exchange-to-dealer.chip--split-3:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 0px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 0px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(1) .chip--exchange-to-dealer.chip--split-2:nth-last-child(5) {
-  -webkit-transform: translate(calc(50vw - 0px - 35px + -60px), -50vh);
-          transform: translate(calc(50vw - 0px - 35px + -60px), -50vh);
-}
-.chips__pile:nth-child(1) .chip--exchange-to-dealer.chip--split-5:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 0px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 0px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(1) .chip--exchange-to-dealer.chip--split-4:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 0px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 0px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(1) .chip--exchange-to-dealer.chip--split-3:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 0px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 0px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(1) .chip--exchange-to-dealer.chip--split-2:nth-last-child(4) {
-  -webkit-transform: translate(calc(50vw - 0px - 35px + -40px), -50vh);
-          transform: translate(calc(50vw - 0px - 35px + -40px), -50vh);
-}
-.chips__pile:nth-child(1) .chip--exchange-to-dealer.chip--split-5:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 0px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 0px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(1) .chip--exchange-to-dealer.chip--split-4:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 0px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 0px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(1) .chip--exchange-to-dealer.chip--split-3:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 0px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 0px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(1) .chip--exchange-to-dealer.chip--split-2:nth-last-child(3) {
-  -webkit-transform: translate(calc(50vw - 0px - 35px + -20px), -50vh);
-          transform: translate(calc(50vw - 0px - 35px + -20px), -50vh);
-}
-.chips__pile:nth-child(1) .chip--exchange-to-dealer.chip--split-5:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 0px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 0px - 35px + 60px), -50vh);
-}
-.chips__pile:nth-child(1) .chip--exchange-to-dealer.chip--split-4:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 0px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 0px - 35px + 40px), -50vh);
-}
-.chips__pile:nth-child(1) .chip--exchange-to-dealer.chip--split-3:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 0px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 0px - 35px + 20px), -50vh);
-}
-.chips__pile:nth-child(1) .chip--exchange-to-dealer.chip--split-2:nth-last-child(2) {
-  -webkit-transform: translate(calc(50vw - 0px - 35px + 0px), -50vh);
-          transform: translate(calc(50vw - 0px - 35px + 0px), -50vh);
-}
-.chips__pile:nth-child(1) .chip--exchange-to-dealer.chip--split-5:nth-last-child(1) {
+.chips__pile:nth-child(1) .chip.chip--split-4 {
   -webkit-transform: translate(calc(50vw - 0px - 35px + 80px), -50vh);
           transform: translate(calc(50vw - 0px - 35px + 80px), -50vh);
 }
-.chips__pile:nth-child(1) .chip--exchange-to-dealer.chip--split-4:nth-last-child(1) {
+.chips__pile:nth-child(1) .chip.chip--split-3 {
   -webkit-transform: translate(calc(50vw - 0px - 35px + 60px), -50vh);
           transform: translate(calc(50vw - 0px - 35px + 60px), -50vh);
 }
-.chips__pile:nth-child(1) .chip--exchange-to-dealer.chip--split-3:nth-last-child(1) {
+.chips__pile:nth-child(1) .chip.chip--split-2 {
   -webkit-transform: translate(calc(50vw - 0px - 35px + 40px), -50vh);
           transform: translate(calc(50vw - 0px - 35px + 40px), -50vh);
 }
-.chips__pile:nth-child(1) .chip--exchange-to-dealer.chip--split-2:nth-last-child(1) {
+.chips__pile:nth-child(1) .chip.chip--split-1 {
   -webkit-transform: translate(calc(50vw - 0px - 35px + 20px), -50vh);
           transform: translate(calc(50vw - 0px - 35px + 20px), -50vh);
 }
-.chips__pile:nth-child(20) .chip--exchange-to-dealer.chip--delete {
+.chips__pile:nth-child(1) .chip.chip--split-0 {
+  -webkit-transform: translate(calc(50vw - 0px - 35px), -50vh);
+          transform: translate(calc(50vw - 0px - 35px), -50vh);
+}
+.chips__pile:nth-child(20) .chip.chip--delete {
   -webkit-transform: translate(calc(50vw - 608px - 35px), -100vh);
           transform: translate(calc(50vw - 608px - 35px), -100vh);
 }
-.chips__pile:nth-child(19) .chip--exchange-to-dealer.chip--delete {
+.chips__pile:nth-child(19) .chip.chip--delete {
   -webkit-transform: translate(calc(50vw - 576px - 35px), -100vh);
           transform: translate(calc(50vw - 576px - 35px), -100vh);
 }
-.chips__pile:nth-child(18) .chip--exchange-to-dealer.chip--delete {
+.chips__pile:nth-child(18) .chip.chip--delete {
   -webkit-transform: translate(calc(50vw - 544px - 35px), -100vh);
           transform: translate(calc(50vw - 544px - 35px), -100vh);
 }
-.chips__pile:nth-child(17) .chip--exchange-to-dealer.chip--delete {
+.chips__pile:nth-child(17) .chip.chip--delete {
   -webkit-transform: translate(calc(50vw - 512px - 35px), -100vh);
           transform: translate(calc(50vw - 512px - 35px), -100vh);
 }
-.chips__pile:nth-child(16) .chip--exchange-to-dealer.chip--delete {
+.chips__pile:nth-child(16) .chip.chip--delete {
   -webkit-transform: translate(calc(50vw - 480px - 35px), -100vh);
           transform: translate(calc(50vw - 480px - 35px), -100vh);
 }
-.chips__pile:nth-child(15) .chip--exchange-to-dealer.chip--delete {
+.chips__pile:nth-child(15) .chip.chip--delete {
   -webkit-transform: translate(calc(50vw - 448px - 35px), -100vh);
           transform: translate(calc(50vw - 448px - 35px), -100vh);
 }
-.chips__pile:nth-child(14) .chip--exchange-to-dealer.chip--delete {
+.chips__pile:nth-child(14) .chip.chip--delete {
   -webkit-transform: translate(calc(50vw - 416px - 35px), -100vh);
           transform: translate(calc(50vw - 416px - 35px), -100vh);
 }
-.chips__pile:nth-child(13) .chip--exchange-to-dealer.chip--delete {
+.chips__pile:nth-child(13) .chip.chip--delete {
   -webkit-transform: translate(calc(50vw - 384px - 35px), -100vh);
           transform: translate(calc(50vw - 384px - 35px), -100vh);
 }
-.chips__pile:nth-child(12) .chip--exchange-to-dealer.chip--delete {
+.chips__pile:nth-child(12) .chip.chip--delete {
   -webkit-transform: translate(calc(50vw - 352px - 35px), -100vh);
           transform: translate(calc(50vw - 352px - 35px), -100vh);
 }
-.chips__pile:nth-child(11) .chip--exchange-to-dealer.chip--delete {
+.chips__pile:nth-child(11) .chip.chip--delete {
   -webkit-transform: translate(calc(50vw - 320px - 35px), -100vh);
           transform: translate(calc(50vw - 320px - 35px), -100vh);
 }
-.chips__pile:nth-child(10) .chip--exchange-to-dealer.chip--delete {
+.chips__pile:nth-child(10) .chip.chip--delete {
   -webkit-transform: translate(calc(50vw - 288px - 35px), -100vh);
           transform: translate(calc(50vw - 288px - 35px), -100vh);
 }
-.chips__pile:nth-child(9) .chip--exchange-to-dealer.chip--delete {
+.chips__pile:nth-child(9) .chip.chip--delete {
   -webkit-transform: translate(calc(50vw - 256px - 35px), -100vh);
           transform: translate(calc(50vw - 256px - 35px), -100vh);
 }
-.chips__pile:nth-child(8) .chip--exchange-to-dealer.chip--delete {
+.chips__pile:nth-child(8) .chip.chip--delete {
   -webkit-transform: translate(calc(50vw - 224px - 35px), -100vh);
           transform: translate(calc(50vw - 224px - 35px), -100vh);
 }
-.chips__pile:nth-child(7) .chip--exchange-to-dealer.chip--delete {
+.chips__pile:nth-child(7) .chip.chip--delete {
   -webkit-transform: translate(calc(50vw - 192px - 35px), -100vh);
           transform: translate(calc(50vw - 192px - 35px), -100vh);
 }
-.chips__pile:nth-child(6) .chip--exchange-to-dealer.chip--delete {
+.chips__pile:nth-child(6) .chip.chip--delete {
   -webkit-transform: translate(calc(50vw - 160px - 35px), -100vh);
           transform: translate(calc(50vw - 160px - 35px), -100vh);
 }
-.chips__pile:nth-child(5) .chip--exchange-to-dealer.chip--delete {
+.chips__pile:nth-child(5) .chip.chip--delete {
   -webkit-transform: translate(calc(50vw - 128px - 35px), -100vh);
           transform: translate(calc(50vw - 128px - 35px), -100vh);
 }
-.chips__pile:nth-child(4) .chip--exchange-to-dealer.chip--delete {
+.chips__pile:nth-child(4) .chip.chip--delete {
   -webkit-transform: translate(calc(50vw - 96px - 35px), -100vh);
           transform: translate(calc(50vw - 96px - 35px), -100vh);
 }
-.chips__pile:nth-child(3) .chip--exchange-to-dealer.chip--delete {
+.chips__pile:nth-child(3) .chip.chip--delete {
   -webkit-transform: translate(calc(50vw - 64px - 35px), -100vh);
           transform: translate(calc(50vw - 64px - 35px), -100vh);
 }
-.chips__pile:nth-child(2) .chip--exchange-to-dealer.chip--delete {
+.chips__pile:nth-child(2) .chip.chip--delete {
   -webkit-transform: translate(calc(50vw - 32px - 35px), -100vh);
           transform: translate(calc(50vw - 32px - 35px), -100vh);
 }
-.chips__pile:nth-child(1) .chip--exchange-to-dealer.chip--delete {
+.chips__pile:nth-child(1) .chip.chip--delete {
   -webkit-transform: translate(calc(50vw - 0px - 35px), -100vh);
           transform: translate(calc(50vw - 0px - 35px), -100vh);
 }
