@@ -714,6 +714,16 @@ svg:not(:root) {
   -webkit-perspective: 800px;
           perspective: 800px;
 }
+.game__dealers-hand .card--open:nth-child(1) {
+  background-color: #ffffff;
+  -webkit-animation: open-dealers-card-1 0.4s linear;
+          animation: open-dealers-card-1 0.4s linear;
+}
+.game__dealers-hand .card--open:nth-child(2) {
+  background-color: #ffffff;
+  -webkit-animation: open-dealers-card-2 0.4s linear;
+          animation: open-dealers-card-2 0.4s linear;
+}
 .game__players-hand {
   position: relative;
   display: -webkit-box;
@@ -2531,8 +2541,6 @@ svg:not(:root) {
   transition: -webkit-transform 0.4s ease;
   transition: transform 0.4s ease;
   transition: transform 0.4s ease, -webkit-transform 0.4s ease;
-  -webkit-transform: rotateY(-180deg);
-          transform: rotateY(-180deg);
 }
 .card--shuffle:nth-child(1) {
   -webkit-animation: card-yellow-shuffle 4s ease;
@@ -2554,8 +2562,6 @@ svg:not(:root) {
   background-color: #ffffff;
   -webkit-animation: open-card 0.4s linear;
           animation: open-card 0.4s linear;
-  -webkit-transform: rotateY(0);
-          transform: rotateY(0);
 }
 .card--yellow {
   background-color: yellow;
@@ -2719,16 +2725,112 @@ svg:not(:root) {
 .card--heartsA {
   background-image: url("../img/hA.png");
 }
+@-webkit-keyframes open-dealers-card-1 {
+  0% {
+    -webkit-transform: rotateY(-180deg);
+            transform: rotateY(-180deg);
+  }
+  20% {
+    -webkit-transform: translateX(-68%) rotateY(-180deg);
+            transform: translateX(-68%) rotateY(-180deg);
+  }
+  60% {
+    -webkit-transform: translateX(-68%) translateZ(51px) rotateY(-90deg);
+            transform: translateX(-68%) translateZ(51px) rotateY(-90deg);
+  }
+  100% {
+    -webkit-transform: translateZ(0) rotateY(0);
+            transform: translateZ(0) rotateY(0);
+  }
+}
+@keyframes open-dealers-card-1 {
+  0% {
+    -webkit-transform: rotateY(-180deg);
+            transform: rotateY(-180deg);
+  }
+  20% {
+    -webkit-transform: translateX(-68%) rotateY(-180deg);
+            transform: translateX(-68%) rotateY(-180deg);
+  }
+  60% {
+    -webkit-transform: translateX(-68%) translateZ(51px) rotateY(-90deg);
+            transform: translateX(-68%) translateZ(51px) rotateY(-90deg);
+  }
+  100% {
+    -webkit-transform: translateZ(0) rotateY(0);
+            transform: translateZ(0) rotateY(0);
+  }
+}
+@-webkit-keyframes open-dealers-card-2 {
+  0% {
+    -webkit-transform: rotateY(180deg);
+            transform: rotateY(180deg);
+  }
+  20% {
+    -webkit-transform: translateX(35px) rotateY(180deg);
+            transform: translateX(35px) rotateY(180deg);
+  }
+  60% {
+    -webkit-transform: translateX(35px) translateZ(51px) rotateY(90deg);
+            transform: translateX(35px) translateZ(51px) rotateY(90deg);
+  }
+  100% {
+    -webkit-transform: translateZ(0) rotateY(0);
+            transform: translateZ(0) rotateY(0);
+  }
+}
+@keyframes open-dealers-card-2 {
+  0% {
+    -webkit-transform: rotateY(180deg);
+            transform: rotateY(180deg);
+  }
+  20% {
+    -webkit-transform: translateX(35px) rotateY(180deg);
+            transform: translateX(35px) rotateY(180deg);
+  }
+  60% {
+    -webkit-transform: translateX(35px) translateZ(51px) rotateY(90deg);
+            transform: translateX(35px) translateZ(51px) rotateY(90deg);
+  }
+  100% {
+    -webkit-transform: translateZ(0) rotateY(0);
+            transform: translateZ(0) rotateY(0);
+  }
+}
 @-webkit-keyframes open-card {
-  50% {
-    -webkit-transform: translateZ(51px) rotateY(-90deg);
-            transform: translateZ(51px) rotateY(-90deg);
+  0% {
+    -webkit-transform: rotateY(-180deg);
+            transform: rotateY(-180deg);
+  }
+  20% {
+    -webkit-transform: translateX(-10px) rotateY(-180deg);
+            transform: translateX(-10px) rotateY(-180deg);
+  }
+  60% {
+    -webkit-transform: translateX(-10px) translateZ(51px) rotateY(-90deg);
+            transform: translateX(-10px) translateZ(51px) rotateY(-90deg);
+  }
+  100% {
+    -webkit-transform: translateZ(0) rotateY(0);
+            transform: translateZ(0) rotateY(0);
   }
 }
 @keyframes open-card {
-  50% {
-    -webkit-transform: translateZ(51px) rotateY(-90deg);
-            transform: translateZ(51px) rotateY(-90deg);
+  0% {
+    -webkit-transform: rotateY(-180deg);
+            transform: rotateY(-180deg);
+  }
+  20% {
+    -webkit-transform: translateX(-10px) rotateY(-180deg);
+            transform: translateX(-10px) rotateY(-180deg);
+  }
+  60% {
+    -webkit-transform: translateX(-10px) translateZ(51px) rotateY(-90deg);
+            transform: translateX(-10px) translateZ(51px) rotateY(-90deg);
+  }
+  100% {
+    -webkit-transform: translateZ(0) rotateY(0);
+            transform: translateZ(0) rotateY(0);
   }
 }
 @-webkit-keyframes card-shuffle {
