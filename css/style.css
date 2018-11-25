@@ -2528,15 +2528,13 @@ svg:not(:root) {
   position: absolute;
   width: 50px;
   height: 72px;
-  background-color: #2f6aa8;
-  background-image: url("../img/shirt-optim.jpg");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
+  background-color: #ffffff;
+  background-image: linear-gradient(135deg, #e11d0e 25%, transparent 25%), linear-gradient(225deg, #e11d0e 26%, transparent 26%), linear-gradient(45deg, #e11d0e 25%, transparent 25%), linear-gradient(315deg, #e11d0e 26%, transparent 26%);
+  background-size: 2px 2px;
   border: 3px solid white;
-  border-radius: 5px;
-  -webkit-box-shadow: 0 0 0 1px rgba(185, 185, 185, 0.3);
-          box-shadow: 0 0 0 1px rgba(185, 185, 185, 0.3);
+  border-radius: 3px;
+  -webkit-box-shadow: 0 0 0 1px rgba(90, 90, 90, 0.3);
+          box-shadow: 0 0 0 1px rgba(90, 90, 90, 0.3);
   -webkit-transition: -webkit-transform 0.4s ease;
   transition: -webkit-transform 0.4s ease;
   transition: transform 0.4s ease;
@@ -2559,7 +2557,6 @@ svg:not(:root) {
           animation: card2-shuffle 4s ease;
 }
 .card--open {
-  background-color: #ffffff;
   -webkit-animation: open-card 0.4s linear;
           animation: open-card 0.4s linear;
 }
@@ -2570,160 +2567,316 @@ svg:not(:root) {
 }
 .card--spades2 {
   background-image: url("../img/s2.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--spades3 {
   background-image: url("../img/s3.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--spades4 {
   background-image: url("../img/s4.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--spades5 {
   background-image: url("../img/s5.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--spades6 {
   background-image: url("../img/s6.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--spades7 {
   background-image: url("../img/s7.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--spades8 {
   background-image: url("../img/s8.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--spades9 {
   background-image: url("../img/s9.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--spades10 {
   background-image: url("../img/s10.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--spadesJ {
   background-image: url("../img/sJ.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--spadesQ {
   background-image: url("../img/sQ.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--spadesK {
   background-image: url("../img/sK.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--spadesA {
   background-image: url("../img/sA.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--clubs2 {
   background-color: white;
   background-image: url("../img/c2.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--clubs3 {
   background-image: url("../img/c3.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--clubs4 {
   background-image: url("../img/c4.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--clubs5 {
   background-image: url("../img/c5.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--clubs6 {
   background-image: url("../img/c6.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--clubs7 {
   background-image: url("../img/c7.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--clubs8 {
   background-image: url("../img/c8.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--clubs9 {
   background-image: url("../img/c9.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--clubs10 {
   background-image: url("../img/c10.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--clubsJ {
   background-image: url("../img/cJ.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--clubsQ {
   background-image: url("../img/cQ.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--clubsK {
   background-image: url("../img/cK.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--clubsA {
   background-image: url("../img/cA.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--diamonds2 {
   background-image: url("../img/d2.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--diamonds3 {
   background-image: url("../img/d3.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--diamonds4 {
   background-image: url("../img/d4.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--diamonds5 {
   background-image: url("../img/d5.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--diamonds6 {
   background-image: url("../img/d6.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--diamonds7 {
   background-image: url("../img/d7.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--diamonds8 {
   background-image: url("../img/d8.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--diamonds9 {
   background-image: url("../img/d9.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--diamonds10 {
   background-image: url("../img/d10.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--diamondsJ {
   background-image: url("../img/dJ.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--diamondsQ {
   background-image: url("../img/dQ.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--diamondsK {
   background-image: url("../img/dK.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--diamondsA {
   background-image: url("../img/dA.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--hearts2 {
   background-image: url("../img/h2.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--hearts3 {
   background-image: url("../img/h3.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--hearts4 {
   background-image: url("../img/h4.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--hearts5 {
   background-image: url("../img/h5.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--hearts6 {
   background-image: url("../img/h6.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--hearts7 {
   background-image: url("../img/h7.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--hearts8 {
   background-image: url("../img/h8.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--hearts9 {
   background-image: url("../img/h9.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--hearts10 {
   background-image: url("../img/h10.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--heartsJ {
   background-image: url("../img/hJ.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--heartsQ {
   background-image: url("../img/hQ.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--heartsK {
   background-image: url("../img/hK.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .card--heartsA {
   background-image: url("../img/hA.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 @-webkit-keyframes open-dealers-card-1 {
   0% {
