@@ -305,6 +305,432 @@ template {
 svg:not(:root) {
   overflow: hidden;
 }
+@-webkit-keyframes opacity {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes opacity {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes card0-shuffle {
+  0% {
+    -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+  }
+  10% {
+    -webkit-transform: translate(calc(-50vw + 60px), 100%);
+            transform: translate(calc(-50vw + 60px), 100%);
+  }
+  92% {
+    -webkit-transform: translate(calc(-50vw + 60px), 100%);
+            transform: translate(calc(-50vw + 60px), 100%);
+  }
+  100% {
+    -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+  }
+}
+@keyframes card0-shuffle {
+  0% {
+    -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+  }
+  10% {
+    -webkit-transform: translate(calc(-50vw + 60px), 100%);
+            transform: translate(calc(-50vw + 60px), 100%);
+  }
+  92% {
+    -webkit-transform: translate(calc(-50vw + 60px), 100%);
+            transform: translate(calc(-50vw + 60px), 100%);
+  }
+  100% {
+    -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+  }
+}
+@-webkit-keyframes card2-shuffle {
+  0% {
+    -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+  }
+  11% {
+    -webkit-transform: translate(calc(-50vw + 60px), calc(100% - 1px));
+            transform: translate(calc(-50vw + 60px), calc(100% - 1px));
+  }
+  35% {
+    -webkit-transform: translate(calc(-50vw + 60px), calc(100% - 1px));
+            transform: translate(calc(-50vw + 60px), calc(100% - 1px));
+  }
+  40% {
+    -webkit-transform: translate(calc(-50vw + 8px), calc(100% - 1px));
+            transform: translate(calc(-50vw + 8px), calc(100% - 1px));
+  }
+  45% {
+    -webkit-transform: translate(calc(-50vw + 60px), calc(100% - 1px));
+            transform: translate(calc(-50vw + 60px), calc(100% - 1px));
+  }
+  55% {
+    -webkit-transform: translate(calc(-50vw + 60px), calc(100% - 1px));
+            transform: translate(calc(-50vw + 60px), calc(100% - 1px));
+  }
+  60% {
+    -webkit-transform: translate(calc(-50vw + 8px), calc(100% - 1px));
+            transform: translate(calc(-50vw + 8px), calc(100% - 1px));
+  }
+  65% {
+    -webkit-transform: translate(calc(-50vw + 60px), calc(100% - 1px));
+            transform: translate(calc(-50vw + 60px), calc(100% - 1px));
+  }
+  91% {
+    -webkit-transform: translate(calc(-50vw + 60px), calc(100% - 1px));
+            transform: translate(calc(-50vw + 60px), calc(100% - 1px));
+  }
+  100% {
+    -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+  }
+}
+@keyframes card2-shuffle {
+  0% {
+    -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+  }
+  11% {
+    -webkit-transform: translate(calc(-50vw + 60px), calc(100% - 1px));
+            transform: translate(calc(-50vw + 60px), calc(100% - 1px));
+  }
+  35% {
+    -webkit-transform: translate(calc(-50vw + 60px), calc(100% - 1px));
+            transform: translate(calc(-50vw + 60px), calc(100% - 1px));
+  }
+  40% {
+    -webkit-transform: translate(calc(-50vw + 8px), calc(100% - 1px));
+            transform: translate(calc(-50vw + 8px), calc(100% - 1px));
+  }
+  45% {
+    -webkit-transform: translate(calc(-50vw + 60px), calc(100% - 1px));
+            transform: translate(calc(-50vw + 60px), calc(100% - 1px));
+  }
+  55% {
+    -webkit-transform: translate(calc(-50vw + 60px), calc(100% - 1px));
+            transform: translate(calc(-50vw + 60px), calc(100% - 1px));
+  }
+  60% {
+    -webkit-transform: translate(calc(-50vw + 8px), calc(100% - 1px));
+            transform: translate(calc(-50vw + 8px), calc(100% - 1px));
+  }
+  65% {
+    -webkit-transform: translate(calc(-50vw + 60px), calc(100% - 1px));
+            transform: translate(calc(-50vw + 60px), calc(100% - 1px));
+  }
+  91% {
+    -webkit-transform: translate(calc(-50vw + 60px), calc(100% - 1px));
+            transform: translate(calc(-50vw + 60px), calc(100% - 1px));
+  }
+  100% {
+    -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+  }
+}
+@-webkit-keyframes card-shuffle {
+  0% {
+    -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+  }
+  12% {
+    -webkit-transform: translate(calc(-50vw + 60px), 100%);
+            transform: translate(calc(-50vw + 60px), 100%);
+  }
+  25% {
+    -webkit-transform: translate(calc(-50vw + 60px), 100%);
+            transform: translate(calc(-50vw + 60px), 100%);
+  }
+  30% {
+    -webkit-transform: translate(calc(-50vw + 8px), 100%);
+            transform: translate(calc(-50vw + 8px), 100%);
+  }
+  35% {
+    -webkit-transform: translate(calc(-50vw + 60px), 100%);
+            transform: translate(calc(-50vw + 60px), 100%);
+  }
+  45% {
+    -webkit-transform: translate(calc(-50vw + 60px), 100%);
+            transform: translate(calc(-50vw + 60px), 100%);
+  }
+  50% {
+    -webkit-transform: translate(calc(-50vw + 8px), 100%);
+            transform: translate(calc(-50vw + 8px), 100%);
+  }
+  55% {
+    -webkit-transform: translate(calc(-50vw + 60px), 100%);
+            transform: translate(calc(-50vw + 60px), 100%);
+  }
+  65% {
+    -webkit-transform: translate(calc(-50vw + 60px), 100%);
+            transform: translate(calc(-50vw + 60px), 100%);
+  }
+  70% {
+    -webkit-transform: translate(calc(-50vw + 8px), 100%);
+            transform: translate(calc(-50vw + 8px), 100%);
+  }
+  75% {
+    -webkit-transform: translate(calc(-50vw + 60px), 100%);
+            transform: translate(calc(-50vw + 60px), 100%);
+  }
+  90% {
+    -webkit-transform: translate(calc(-50vw + 60px), 100%);
+            transform: translate(calc(-50vw + 60px), 100%);
+  }
+  100% {
+    -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+  }
+}
+@keyframes card-shuffle {
+  0% {
+    -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+  }
+  12% {
+    -webkit-transform: translate(calc(-50vw + 60px), 100%);
+            transform: translate(calc(-50vw + 60px), 100%);
+  }
+  25% {
+    -webkit-transform: translate(calc(-50vw + 60px), 100%);
+            transform: translate(calc(-50vw + 60px), 100%);
+  }
+  30% {
+    -webkit-transform: translate(calc(-50vw + 8px), 100%);
+            transform: translate(calc(-50vw + 8px), 100%);
+  }
+  35% {
+    -webkit-transform: translate(calc(-50vw + 60px), 100%);
+            transform: translate(calc(-50vw + 60px), 100%);
+  }
+  45% {
+    -webkit-transform: translate(calc(-50vw + 60px), 100%);
+            transform: translate(calc(-50vw + 60px), 100%);
+  }
+  50% {
+    -webkit-transform: translate(calc(-50vw + 8px), 100%);
+            transform: translate(calc(-50vw + 8px), 100%);
+  }
+  55% {
+    -webkit-transform: translate(calc(-50vw + 60px), 100%);
+            transform: translate(calc(-50vw + 60px), 100%);
+  }
+  65% {
+    -webkit-transform: translate(calc(-50vw + 60px), 100%);
+            transform: translate(calc(-50vw + 60px), 100%);
+  }
+  70% {
+    -webkit-transform: translate(calc(-50vw + 8px), 100%);
+            transform: translate(calc(-50vw + 8px), 100%);
+  }
+  75% {
+    -webkit-transform: translate(calc(-50vw + 60px), 100%);
+            transform: translate(calc(-50vw + 60px), 100%);
+  }
+  90% {
+    -webkit-transform: translate(calc(-50vw + 60px), 100%);
+            transform: translate(calc(-50vw + 60px), 100%);
+  }
+  100% {
+    -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+  }
+}
+@-webkit-keyframes card-yellow-shuffle {
+  0% {
+    -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+  }
+  10% {
+    -webkit-transform: translate(calc(-50vw - 60px), 110%);
+            transform: translate(calc(-50vw - 60px), 110%);
+  }
+  75% {
+    -webkit-transform: translate(calc(-50vw - 60px), 110%);
+            transform: translate(calc(-50vw - 60px), 110%);
+  }
+  84% {
+    -webkit-transform: translate(calc(-50vw + 60px), 100%);
+            transform: translate(calc(-50vw + 60px), 100%);
+  }
+  90% {
+    -webkit-transform: translate(calc(-50vw + 60px), 100%);
+            transform: translate(calc(-50vw + 60px), 100%);
+  }
+  100% {
+    -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+  }
+}
+@keyframes card-yellow-shuffle {
+  0% {
+    -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+  }
+  10% {
+    -webkit-transform: translate(calc(-50vw - 60px), 110%);
+            transform: translate(calc(-50vw - 60px), 110%);
+  }
+  75% {
+    -webkit-transform: translate(calc(-50vw - 60px), 110%);
+            transform: translate(calc(-50vw - 60px), 110%);
+  }
+  84% {
+    -webkit-transform: translate(calc(-50vw + 60px), 100%);
+            transform: translate(calc(-50vw + 60px), 100%);
+  }
+  90% {
+    -webkit-transform: translate(calc(-50vw + 60px), 100%);
+            transform: translate(calc(-50vw + 60px), 100%);
+  }
+  100% {
+    -webkit-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+  }
+}
+@-webkit-keyframes open-card {
+  0% {
+    -webkit-transform: translateZ(0) rotateY(-180deg);
+            transform: translateZ(0) rotateY(-180deg);
+  }
+  50% {
+    -webkit-transform: translateZ(51px) rotateY(-90deg);
+            transform: translateZ(51px) rotateY(-90deg);
+  }
+  100% {
+    -webkit-transform: translateZ(0) rotateY(0);
+            transform: translateZ(0) rotateY(0);
+  }
+}
+@keyframes open-card {
+  0% {
+    -webkit-transform: translateZ(0) rotateY(-180deg);
+            transform: translateZ(0) rotateY(-180deg);
+  }
+  50% {
+    -webkit-transform: translateZ(51px) rotateY(-90deg);
+            transform: translateZ(51px) rotateY(-90deg);
+  }
+  100% {
+    -webkit-transform: translateZ(0) rotateY(0);
+            transform: translateZ(0) rotateY(0);
+  }
+}
+@-webkit-keyframes open-dealers-card-1 {
+  0% {
+    -webkit-transform: translateX(0) translateZ(0) rotateY(-180deg);
+            transform: translateX(0) translateZ(0) rotateY(-180deg);
+  }
+  20% {
+    -webkit-transform: translateX(-68%) translateZ(0) rotateY(-180deg);
+            transform: translateX(-68%) translateZ(0) rotateY(-180deg);
+  }
+  50% {
+    -webkit-transform: translateX(-68%) translateZ(51px) rotateY(-90deg);
+            transform: translateX(-68%) translateZ(51px) rotateY(-90deg);
+  }
+  100% {
+    -webkit-transform: translateX(0) translateZ(0) rotateY(0);
+            transform: translateX(0) translateZ(0) rotateY(0);
+  }
+}
+@keyframes open-dealers-card-1 {
+  0% {
+    -webkit-transform: translateX(0) translateZ(0) rotateY(-180deg);
+            transform: translateX(0) translateZ(0) rotateY(-180deg);
+  }
+  20% {
+    -webkit-transform: translateX(-68%) translateZ(0) rotateY(-180deg);
+            transform: translateX(-68%) translateZ(0) rotateY(-180deg);
+  }
+  50% {
+    -webkit-transform: translateX(-68%) translateZ(51px) rotateY(-90deg);
+            transform: translateX(-68%) translateZ(51px) rotateY(-90deg);
+  }
+  100% {
+    -webkit-transform: translateX(0) translateZ(0) rotateY(0);
+            transform: translateX(0) translateZ(0) rotateY(0);
+  }
+}
+@-webkit-keyframes open-dealers-card-2 {
+  0% {
+    -webkit-transform: translateX(0) translateZ(0) rotateY(-180deg);
+            transform: translateX(0) translateZ(0) rotateY(-180deg);
+  }
+  20% {
+    -webkit-transform: translateX(35px) translateZ(0) rotateY(-180deg);
+            transform: translateX(35px) translateZ(0) rotateY(-180deg);
+  }
+  50% {
+    -webkit-transform: translateX(35px) translateZ(51px) rotateY(-90deg);
+            transform: translateX(35px) translateZ(51px) rotateY(-90deg);
+  }
+  100% {
+    -webkit-transform: translateX(0) translateZ(0) rotateY(0);
+            transform: translateX(0) translateZ(0) rotateY(0);
+  }
+}
+@keyframes open-dealers-card-2 {
+  0% {
+    -webkit-transform: translateX(0) translateZ(0) rotateY(-180deg);
+            transform: translateX(0) translateZ(0) rotateY(-180deg);
+  }
+  20% {
+    -webkit-transform: translateX(35px) translateZ(0) rotateY(-180deg);
+            transform: translateX(35px) translateZ(0) rotateY(-180deg);
+  }
+  50% {
+    -webkit-transform: translateX(35px) translateZ(51px) rotateY(-90deg);
+            transform: translateX(35px) translateZ(51px) rotateY(-90deg);
+  }
+  100% {
+    -webkit-transform: translateX(0) translateZ(0) rotateY(0);
+            transform: translateX(0) translateZ(0) rotateY(0);
+  }
+}
+@-webkit-keyframes show-card {
+  100% {
+    background-image: none;
+  }
+}
+@keyframes show-card {
+  100% {
+    background-image: none;
+  }
+}
+@-webkit-keyframes show-card-span {
+  0% {
+    -webkit-transform: translateX(200px);
+            transform: translateX(200px);
+  }
+  100% {
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
+  }
+}
+@keyframes show-card-span {
+  0% {
+    -webkit-transform: translateX(200px);
+            transform: translateX(200px);
+  }
+  100% {
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
+  }
+}
 .start-game {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
@@ -343,9 +769,40 @@ svg:not(:root) {
   width: 100%;
   max-width: 400px;
   margin: auto;
+  background-image: url("../img/my-spade.svg"), url("../img/my-diamond.svg"), url("../img/my-heart.svg"), url("../img/my-clubs.svg");
+  background-repeat: no-repeat;
+  background-size: 20px;
+  background-position: 10% top, 10% bottom, 90% top, 90% bottom;
   -webkit-transition: opacity 0.4s ease-out;
   transition: opacity 0.4s ease-out;
   opacity: 0;
+}
+.page-header .card {
+  z-index: -1;
+}
+.page-header .card:nth-child(1) {
+  top: 0;
+  right: 0;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+}
+.page-header .card:nth-child(2) {
+  top: 0;
+  left: 0;
+  -webkit-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+}
+.page-header .card:nth-child(3) {
+  bottom: 0;
+  left: 0;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+}
+.page-header .card:nth-child(4) {
+  bottom: 0;
+  right: 0;
+  -webkit-transform: rotate(-45deg);
+          transform: rotate(-45deg);
 }
 .page-header__title {
   margin: 0 0 20px;
@@ -531,9 +988,6 @@ svg:not(:root) {
   width: 100%;
   height: 100%;
   max-width: 1440px;
-  -webkit-transition: opacity 0.4s ease-out;
-  transition: opacity 0.4s ease-out;
-  opacity: 0;
 }
 .table::before {
   content: "";
@@ -587,7 +1041,7 @@ svg:not(:root) {
   position: absolute;
   top: 0;
   right: -25px;
-  z-index: 10;
+  z-index: 100;
   display: block;
   width: 76px;
   height: 76px;
@@ -723,10 +1177,8 @@ svg:not(:root) {
   left: 0;
   -webkit-transform: rotate(-45deg);
           transform: rotate(-45deg);
-}
-.game__deck .card--yellow {
-  -webkit-transform: rotate(-45deg);
-          transform: rotate(-45deg);
+  -webkit-transition: none;
+  transition: none;
 }
 .game__dealers-hand {
   position: relative;
@@ -1113,956 +1565,956 @@ svg:not(:root) {
   transition: transform 0.4s ease-out, -webkit-transform 0.4s ease-out;
 }
 .chips__pile:nth-child(20) {
-  -webkit-transform: translateX(570px);
-          transform: translateX(570px);
+  -webkit-transform: translateX(608px);
+          transform: translateX(608px);
 }
 .chips__pile:nth-child(19) {
-  -webkit-transform: translateX(540px);
-          transform: translateX(540px);
+  -webkit-transform: translateX(576px);
+          transform: translateX(576px);
 }
 .chips__pile:nth-child(18) {
-  -webkit-transform: translateX(510px);
-          transform: translateX(510px);
+  -webkit-transform: translateX(544px);
+          transform: translateX(544px);
 }
 .chips__pile:nth-child(17) {
+  -webkit-transform: translateX(512px);
+          transform: translateX(512px);
+}
+.chips__pile:nth-child(16) {
   -webkit-transform: translateX(480px);
           transform: translateX(480px);
 }
-.chips__pile:nth-child(16) {
-  -webkit-transform: translateX(450px);
-          transform: translateX(450px);
-}
 .chips__pile:nth-child(15) {
-  -webkit-transform: translateX(420px);
-          transform: translateX(420px);
+  -webkit-transform: translateX(448px);
+          transform: translateX(448px);
 }
 .chips__pile:nth-child(14) {
-  -webkit-transform: translateX(390px);
-          transform: translateX(390px);
+  -webkit-transform: translateX(416px);
+          transform: translateX(416px);
 }
 .chips__pile:nth-child(13) {
-  -webkit-transform: translateX(360px);
-          transform: translateX(360px);
+  -webkit-transform: translateX(384px);
+          transform: translateX(384px);
 }
 .chips__pile:nth-child(12) {
-  -webkit-transform: translateX(330px);
-          transform: translateX(330px);
+  -webkit-transform: translateX(352px);
+          transform: translateX(352px);
 }
 .chips__pile:nth-child(11) {
-  -webkit-transform: translateX(300px);
-          transform: translateX(300px);
+  -webkit-transform: translateX(320px);
+          transform: translateX(320px);
 }
 .chips__pile:nth-child(10) {
-  -webkit-transform: translateX(270px);
-          transform: translateX(270px);
+  -webkit-transform: translateX(288px);
+          transform: translateX(288px);
 }
 .chips__pile:nth-child(9) {
-  -webkit-transform: translateX(240px);
-          transform: translateX(240px);
+  -webkit-transform: translateX(256px);
+          transform: translateX(256px);
 }
 .chips__pile:nth-child(8) {
-  -webkit-transform: translateX(210px);
-          transform: translateX(210px);
+  -webkit-transform: translateX(224px);
+          transform: translateX(224px);
 }
 .chips__pile:nth-child(7) {
-  -webkit-transform: translateX(180px);
-          transform: translateX(180px);
+  -webkit-transform: translateX(192px);
+          transform: translateX(192px);
 }
 .chips__pile:nth-child(6) {
-  -webkit-transform: translateX(150px);
-          transform: translateX(150px);
+  -webkit-transform: translateX(160px);
+          transform: translateX(160px);
 }
 .chips__pile:nth-child(5) {
-  -webkit-transform: translateX(120px);
-          transform: translateX(120px);
+  -webkit-transform: translateX(128px);
+          transform: translateX(128px);
 }
 .chips__pile:nth-child(4) {
-  -webkit-transform: translateX(90px);
-          transform: translateX(90px);
+  -webkit-transform: translateX(96px);
+          transform: translateX(96px);
 }
 .chips__pile:nth-child(3) {
-  -webkit-transform: translateX(60px);
-          transform: translateX(60px);
+  -webkit-transform: translateX(64px);
+          transform: translateX(64px);
 }
 .chips__pile:nth-child(2) {
-  -webkit-transform: translateX(30px);
-          transform: translateX(30px);
+  -webkit-transform: translateX(32px);
+          transform: translateX(32px);
 }
 .chips__pile:nth-child(20) .chip.chip--exchange-to-dealer-4 {
-  -webkit-transform: translate(calc(50vw - 570px - 35px), calc(-4px - 50vh));
-          transform: translate(calc(50vw - 570px - 35px), calc(-4px - 50vh));
+  -webkit-transform: translate(calc(50vw - 608px - 24px), calc(-6px - 50vh));
+          transform: translate(calc(50vw - 608px - 24px), calc(-6px - 50vh));
 }
 .chips__pile:nth-child(20) .chip.chip--exchange-to-dealer-3 {
-  -webkit-transform: translate(calc(50vw - 570px - 35px), calc(-3px - 50vh));
-          transform: translate(calc(50vw - 570px - 35px), calc(-3px - 50vh));
+  -webkit-transform: translate(calc(50vw - 608px - 24px), calc(-4.5px - 50vh));
+          transform: translate(calc(50vw - 608px - 24px), calc(-4.5px - 50vh));
 }
 .chips__pile:nth-child(20) .chip.chip--exchange-to-dealer-2 {
-  -webkit-transform: translate(calc(50vw - 570px - 35px), calc(-2px - 50vh));
-          transform: translate(calc(50vw - 570px - 35px), calc(-2px - 50vh));
+  -webkit-transform: translate(calc(50vw - 608px - 24px), calc(-3px - 50vh));
+          transform: translate(calc(50vw - 608px - 24px), calc(-3px - 50vh));
 }
 .chips__pile:nth-child(20) .chip.chip--exchange-to-dealer-1 {
-  -webkit-transform: translate(calc(50vw - 570px - 35px), calc(-1px - 50vh));
-          transform: translate(calc(50vw - 570px - 35px), calc(-1px - 50vh));
+  -webkit-transform: translate(calc(50vw - 608px - 24px), calc(-1.5px - 50vh));
+          transform: translate(calc(50vw - 608px - 24px), calc(-1.5px - 50vh));
 }
 .chips__pile:nth-child(20) .chip.chip--exchange-to-dealer-0 {
-  -webkit-transform: translate(calc(50vw - 570px - 35px), -50vh);
-          transform: translate(calc(50vw - 570px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 608px - 24px), -50vh);
+          transform: translate(calc(50vw - 608px - 24px), -50vh);
 }
 .chips__pile:nth-child(19) .chip.chip--exchange-to-dealer-4 {
-  -webkit-transform: translate(calc(50vw - 540px - 35px), calc(-4px - 50vh));
-          transform: translate(calc(50vw - 540px - 35px), calc(-4px - 50vh));
+  -webkit-transform: translate(calc(50vw - 576px - 24px), calc(-6px - 50vh));
+          transform: translate(calc(50vw - 576px - 24px), calc(-6px - 50vh));
 }
 .chips__pile:nth-child(19) .chip.chip--exchange-to-dealer-3 {
-  -webkit-transform: translate(calc(50vw - 540px - 35px), calc(-3px - 50vh));
-          transform: translate(calc(50vw - 540px - 35px), calc(-3px - 50vh));
+  -webkit-transform: translate(calc(50vw - 576px - 24px), calc(-4.5px - 50vh));
+          transform: translate(calc(50vw - 576px - 24px), calc(-4.5px - 50vh));
 }
 .chips__pile:nth-child(19) .chip.chip--exchange-to-dealer-2 {
-  -webkit-transform: translate(calc(50vw - 540px - 35px), calc(-2px - 50vh));
-          transform: translate(calc(50vw - 540px - 35px), calc(-2px - 50vh));
+  -webkit-transform: translate(calc(50vw - 576px - 24px), calc(-3px - 50vh));
+          transform: translate(calc(50vw - 576px - 24px), calc(-3px - 50vh));
 }
 .chips__pile:nth-child(19) .chip.chip--exchange-to-dealer-1 {
-  -webkit-transform: translate(calc(50vw - 540px - 35px), calc(-1px - 50vh));
-          transform: translate(calc(50vw - 540px - 35px), calc(-1px - 50vh));
+  -webkit-transform: translate(calc(50vw - 576px - 24px), calc(-1.5px - 50vh));
+          transform: translate(calc(50vw - 576px - 24px), calc(-1.5px - 50vh));
 }
 .chips__pile:nth-child(19) .chip.chip--exchange-to-dealer-0 {
-  -webkit-transform: translate(calc(50vw - 540px - 35px), -50vh);
-          transform: translate(calc(50vw - 540px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 576px - 24px), -50vh);
+          transform: translate(calc(50vw - 576px - 24px), -50vh);
 }
 .chips__pile:nth-child(18) .chip.chip--exchange-to-dealer-4 {
-  -webkit-transform: translate(calc(50vw - 510px - 35px), calc(-4px - 50vh));
-          transform: translate(calc(50vw - 510px - 35px), calc(-4px - 50vh));
+  -webkit-transform: translate(calc(50vw - 544px - 24px), calc(-6px - 50vh));
+          transform: translate(calc(50vw - 544px - 24px), calc(-6px - 50vh));
 }
 .chips__pile:nth-child(18) .chip.chip--exchange-to-dealer-3 {
-  -webkit-transform: translate(calc(50vw - 510px - 35px), calc(-3px - 50vh));
-          transform: translate(calc(50vw - 510px - 35px), calc(-3px - 50vh));
+  -webkit-transform: translate(calc(50vw - 544px - 24px), calc(-4.5px - 50vh));
+          transform: translate(calc(50vw - 544px - 24px), calc(-4.5px - 50vh));
 }
 .chips__pile:nth-child(18) .chip.chip--exchange-to-dealer-2 {
-  -webkit-transform: translate(calc(50vw - 510px - 35px), calc(-2px - 50vh));
-          transform: translate(calc(50vw - 510px - 35px), calc(-2px - 50vh));
+  -webkit-transform: translate(calc(50vw - 544px - 24px), calc(-3px - 50vh));
+          transform: translate(calc(50vw - 544px - 24px), calc(-3px - 50vh));
 }
 .chips__pile:nth-child(18) .chip.chip--exchange-to-dealer-1 {
-  -webkit-transform: translate(calc(50vw - 510px - 35px), calc(-1px - 50vh));
-          transform: translate(calc(50vw - 510px - 35px), calc(-1px - 50vh));
+  -webkit-transform: translate(calc(50vw - 544px - 24px), calc(-1.5px - 50vh));
+          transform: translate(calc(50vw - 544px - 24px), calc(-1.5px - 50vh));
 }
 .chips__pile:nth-child(18) .chip.chip--exchange-to-dealer-0 {
-  -webkit-transform: translate(calc(50vw - 510px - 35px), -50vh);
-          transform: translate(calc(50vw - 510px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 544px - 24px), -50vh);
+          transform: translate(calc(50vw - 544px - 24px), -50vh);
 }
 .chips__pile:nth-child(17) .chip.chip--exchange-to-dealer-4 {
-  -webkit-transform: translate(calc(50vw - 480px - 35px), calc(-4px - 50vh));
-          transform: translate(calc(50vw - 480px - 35px), calc(-4px - 50vh));
+  -webkit-transform: translate(calc(50vw - 512px - 24px), calc(-6px - 50vh));
+          transform: translate(calc(50vw - 512px - 24px), calc(-6px - 50vh));
 }
 .chips__pile:nth-child(17) .chip.chip--exchange-to-dealer-3 {
-  -webkit-transform: translate(calc(50vw - 480px - 35px), calc(-3px - 50vh));
-          transform: translate(calc(50vw - 480px - 35px), calc(-3px - 50vh));
+  -webkit-transform: translate(calc(50vw - 512px - 24px), calc(-4.5px - 50vh));
+          transform: translate(calc(50vw - 512px - 24px), calc(-4.5px - 50vh));
 }
 .chips__pile:nth-child(17) .chip.chip--exchange-to-dealer-2 {
-  -webkit-transform: translate(calc(50vw - 480px - 35px), calc(-2px - 50vh));
-          transform: translate(calc(50vw - 480px - 35px), calc(-2px - 50vh));
+  -webkit-transform: translate(calc(50vw - 512px - 24px), calc(-3px - 50vh));
+          transform: translate(calc(50vw - 512px - 24px), calc(-3px - 50vh));
 }
 .chips__pile:nth-child(17) .chip.chip--exchange-to-dealer-1 {
-  -webkit-transform: translate(calc(50vw - 480px - 35px), calc(-1px - 50vh));
-          transform: translate(calc(50vw - 480px - 35px), calc(-1px - 50vh));
+  -webkit-transform: translate(calc(50vw - 512px - 24px), calc(-1.5px - 50vh));
+          transform: translate(calc(50vw - 512px - 24px), calc(-1.5px - 50vh));
 }
 .chips__pile:nth-child(17) .chip.chip--exchange-to-dealer-0 {
-  -webkit-transform: translate(calc(50vw - 480px - 35px), -50vh);
-          transform: translate(calc(50vw - 480px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 512px - 24px), -50vh);
+          transform: translate(calc(50vw - 512px - 24px), -50vh);
 }
 .chips__pile:nth-child(16) .chip.chip--exchange-to-dealer-4 {
-  -webkit-transform: translate(calc(50vw - 450px - 35px), calc(-4px - 50vh));
-          transform: translate(calc(50vw - 450px - 35px), calc(-4px - 50vh));
+  -webkit-transform: translate(calc(50vw - 480px - 24px), calc(-6px - 50vh));
+          transform: translate(calc(50vw - 480px - 24px), calc(-6px - 50vh));
 }
 .chips__pile:nth-child(16) .chip.chip--exchange-to-dealer-3 {
-  -webkit-transform: translate(calc(50vw - 450px - 35px), calc(-3px - 50vh));
-          transform: translate(calc(50vw - 450px - 35px), calc(-3px - 50vh));
+  -webkit-transform: translate(calc(50vw - 480px - 24px), calc(-4.5px - 50vh));
+          transform: translate(calc(50vw - 480px - 24px), calc(-4.5px - 50vh));
 }
 .chips__pile:nth-child(16) .chip.chip--exchange-to-dealer-2 {
-  -webkit-transform: translate(calc(50vw - 450px - 35px), calc(-2px - 50vh));
-          transform: translate(calc(50vw - 450px - 35px), calc(-2px - 50vh));
+  -webkit-transform: translate(calc(50vw - 480px - 24px), calc(-3px - 50vh));
+          transform: translate(calc(50vw - 480px - 24px), calc(-3px - 50vh));
 }
 .chips__pile:nth-child(16) .chip.chip--exchange-to-dealer-1 {
-  -webkit-transform: translate(calc(50vw - 450px - 35px), calc(-1px - 50vh));
-          transform: translate(calc(50vw - 450px - 35px), calc(-1px - 50vh));
+  -webkit-transform: translate(calc(50vw - 480px - 24px), calc(-1.5px - 50vh));
+          transform: translate(calc(50vw - 480px - 24px), calc(-1.5px - 50vh));
 }
 .chips__pile:nth-child(16) .chip.chip--exchange-to-dealer-0 {
-  -webkit-transform: translate(calc(50vw - 450px - 35px), -50vh);
-          transform: translate(calc(50vw - 450px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 480px - 24px), -50vh);
+          transform: translate(calc(50vw - 480px - 24px), -50vh);
 }
 .chips__pile:nth-child(15) .chip.chip--exchange-to-dealer-4 {
-  -webkit-transform: translate(calc(50vw - 420px - 35px), calc(-4px - 50vh));
-          transform: translate(calc(50vw - 420px - 35px), calc(-4px - 50vh));
+  -webkit-transform: translate(calc(50vw - 448px - 24px), calc(-6px - 50vh));
+          transform: translate(calc(50vw - 448px - 24px), calc(-6px - 50vh));
 }
 .chips__pile:nth-child(15) .chip.chip--exchange-to-dealer-3 {
-  -webkit-transform: translate(calc(50vw - 420px - 35px), calc(-3px - 50vh));
-          transform: translate(calc(50vw - 420px - 35px), calc(-3px - 50vh));
+  -webkit-transform: translate(calc(50vw - 448px - 24px), calc(-4.5px - 50vh));
+          transform: translate(calc(50vw - 448px - 24px), calc(-4.5px - 50vh));
 }
 .chips__pile:nth-child(15) .chip.chip--exchange-to-dealer-2 {
-  -webkit-transform: translate(calc(50vw - 420px - 35px), calc(-2px - 50vh));
-          transform: translate(calc(50vw - 420px - 35px), calc(-2px - 50vh));
+  -webkit-transform: translate(calc(50vw - 448px - 24px), calc(-3px - 50vh));
+          transform: translate(calc(50vw - 448px - 24px), calc(-3px - 50vh));
 }
 .chips__pile:nth-child(15) .chip.chip--exchange-to-dealer-1 {
-  -webkit-transform: translate(calc(50vw - 420px - 35px), calc(-1px - 50vh));
-          transform: translate(calc(50vw - 420px - 35px), calc(-1px - 50vh));
+  -webkit-transform: translate(calc(50vw - 448px - 24px), calc(-1.5px - 50vh));
+          transform: translate(calc(50vw - 448px - 24px), calc(-1.5px - 50vh));
 }
 .chips__pile:nth-child(15) .chip.chip--exchange-to-dealer-0 {
-  -webkit-transform: translate(calc(50vw - 420px - 35px), -50vh);
-          transform: translate(calc(50vw - 420px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 448px - 24px), -50vh);
+          transform: translate(calc(50vw - 448px - 24px), -50vh);
 }
 .chips__pile:nth-child(14) .chip.chip--exchange-to-dealer-4 {
-  -webkit-transform: translate(calc(50vw - 390px - 35px), calc(-4px - 50vh));
-          transform: translate(calc(50vw - 390px - 35px), calc(-4px - 50vh));
+  -webkit-transform: translate(calc(50vw - 416px - 24px), calc(-6px - 50vh));
+          transform: translate(calc(50vw - 416px - 24px), calc(-6px - 50vh));
 }
 .chips__pile:nth-child(14) .chip.chip--exchange-to-dealer-3 {
-  -webkit-transform: translate(calc(50vw - 390px - 35px), calc(-3px - 50vh));
-          transform: translate(calc(50vw - 390px - 35px), calc(-3px - 50vh));
+  -webkit-transform: translate(calc(50vw - 416px - 24px), calc(-4.5px - 50vh));
+          transform: translate(calc(50vw - 416px - 24px), calc(-4.5px - 50vh));
 }
 .chips__pile:nth-child(14) .chip.chip--exchange-to-dealer-2 {
-  -webkit-transform: translate(calc(50vw - 390px - 35px), calc(-2px - 50vh));
-          transform: translate(calc(50vw - 390px - 35px), calc(-2px - 50vh));
+  -webkit-transform: translate(calc(50vw - 416px - 24px), calc(-3px - 50vh));
+          transform: translate(calc(50vw - 416px - 24px), calc(-3px - 50vh));
 }
 .chips__pile:nth-child(14) .chip.chip--exchange-to-dealer-1 {
-  -webkit-transform: translate(calc(50vw - 390px - 35px), calc(-1px - 50vh));
-          transform: translate(calc(50vw - 390px - 35px), calc(-1px - 50vh));
+  -webkit-transform: translate(calc(50vw - 416px - 24px), calc(-1.5px - 50vh));
+          transform: translate(calc(50vw - 416px - 24px), calc(-1.5px - 50vh));
 }
 .chips__pile:nth-child(14) .chip.chip--exchange-to-dealer-0 {
-  -webkit-transform: translate(calc(50vw - 390px - 35px), -50vh);
-          transform: translate(calc(50vw - 390px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 416px - 24px), -50vh);
+          transform: translate(calc(50vw - 416px - 24px), -50vh);
 }
 .chips__pile:nth-child(13) .chip.chip--exchange-to-dealer-4 {
-  -webkit-transform: translate(calc(50vw - 360px - 35px), calc(-4px - 50vh));
-          transform: translate(calc(50vw - 360px - 35px), calc(-4px - 50vh));
+  -webkit-transform: translate(calc(50vw - 384px - 24px), calc(-6px - 50vh));
+          transform: translate(calc(50vw - 384px - 24px), calc(-6px - 50vh));
 }
 .chips__pile:nth-child(13) .chip.chip--exchange-to-dealer-3 {
-  -webkit-transform: translate(calc(50vw - 360px - 35px), calc(-3px - 50vh));
-          transform: translate(calc(50vw - 360px - 35px), calc(-3px - 50vh));
+  -webkit-transform: translate(calc(50vw - 384px - 24px), calc(-4.5px - 50vh));
+          transform: translate(calc(50vw - 384px - 24px), calc(-4.5px - 50vh));
 }
 .chips__pile:nth-child(13) .chip.chip--exchange-to-dealer-2 {
-  -webkit-transform: translate(calc(50vw - 360px - 35px), calc(-2px - 50vh));
-          transform: translate(calc(50vw - 360px - 35px), calc(-2px - 50vh));
+  -webkit-transform: translate(calc(50vw - 384px - 24px), calc(-3px - 50vh));
+          transform: translate(calc(50vw - 384px - 24px), calc(-3px - 50vh));
 }
 .chips__pile:nth-child(13) .chip.chip--exchange-to-dealer-1 {
-  -webkit-transform: translate(calc(50vw - 360px - 35px), calc(-1px - 50vh));
-          transform: translate(calc(50vw - 360px - 35px), calc(-1px - 50vh));
+  -webkit-transform: translate(calc(50vw - 384px - 24px), calc(-1.5px - 50vh));
+          transform: translate(calc(50vw - 384px - 24px), calc(-1.5px - 50vh));
 }
 .chips__pile:nth-child(13) .chip.chip--exchange-to-dealer-0 {
-  -webkit-transform: translate(calc(50vw - 360px - 35px), -50vh);
-          transform: translate(calc(50vw - 360px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 384px - 24px), -50vh);
+          transform: translate(calc(50vw - 384px - 24px), -50vh);
 }
 .chips__pile:nth-child(12) .chip.chip--exchange-to-dealer-4 {
-  -webkit-transform: translate(calc(50vw - 330px - 35px), calc(-4px - 50vh));
-          transform: translate(calc(50vw - 330px - 35px), calc(-4px - 50vh));
+  -webkit-transform: translate(calc(50vw - 352px - 24px), calc(-6px - 50vh));
+          transform: translate(calc(50vw - 352px - 24px), calc(-6px - 50vh));
 }
 .chips__pile:nth-child(12) .chip.chip--exchange-to-dealer-3 {
-  -webkit-transform: translate(calc(50vw - 330px - 35px), calc(-3px - 50vh));
-          transform: translate(calc(50vw - 330px - 35px), calc(-3px - 50vh));
+  -webkit-transform: translate(calc(50vw - 352px - 24px), calc(-4.5px - 50vh));
+          transform: translate(calc(50vw - 352px - 24px), calc(-4.5px - 50vh));
 }
 .chips__pile:nth-child(12) .chip.chip--exchange-to-dealer-2 {
-  -webkit-transform: translate(calc(50vw - 330px - 35px), calc(-2px - 50vh));
-          transform: translate(calc(50vw - 330px - 35px), calc(-2px - 50vh));
+  -webkit-transform: translate(calc(50vw - 352px - 24px), calc(-3px - 50vh));
+          transform: translate(calc(50vw - 352px - 24px), calc(-3px - 50vh));
 }
 .chips__pile:nth-child(12) .chip.chip--exchange-to-dealer-1 {
-  -webkit-transform: translate(calc(50vw - 330px - 35px), calc(-1px - 50vh));
-          transform: translate(calc(50vw - 330px - 35px), calc(-1px - 50vh));
+  -webkit-transform: translate(calc(50vw - 352px - 24px), calc(-1.5px - 50vh));
+          transform: translate(calc(50vw - 352px - 24px), calc(-1.5px - 50vh));
 }
 .chips__pile:nth-child(12) .chip.chip--exchange-to-dealer-0 {
-  -webkit-transform: translate(calc(50vw - 330px - 35px), -50vh);
-          transform: translate(calc(50vw - 330px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 352px - 24px), -50vh);
+          transform: translate(calc(50vw - 352px - 24px), -50vh);
 }
 .chips__pile:nth-child(11) .chip.chip--exchange-to-dealer-4 {
-  -webkit-transform: translate(calc(50vw - 300px - 35px), calc(-4px - 50vh));
-          transform: translate(calc(50vw - 300px - 35px), calc(-4px - 50vh));
+  -webkit-transform: translate(calc(50vw - 320px - 24px), calc(-6px - 50vh));
+          transform: translate(calc(50vw - 320px - 24px), calc(-6px - 50vh));
 }
 .chips__pile:nth-child(11) .chip.chip--exchange-to-dealer-3 {
-  -webkit-transform: translate(calc(50vw - 300px - 35px), calc(-3px - 50vh));
-          transform: translate(calc(50vw - 300px - 35px), calc(-3px - 50vh));
+  -webkit-transform: translate(calc(50vw - 320px - 24px), calc(-4.5px - 50vh));
+          transform: translate(calc(50vw - 320px - 24px), calc(-4.5px - 50vh));
 }
 .chips__pile:nth-child(11) .chip.chip--exchange-to-dealer-2 {
-  -webkit-transform: translate(calc(50vw - 300px - 35px), calc(-2px - 50vh));
-          transform: translate(calc(50vw - 300px - 35px), calc(-2px - 50vh));
+  -webkit-transform: translate(calc(50vw - 320px - 24px), calc(-3px - 50vh));
+          transform: translate(calc(50vw - 320px - 24px), calc(-3px - 50vh));
 }
 .chips__pile:nth-child(11) .chip.chip--exchange-to-dealer-1 {
-  -webkit-transform: translate(calc(50vw - 300px - 35px), calc(-1px - 50vh));
-          transform: translate(calc(50vw - 300px - 35px), calc(-1px - 50vh));
+  -webkit-transform: translate(calc(50vw - 320px - 24px), calc(-1.5px - 50vh));
+          transform: translate(calc(50vw - 320px - 24px), calc(-1.5px - 50vh));
 }
 .chips__pile:nth-child(11) .chip.chip--exchange-to-dealer-0 {
-  -webkit-transform: translate(calc(50vw - 300px - 35px), -50vh);
-          transform: translate(calc(50vw - 300px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 320px - 24px), -50vh);
+          transform: translate(calc(50vw - 320px - 24px), -50vh);
 }
 .chips__pile:nth-child(10) .chip.chip--exchange-to-dealer-4 {
-  -webkit-transform: translate(calc(50vw - 270px - 35px), calc(-4px - 50vh));
-          transform: translate(calc(50vw - 270px - 35px), calc(-4px - 50vh));
+  -webkit-transform: translate(calc(50vw - 288px - 24px), calc(-6px - 50vh));
+          transform: translate(calc(50vw - 288px - 24px), calc(-6px - 50vh));
 }
 .chips__pile:nth-child(10) .chip.chip--exchange-to-dealer-3 {
-  -webkit-transform: translate(calc(50vw - 270px - 35px), calc(-3px - 50vh));
-          transform: translate(calc(50vw - 270px - 35px), calc(-3px - 50vh));
+  -webkit-transform: translate(calc(50vw - 288px - 24px), calc(-4.5px - 50vh));
+          transform: translate(calc(50vw - 288px - 24px), calc(-4.5px - 50vh));
 }
 .chips__pile:nth-child(10) .chip.chip--exchange-to-dealer-2 {
-  -webkit-transform: translate(calc(50vw - 270px - 35px), calc(-2px - 50vh));
-          transform: translate(calc(50vw - 270px - 35px), calc(-2px - 50vh));
+  -webkit-transform: translate(calc(50vw - 288px - 24px), calc(-3px - 50vh));
+          transform: translate(calc(50vw - 288px - 24px), calc(-3px - 50vh));
 }
 .chips__pile:nth-child(10) .chip.chip--exchange-to-dealer-1 {
-  -webkit-transform: translate(calc(50vw - 270px - 35px), calc(-1px - 50vh));
-          transform: translate(calc(50vw - 270px - 35px), calc(-1px - 50vh));
+  -webkit-transform: translate(calc(50vw - 288px - 24px), calc(-1.5px - 50vh));
+          transform: translate(calc(50vw - 288px - 24px), calc(-1.5px - 50vh));
 }
 .chips__pile:nth-child(10) .chip.chip--exchange-to-dealer-0 {
-  -webkit-transform: translate(calc(50vw - 270px - 35px), -50vh);
-          transform: translate(calc(50vw - 270px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 288px - 24px), -50vh);
+          transform: translate(calc(50vw - 288px - 24px), -50vh);
 }
 .chips__pile:nth-child(9) .chip.chip--exchange-to-dealer-4 {
-  -webkit-transform: translate(calc(50vw - 240px - 35px), calc(-4px - 50vh));
-          transform: translate(calc(50vw - 240px - 35px), calc(-4px - 50vh));
+  -webkit-transform: translate(calc(50vw - 256px - 24px), calc(-6px - 50vh));
+          transform: translate(calc(50vw - 256px - 24px), calc(-6px - 50vh));
 }
 .chips__pile:nth-child(9) .chip.chip--exchange-to-dealer-3 {
-  -webkit-transform: translate(calc(50vw - 240px - 35px), calc(-3px - 50vh));
-          transform: translate(calc(50vw - 240px - 35px), calc(-3px - 50vh));
+  -webkit-transform: translate(calc(50vw - 256px - 24px), calc(-4.5px - 50vh));
+          transform: translate(calc(50vw - 256px - 24px), calc(-4.5px - 50vh));
 }
 .chips__pile:nth-child(9) .chip.chip--exchange-to-dealer-2 {
-  -webkit-transform: translate(calc(50vw - 240px - 35px), calc(-2px - 50vh));
-          transform: translate(calc(50vw - 240px - 35px), calc(-2px - 50vh));
+  -webkit-transform: translate(calc(50vw - 256px - 24px), calc(-3px - 50vh));
+          transform: translate(calc(50vw - 256px - 24px), calc(-3px - 50vh));
 }
 .chips__pile:nth-child(9) .chip.chip--exchange-to-dealer-1 {
-  -webkit-transform: translate(calc(50vw - 240px - 35px), calc(-1px - 50vh));
-          transform: translate(calc(50vw - 240px - 35px), calc(-1px - 50vh));
+  -webkit-transform: translate(calc(50vw - 256px - 24px), calc(-1.5px - 50vh));
+          transform: translate(calc(50vw - 256px - 24px), calc(-1.5px - 50vh));
 }
 .chips__pile:nth-child(9) .chip.chip--exchange-to-dealer-0 {
-  -webkit-transform: translate(calc(50vw - 240px - 35px), -50vh);
-          transform: translate(calc(50vw - 240px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 256px - 24px), -50vh);
+          transform: translate(calc(50vw - 256px - 24px), -50vh);
 }
 .chips__pile:nth-child(8) .chip.chip--exchange-to-dealer-4 {
-  -webkit-transform: translate(calc(50vw - 210px - 35px), calc(-4px - 50vh));
-          transform: translate(calc(50vw - 210px - 35px), calc(-4px - 50vh));
+  -webkit-transform: translate(calc(50vw - 224px - 24px), calc(-6px - 50vh));
+          transform: translate(calc(50vw - 224px - 24px), calc(-6px - 50vh));
 }
 .chips__pile:nth-child(8) .chip.chip--exchange-to-dealer-3 {
-  -webkit-transform: translate(calc(50vw - 210px - 35px), calc(-3px - 50vh));
-          transform: translate(calc(50vw - 210px - 35px), calc(-3px - 50vh));
+  -webkit-transform: translate(calc(50vw - 224px - 24px), calc(-4.5px - 50vh));
+          transform: translate(calc(50vw - 224px - 24px), calc(-4.5px - 50vh));
 }
 .chips__pile:nth-child(8) .chip.chip--exchange-to-dealer-2 {
-  -webkit-transform: translate(calc(50vw - 210px - 35px), calc(-2px - 50vh));
-          transform: translate(calc(50vw - 210px - 35px), calc(-2px - 50vh));
+  -webkit-transform: translate(calc(50vw - 224px - 24px), calc(-3px - 50vh));
+          transform: translate(calc(50vw - 224px - 24px), calc(-3px - 50vh));
 }
 .chips__pile:nth-child(8) .chip.chip--exchange-to-dealer-1 {
-  -webkit-transform: translate(calc(50vw - 210px - 35px), calc(-1px - 50vh));
-          transform: translate(calc(50vw - 210px - 35px), calc(-1px - 50vh));
+  -webkit-transform: translate(calc(50vw - 224px - 24px), calc(-1.5px - 50vh));
+          transform: translate(calc(50vw - 224px - 24px), calc(-1.5px - 50vh));
 }
 .chips__pile:nth-child(8) .chip.chip--exchange-to-dealer-0 {
-  -webkit-transform: translate(calc(50vw - 210px - 35px), -50vh);
-          transform: translate(calc(50vw - 210px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 224px - 24px), -50vh);
+          transform: translate(calc(50vw - 224px - 24px), -50vh);
 }
 .chips__pile:nth-child(7) .chip.chip--exchange-to-dealer-4 {
-  -webkit-transform: translate(calc(50vw - 180px - 35px), calc(-4px - 50vh));
-          transform: translate(calc(50vw - 180px - 35px), calc(-4px - 50vh));
+  -webkit-transform: translate(calc(50vw - 192px - 24px), calc(-6px - 50vh));
+          transform: translate(calc(50vw - 192px - 24px), calc(-6px - 50vh));
 }
 .chips__pile:nth-child(7) .chip.chip--exchange-to-dealer-3 {
-  -webkit-transform: translate(calc(50vw - 180px - 35px), calc(-3px - 50vh));
-          transform: translate(calc(50vw - 180px - 35px), calc(-3px - 50vh));
+  -webkit-transform: translate(calc(50vw - 192px - 24px), calc(-4.5px - 50vh));
+          transform: translate(calc(50vw - 192px - 24px), calc(-4.5px - 50vh));
 }
 .chips__pile:nth-child(7) .chip.chip--exchange-to-dealer-2 {
-  -webkit-transform: translate(calc(50vw - 180px - 35px), calc(-2px - 50vh));
-          transform: translate(calc(50vw - 180px - 35px), calc(-2px - 50vh));
+  -webkit-transform: translate(calc(50vw - 192px - 24px), calc(-3px - 50vh));
+          transform: translate(calc(50vw - 192px - 24px), calc(-3px - 50vh));
 }
 .chips__pile:nth-child(7) .chip.chip--exchange-to-dealer-1 {
-  -webkit-transform: translate(calc(50vw - 180px - 35px), calc(-1px - 50vh));
-          transform: translate(calc(50vw - 180px - 35px), calc(-1px - 50vh));
+  -webkit-transform: translate(calc(50vw - 192px - 24px), calc(-1.5px - 50vh));
+          transform: translate(calc(50vw - 192px - 24px), calc(-1.5px - 50vh));
 }
 .chips__pile:nth-child(7) .chip.chip--exchange-to-dealer-0 {
-  -webkit-transform: translate(calc(50vw - 180px - 35px), -50vh);
-          transform: translate(calc(50vw - 180px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 192px - 24px), -50vh);
+          transform: translate(calc(50vw - 192px - 24px), -50vh);
 }
 .chips__pile:nth-child(6) .chip.chip--exchange-to-dealer-4 {
-  -webkit-transform: translate(calc(50vw - 150px - 35px), calc(-4px - 50vh));
-          transform: translate(calc(50vw - 150px - 35px), calc(-4px - 50vh));
+  -webkit-transform: translate(calc(50vw - 160px - 24px), calc(-6px - 50vh));
+          transform: translate(calc(50vw - 160px - 24px), calc(-6px - 50vh));
 }
 .chips__pile:nth-child(6) .chip.chip--exchange-to-dealer-3 {
-  -webkit-transform: translate(calc(50vw - 150px - 35px), calc(-3px - 50vh));
-          transform: translate(calc(50vw - 150px - 35px), calc(-3px - 50vh));
+  -webkit-transform: translate(calc(50vw - 160px - 24px), calc(-4.5px - 50vh));
+          transform: translate(calc(50vw - 160px - 24px), calc(-4.5px - 50vh));
 }
 .chips__pile:nth-child(6) .chip.chip--exchange-to-dealer-2 {
-  -webkit-transform: translate(calc(50vw - 150px - 35px), calc(-2px - 50vh));
-          transform: translate(calc(50vw - 150px - 35px), calc(-2px - 50vh));
+  -webkit-transform: translate(calc(50vw - 160px - 24px), calc(-3px - 50vh));
+          transform: translate(calc(50vw - 160px - 24px), calc(-3px - 50vh));
 }
 .chips__pile:nth-child(6) .chip.chip--exchange-to-dealer-1 {
-  -webkit-transform: translate(calc(50vw - 150px - 35px), calc(-1px - 50vh));
-          transform: translate(calc(50vw - 150px - 35px), calc(-1px - 50vh));
+  -webkit-transform: translate(calc(50vw - 160px - 24px), calc(-1.5px - 50vh));
+          transform: translate(calc(50vw - 160px - 24px), calc(-1.5px - 50vh));
 }
 .chips__pile:nth-child(6) .chip.chip--exchange-to-dealer-0 {
-  -webkit-transform: translate(calc(50vw - 150px - 35px), -50vh);
-          transform: translate(calc(50vw - 150px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 160px - 24px), -50vh);
+          transform: translate(calc(50vw - 160px - 24px), -50vh);
 }
 .chips__pile:nth-child(5) .chip.chip--exchange-to-dealer-4 {
-  -webkit-transform: translate(calc(50vw - 120px - 35px), calc(-4px - 50vh));
-          transform: translate(calc(50vw - 120px - 35px), calc(-4px - 50vh));
+  -webkit-transform: translate(calc(50vw - 128px - 24px), calc(-6px - 50vh));
+          transform: translate(calc(50vw - 128px - 24px), calc(-6px - 50vh));
 }
 .chips__pile:nth-child(5) .chip.chip--exchange-to-dealer-3 {
-  -webkit-transform: translate(calc(50vw - 120px - 35px), calc(-3px - 50vh));
-          transform: translate(calc(50vw - 120px - 35px), calc(-3px - 50vh));
+  -webkit-transform: translate(calc(50vw - 128px - 24px), calc(-4.5px - 50vh));
+          transform: translate(calc(50vw - 128px - 24px), calc(-4.5px - 50vh));
 }
 .chips__pile:nth-child(5) .chip.chip--exchange-to-dealer-2 {
-  -webkit-transform: translate(calc(50vw - 120px - 35px), calc(-2px - 50vh));
-          transform: translate(calc(50vw - 120px - 35px), calc(-2px - 50vh));
+  -webkit-transform: translate(calc(50vw - 128px - 24px), calc(-3px - 50vh));
+          transform: translate(calc(50vw - 128px - 24px), calc(-3px - 50vh));
 }
 .chips__pile:nth-child(5) .chip.chip--exchange-to-dealer-1 {
-  -webkit-transform: translate(calc(50vw - 120px - 35px), calc(-1px - 50vh));
-          transform: translate(calc(50vw - 120px - 35px), calc(-1px - 50vh));
+  -webkit-transform: translate(calc(50vw - 128px - 24px), calc(-1.5px - 50vh));
+          transform: translate(calc(50vw - 128px - 24px), calc(-1.5px - 50vh));
 }
 .chips__pile:nth-child(5) .chip.chip--exchange-to-dealer-0 {
-  -webkit-transform: translate(calc(50vw - 120px - 35px), -50vh);
-          transform: translate(calc(50vw - 120px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 128px - 24px), -50vh);
+          transform: translate(calc(50vw - 128px - 24px), -50vh);
 }
 .chips__pile:nth-child(4) .chip.chip--exchange-to-dealer-4 {
-  -webkit-transform: translate(calc(50vw - 90px - 35px), calc(-4px - 50vh));
-          transform: translate(calc(50vw - 90px - 35px), calc(-4px - 50vh));
+  -webkit-transform: translate(calc(50vw - 96px - 24px), calc(-6px - 50vh));
+          transform: translate(calc(50vw - 96px - 24px), calc(-6px - 50vh));
 }
 .chips__pile:nth-child(4) .chip.chip--exchange-to-dealer-3 {
-  -webkit-transform: translate(calc(50vw - 90px - 35px), calc(-3px - 50vh));
-          transform: translate(calc(50vw - 90px - 35px), calc(-3px - 50vh));
+  -webkit-transform: translate(calc(50vw - 96px - 24px), calc(-4.5px - 50vh));
+          transform: translate(calc(50vw - 96px - 24px), calc(-4.5px - 50vh));
 }
 .chips__pile:nth-child(4) .chip.chip--exchange-to-dealer-2 {
-  -webkit-transform: translate(calc(50vw - 90px - 35px), calc(-2px - 50vh));
-          transform: translate(calc(50vw - 90px - 35px), calc(-2px - 50vh));
+  -webkit-transform: translate(calc(50vw - 96px - 24px), calc(-3px - 50vh));
+          transform: translate(calc(50vw - 96px - 24px), calc(-3px - 50vh));
 }
 .chips__pile:nth-child(4) .chip.chip--exchange-to-dealer-1 {
-  -webkit-transform: translate(calc(50vw - 90px - 35px), calc(-1px - 50vh));
-          transform: translate(calc(50vw - 90px - 35px), calc(-1px - 50vh));
+  -webkit-transform: translate(calc(50vw - 96px - 24px), calc(-1.5px - 50vh));
+          transform: translate(calc(50vw - 96px - 24px), calc(-1.5px - 50vh));
 }
 .chips__pile:nth-child(4) .chip.chip--exchange-to-dealer-0 {
-  -webkit-transform: translate(calc(50vw - 90px - 35px), -50vh);
-          transform: translate(calc(50vw - 90px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 96px - 24px), -50vh);
+          transform: translate(calc(50vw - 96px - 24px), -50vh);
 }
 .chips__pile:nth-child(3) .chip.chip--exchange-to-dealer-4 {
-  -webkit-transform: translate(calc(50vw - 60px - 35px), calc(-4px - 50vh));
-          transform: translate(calc(50vw - 60px - 35px), calc(-4px - 50vh));
+  -webkit-transform: translate(calc(50vw - 64px - 24px), calc(-6px - 50vh));
+          transform: translate(calc(50vw - 64px - 24px), calc(-6px - 50vh));
 }
 .chips__pile:nth-child(3) .chip.chip--exchange-to-dealer-3 {
-  -webkit-transform: translate(calc(50vw - 60px - 35px), calc(-3px - 50vh));
-          transform: translate(calc(50vw - 60px - 35px), calc(-3px - 50vh));
+  -webkit-transform: translate(calc(50vw - 64px - 24px), calc(-4.5px - 50vh));
+          transform: translate(calc(50vw - 64px - 24px), calc(-4.5px - 50vh));
 }
 .chips__pile:nth-child(3) .chip.chip--exchange-to-dealer-2 {
-  -webkit-transform: translate(calc(50vw - 60px - 35px), calc(-2px - 50vh));
-          transform: translate(calc(50vw - 60px - 35px), calc(-2px - 50vh));
+  -webkit-transform: translate(calc(50vw - 64px - 24px), calc(-3px - 50vh));
+          transform: translate(calc(50vw - 64px - 24px), calc(-3px - 50vh));
 }
 .chips__pile:nth-child(3) .chip.chip--exchange-to-dealer-1 {
-  -webkit-transform: translate(calc(50vw - 60px - 35px), calc(-1px - 50vh));
-          transform: translate(calc(50vw - 60px - 35px), calc(-1px - 50vh));
+  -webkit-transform: translate(calc(50vw - 64px - 24px), calc(-1.5px - 50vh));
+          transform: translate(calc(50vw - 64px - 24px), calc(-1.5px - 50vh));
 }
 .chips__pile:nth-child(3) .chip.chip--exchange-to-dealer-0 {
-  -webkit-transform: translate(calc(50vw - 60px - 35px), -50vh);
-          transform: translate(calc(50vw - 60px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 64px - 24px), -50vh);
+          transform: translate(calc(50vw - 64px - 24px), -50vh);
 }
 .chips__pile:nth-child(2) .chip.chip--exchange-to-dealer-4 {
-  -webkit-transform: translate(calc(50vw - 30px - 35px), calc(-4px - 50vh));
-          transform: translate(calc(50vw - 30px - 35px), calc(-4px - 50vh));
+  -webkit-transform: translate(calc(50vw - 32px - 24px), calc(-6px - 50vh));
+          transform: translate(calc(50vw - 32px - 24px), calc(-6px - 50vh));
 }
 .chips__pile:nth-child(2) .chip.chip--exchange-to-dealer-3 {
-  -webkit-transform: translate(calc(50vw - 30px - 35px), calc(-3px - 50vh));
-          transform: translate(calc(50vw - 30px - 35px), calc(-3px - 50vh));
+  -webkit-transform: translate(calc(50vw - 32px - 24px), calc(-4.5px - 50vh));
+          transform: translate(calc(50vw - 32px - 24px), calc(-4.5px - 50vh));
 }
 .chips__pile:nth-child(2) .chip.chip--exchange-to-dealer-2 {
-  -webkit-transform: translate(calc(50vw - 30px - 35px), calc(-2px - 50vh));
-          transform: translate(calc(50vw - 30px - 35px), calc(-2px - 50vh));
+  -webkit-transform: translate(calc(50vw - 32px - 24px), calc(-3px - 50vh));
+          transform: translate(calc(50vw - 32px - 24px), calc(-3px - 50vh));
 }
 .chips__pile:nth-child(2) .chip.chip--exchange-to-dealer-1 {
-  -webkit-transform: translate(calc(50vw - 30px - 35px), calc(-1px - 50vh));
-          transform: translate(calc(50vw - 30px - 35px), calc(-1px - 50vh));
+  -webkit-transform: translate(calc(50vw - 32px - 24px), calc(-1.5px - 50vh));
+          transform: translate(calc(50vw - 32px - 24px), calc(-1.5px - 50vh));
 }
 .chips__pile:nth-child(2) .chip.chip--exchange-to-dealer-0 {
-  -webkit-transform: translate(calc(50vw - 30px - 35px), -50vh);
-          transform: translate(calc(50vw - 30px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 32px - 24px), -50vh);
+          transform: translate(calc(50vw - 32px - 24px), -50vh);
 }
 .chips__pile:nth-child(1) .chip.chip--exchange-to-dealer-4 {
-  -webkit-transform: translate(calc(50vw - 0px - 35px), calc(-4px - 50vh));
-          transform: translate(calc(50vw - 0px - 35px), calc(-4px - 50vh));
+  -webkit-transform: translate(calc(50vw - 0px - 24px), calc(-6px - 50vh));
+          transform: translate(calc(50vw - 0px - 24px), calc(-6px - 50vh));
 }
 .chips__pile:nth-child(1) .chip.chip--exchange-to-dealer-3 {
-  -webkit-transform: translate(calc(50vw - 0px - 35px), calc(-3px - 50vh));
-          transform: translate(calc(50vw - 0px - 35px), calc(-3px - 50vh));
+  -webkit-transform: translate(calc(50vw - 0px - 24px), calc(-4.5px - 50vh));
+          transform: translate(calc(50vw - 0px - 24px), calc(-4.5px - 50vh));
 }
 .chips__pile:nth-child(1) .chip.chip--exchange-to-dealer-2 {
-  -webkit-transform: translate(calc(50vw - 0px - 35px), calc(-2px - 50vh));
-          transform: translate(calc(50vw - 0px - 35px), calc(-2px - 50vh));
+  -webkit-transform: translate(calc(50vw - 0px - 24px), calc(-3px - 50vh));
+          transform: translate(calc(50vw - 0px - 24px), calc(-3px - 50vh));
 }
 .chips__pile:nth-child(1) .chip.chip--exchange-to-dealer-1 {
-  -webkit-transform: translate(calc(50vw - 0px - 35px), calc(-1px - 50vh));
-          transform: translate(calc(50vw - 0px - 35px), calc(-1px - 50vh));
+  -webkit-transform: translate(calc(50vw - 0px - 24px), calc(-1.5px - 50vh));
+          transform: translate(calc(50vw - 0px - 24px), calc(-1.5px - 50vh));
 }
 .chips__pile:nth-child(1) .chip.chip--exchange-to-dealer-0 {
-  -webkit-transform: translate(calc(50vw - 0px - 35px), -50vh);
-          transform: translate(calc(50vw - 0px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 0px - 24px), -50vh);
+          transform: translate(calc(50vw - 0px - 24px), -50vh);
 }
 .chips__pile:nth-child(20) .chip.chip--split-4 {
-  -webkit-transform: translate(calc(50vw - 570px - 35px + 80px), -50vh);
-          transform: translate(calc(50vw - 570px - 35px + 80px), -50vh);
+  -webkit-transform: translate(calc(50vw - 608px - 24px + 80px), -50vh);
+          transform: translate(calc(50vw - 608px - 24px + 80px), -50vh);
 }
 .chips__pile:nth-child(20) .chip.chip--split-3 {
-  -webkit-transform: translate(calc(50vw - 570px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 570px - 35px + 60px), -50vh);
+  -webkit-transform: translate(calc(50vw - 608px - 24px + 60px), -50vh);
+          transform: translate(calc(50vw - 608px - 24px + 60px), -50vh);
 }
 .chips__pile:nth-child(20) .chip.chip--split-2 {
-  -webkit-transform: translate(calc(50vw - 570px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 570px - 35px + 40px), -50vh);
+  -webkit-transform: translate(calc(50vw - 608px - 24px + 40px), -50vh);
+          transform: translate(calc(50vw - 608px - 24px + 40px), -50vh);
 }
 .chips__pile:nth-child(20) .chip.chip--split-1 {
-  -webkit-transform: translate(calc(50vw - 570px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 570px - 35px + 20px), -50vh);
+  -webkit-transform: translate(calc(50vw - 608px - 24px + 20px), -50vh);
+          transform: translate(calc(50vw - 608px - 24px + 20px), -50vh);
 }
 .chips__pile:nth-child(20) .chip.chip--split-0 {
-  -webkit-transform: translate(calc(50vw - 570px - 35px), -50vh);
-          transform: translate(calc(50vw - 570px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 608px - 24px), -50vh);
+          transform: translate(calc(50vw - 608px - 24px), -50vh);
 }
 .chips__pile:nth-child(19) .chip.chip--split-4 {
-  -webkit-transform: translate(calc(50vw - 540px - 35px + 80px), -50vh);
-          transform: translate(calc(50vw - 540px - 35px + 80px), -50vh);
+  -webkit-transform: translate(calc(50vw - 576px - 24px + 80px), -50vh);
+          transform: translate(calc(50vw - 576px - 24px + 80px), -50vh);
 }
 .chips__pile:nth-child(19) .chip.chip--split-3 {
-  -webkit-transform: translate(calc(50vw - 540px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 540px - 35px + 60px), -50vh);
+  -webkit-transform: translate(calc(50vw - 576px - 24px + 60px), -50vh);
+          transform: translate(calc(50vw - 576px - 24px + 60px), -50vh);
 }
 .chips__pile:nth-child(19) .chip.chip--split-2 {
-  -webkit-transform: translate(calc(50vw - 540px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 540px - 35px + 40px), -50vh);
+  -webkit-transform: translate(calc(50vw - 576px - 24px + 40px), -50vh);
+          transform: translate(calc(50vw - 576px - 24px + 40px), -50vh);
 }
 .chips__pile:nth-child(19) .chip.chip--split-1 {
-  -webkit-transform: translate(calc(50vw - 540px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 540px - 35px + 20px), -50vh);
+  -webkit-transform: translate(calc(50vw - 576px - 24px + 20px), -50vh);
+          transform: translate(calc(50vw - 576px - 24px + 20px), -50vh);
 }
 .chips__pile:nth-child(19) .chip.chip--split-0 {
-  -webkit-transform: translate(calc(50vw - 540px - 35px), -50vh);
-          transform: translate(calc(50vw - 540px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 576px - 24px), -50vh);
+          transform: translate(calc(50vw - 576px - 24px), -50vh);
 }
 .chips__pile:nth-child(18) .chip.chip--split-4 {
-  -webkit-transform: translate(calc(50vw - 510px - 35px + 80px), -50vh);
-          transform: translate(calc(50vw - 510px - 35px + 80px), -50vh);
+  -webkit-transform: translate(calc(50vw - 544px - 24px + 80px), -50vh);
+          transform: translate(calc(50vw - 544px - 24px + 80px), -50vh);
 }
 .chips__pile:nth-child(18) .chip.chip--split-3 {
-  -webkit-transform: translate(calc(50vw - 510px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 510px - 35px + 60px), -50vh);
+  -webkit-transform: translate(calc(50vw - 544px - 24px + 60px), -50vh);
+          transform: translate(calc(50vw - 544px - 24px + 60px), -50vh);
 }
 .chips__pile:nth-child(18) .chip.chip--split-2 {
-  -webkit-transform: translate(calc(50vw - 510px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 510px - 35px + 40px), -50vh);
+  -webkit-transform: translate(calc(50vw - 544px - 24px + 40px), -50vh);
+          transform: translate(calc(50vw - 544px - 24px + 40px), -50vh);
 }
 .chips__pile:nth-child(18) .chip.chip--split-1 {
-  -webkit-transform: translate(calc(50vw - 510px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 510px - 35px + 20px), -50vh);
+  -webkit-transform: translate(calc(50vw - 544px - 24px + 20px), -50vh);
+          transform: translate(calc(50vw - 544px - 24px + 20px), -50vh);
 }
 .chips__pile:nth-child(18) .chip.chip--split-0 {
-  -webkit-transform: translate(calc(50vw - 510px - 35px), -50vh);
-          transform: translate(calc(50vw - 510px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 544px - 24px), -50vh);
+          transform: translate(calc(50vw - 544px - 24px), -50vh);
 }
 .chips__pile:nth-child(17) .chip.chip--split-4 {
-  -webkit-transform: translate(calc(50vw - 480px - 35px + 80px), -50vh);
-          transform: translate(calc(50vw - 480px - 35px + 80px), -50vh);
+  -webkit-transform: translate(calc(50vw - 512px - 24px + 80px), -50vh);
+          transform: translate(calc(50vw - 512px - 24px + 80px), -50vh);
 }
 .chips__pile:nth-child(17) .chip.chip--split-3 {
-  -webkit-transform: translate(calc(50vw - 480px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 480px - 35px + 60px), -50vh);
+  -webkit-transform: translate(calc(50vw - 512px - 24px + 60px), -50vh);
+          transform: translate(calc(50vw - 512px - 24px + 60px), -50vh);
 }
 .chips__pile:nth-child(17) .chip.chip--split-2 {
-  -webkit-transform: translate(calc(50vw - 480px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 480px - 35px + 40px), -50vh);
+  -webkit-transform: translate(calc(50vw - 512px - 24px + 40px), -50vh);
+          transform: translate(calc(50vw - 512px - 24px + 40px), -50vh);
 }
 .chips__pile:nth-child(17) .chip.chip--split-1 {
-  -webkit-transform: translate(calc(50vw - 480px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 480px - 35px + 20px), -50vh);
+  -webkit-transform: translate(calc(50vw - 512px - 24px + 20px), -50vh);
+          transform: translate(calc(50vw - 512px - 24px + 20px), -50vh);
 }
 .chips__pile:nth-child(17) .chip.chip--split-0 {
-  -webkit-transform: translate(calc(50vw - 480px - 35px), -50vh);
-          transform: translate(calc(50vw - 480px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 512px - 24px), -50vh);
+          transform: translate(calc(50vw - 512px - 24px), -50vh);
 }
 .chips__pile:nth-child(16) .chip.chip--split-4 {
-  -webkit-transform: translate(calc(50vw - 450px - 35px + 80px), -50vh);
-          transform: translate(calc(50vw - 450px - 35px + 80px), -50vh);
+  -webkit-transform: translate(calc(50vw - 480px - 24px + 80px), -50vh);
+          transform: translate(calc(50vw - 480px - 24px + 80px), -50vh);
 }
 .chips__pile:nth-child(16) .chip.chip--split-3 {
-  -webkit-transform: translate(calc(50vw - 450px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 450px - 35px + 60px), -50vh);
+  -webkit-transform: translate(calc(50vw - 480px - 24px + 60px), -50vh);
+          transform: translate(calc(50vw - 480px - 24px + 60px), -50vh);
 }
 .chips__pile:nth-child(16) .chip.chip--split-2 {
-  -webkit-transform: translate(calc(50vw - 450px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 450px - 35px + 40px), -50vh);
+  -webkit-transform: translate(calc(50vw - 480px - 24px + 40px), -50vh);
+          transform: translate(calc(50vw - 480px - 24px + 40px), -50vh);
 }
 .chips__pile:nth-child(16) .chip.chip--split-1 {
-  -webkit-transform: translate(calc(50vw - 450px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 450px - 35px + 20px), -50vh);
+  -webkit-transform: translate(calc(50vw - 480px - 24px + 20px), -50vh);
+          transform: translate(calc(50vw - 480px - 24px + 20px), -50vh);
 }
 .chips__pile:nth-child(16) .chip.chip--split-0 {
-  -webkit-transform: translate(calc(50vw - 450px - 35px), -50vh);
-          transform: translate(calc(50vw - 450px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 480px - 24px), -50vh);
+          transform: translate(calc(50vw - 480px - 24px), -50vh);
 }
 .chips__pile:nth-child(15) .chip.chip--split-4 {
-  -webkit-transform: translate(calc(50vw - 420px - 35px + 80px), -50vh);
-          transform: translate(calc(50vw - 420px - 35px + 80px), -50vh);
+  -webkit-transform: translate(calc(50vw - 448px - 24px + 80px), -50vh);
+          transform: translate(calc(50vw - 448px - 24px + 80px), -50vh);
 }
 .chips__pile:nth-child(15) .chip.chip--split-3 {
-  -webkit-transform: translate(calc(50vw - 420px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 420px - 35px + 60px), -50vh);
+  -webkit-transform: translate(calc(50vw - 448px - 24px + 60px), -50vh);
+          transform: translate(calc(50vw - 448px - 24px + 60px), -50vh);
 }
 .chips__pile:nth-child(15) .chip.chip--split-2 {
-  -webkit-transform: translate(calc(50vw - 420px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 420px - 35px + 40px), -50vh);
+  -webkit-transform: translate(calc(50vw - 448px - 24px + 40px), -50vh);
+          transform: translate(calc(50vw - 448px - 24px + 40px), -50vh);
 }
 .chips__pile:nth-child(15) .chip.chip--split-1 {
-  -webkit-transform: translate(calc(50vw - 420px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 420px - 35px + 20px), -50vh);
+  -webkit-transform: translate(calc(50vw - 448px - 24px + 20px), -50vh);
+          transform: translate(calc(50vw - 448px - 24px + 20px), -50vh);
 }
 .chips__pile:nth-child(15) .chip.chip--split-0 {
-  -webkit-transform: translate(calc(50vw - 420px - 35px), -50vh);
-          transform: translate(calc(50vw - 420px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 448px - 24px), -50vh);
+          transform: translate(calc(50vw - 448px - 24px), -50vh);
 }
 .chips__pile:nth-child(14) .chip.chip--split-4 {
-  -webkit-transform: translate(calc(50vw - 390px - 35px + 80px), -50vh);
-          transform: translate(calc(50vw - 390px - 35px + 80px), -50vh);
+  -webkit-transform: translate(calc(50vw - 416px - 24px + 80px), -50vh);
+          transform: translate(calc(50vw - 416px - 24px + 80px), -50vh);
 }
 .chips__pile:nth-child(14) .chip.chip--split-3 {
-  -webkit-transform: translate(calc(50vw - 390px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 390px - 35px + 60px), -50vh);
+  -webkit-transform: translate(calc(50vw - 416px - 24px + 60px), -50vh);
+          transform: translate(calc(50vw - 416px - 24px + 60px), -50vh);
 }
 .chips__pile:nth-child(14) .chip.chip--split-2 {
-  -webkit-transform: translate(calc(50vw - 390px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 390px - 35px + 40px), -50vh);
+  -webkit-transform: translate(calc(50vw - 416px - 24px + 40px), -50vh);
+          transform: translate(calc(50vw - 416px - 24px + 40px), -50vh);
 }
 .chips__pile:nth-child(14) .chip.chip--split-1 {
-  -webkit-transform: translate(calc(50vw - 390px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 390px - 35px + 20px), -50vh);
+  -webkit-transform: translate(calc(50vw - 416px - 24px + 20px), -50vh);
+          transform: translate(calc(50vw - 416px - 24px + 20px), -50vh);
 }
 .chips__pile:nth-child(14) .chip.chip--split-0 {
-  -webkit-transform: translate(calc(50vw - 390px - 35px), -50vh);
-          transform: translate(calc(50vw - 390px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 416px - 24px), -50vh);
+          transform: translate(calc(50vw - 416px - 24px), -50vh);
 }
 .chips__pile:nth-child(13) .chip.chip--split-4 {
-  -webkit-transform: translate(calc(50vw - 360px - 35px + 80px), -50vh);
-          transform: translate(calc(50vw - 360px - 35px + 80px), -50vh);
+  -webkit-transform: translate(calc(50vw - 384px - 24px + 80px), -50vh);
+          transform: translate(calc(50vw - 384px - 24px + 80px), -50vh);
 }
 .chips__pile:nth-child(13) .chip.chip--split-3 {
-  -webkit-transform: translate(calc(50vw - 360px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 360px - 35px + 60px), -50vh);
+  -webkit-transform: translate(calc(50vw - 384px - 24px + 60px), -50vh);
+          transform: translate(calc(50vw - 384px - 24px + 60px), -50vh);
 }
 .chips__pile:nth-child(13) .chip.chip--split-2 {
-  -webkit-transform: translate(calc(50vw - 360px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 360px - 35px + 40px), -50vh);
+  -webkit-transform: translate(calc(50vw - 384px - 24px + 40px), -50vh);
+          transform: translate(calc(50vw - 384px - 24px + 40px), -50vh);
 }
 .chips__pile:nth-child(13) .chip.chip--split-1 {
-  -webkit-transform: translate(calc(50vw - 360px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 360px - 35px + 20px), -50vh);
+  -webkit-transform: translate(calc(50vw - 384px - 24px + 20px), -50vh);
+          transform: translate(calc(50vw - 384px - 24px + 20px), -50vh);
 }
 .chips__pile:nth-child(13) .chip.chip--split-0 {
-  -webkit-transform: translate(calc(50vw - 360px - 35px), -50vh);
-          transform: translate(calc(50vw - 360px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 384px - 24px), -50vh);
+          transform: translate(calc(50vw - 384px - 24px), -50vh);
 }
 .chips__pile:nth-child(12) .chip.chip--split-4 {
-  -webkit-transform: translate(calc(50vw - 330px - 35px + 80px), -50vh);
-          transform: translate(calc(50vw - 330px - 35px + 80px), -50vh);
+  -webkit-transform: translate(calc(50vw - 352px - 24px + 80px), -50vh);
+          transform: translate(calc(50vw - 352px - 24px + 80px), -50vh);
 }
 .chips__pile:nth-child(12) .chip.chip--split-3 {
-  -webkit-transform: translate(calc(50vw - 330px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 330px - 35px + 60px), -50vh);
+  -webkit-transform: translate(calc(50vw - 352px - 24px + 60px), -50vh);
+          transform: translate(calc(50vw - 352px - 24px + 60px), -50vh);
 }
 .chips__pile:nth-child(12) .chip.chip--split-2 {
-  -webkit-transform: translate(calc(50vw - 330px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 330px - 35px + 40px), -50vh);
+  -webkit-transform: translate(calc(50vw - 352px - 24px + 40px), -50vh);
+          transform: translate(calc(50vw - 352px - 24px + 40px), -50vh);
 }
 .chips__pile:nth-child(12) .chip.chip--split-1 {
-  -webkit-transform: translate(calc(50vw - 330px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 330px - 35px + 20px), -50vh);
+  -webkit-transform: translate(calc(50vw - 352px - 24px + 20px), -50vh);
+          transform: translate(calc(50vw - 352px - 24px + 20px), -50vh);
 }
 .chips__pile:nth-child(12) .chip.chip--split-0 {
-  -webkit-transform: translate(calc(50vw - 330px - 35px), -50vh);
-          transform: translate(calc(50vw - 330px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 352px - 24px), -50vh);
+          transform: translate(calc(50vw - 352px - 24px), -50vh);
 }
 .chips__pile:nth-child(11) .chip.chip--split-4 {
-  -webkit-transform: translate(calc(50vw - 300px - 35px + 80px), -50vh);
-          transform: translate(calc(50vw - 300px - 35px + 80px), -50vh);
+  -webkit-transform: translate(calc(50vw - 320px - 24px + 80px), -50vh);
+          transform: translate(calc(50vw - 320px - 24px + 80px), -50vh);
 }
 .chips__pile:nth-child(11) .chip.chip--split-3 {
-  -webkit-transform: translate(calc(50vw - 300px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 300px - 35px + 60px), -50vh);
+  -webkit-transform: translate(calc(50vw - 320px - 24px + 60px), -50vh);
+          transform: translate(calc(50vw - 320px - 24px + 60px), -50vh);
 }
 .chips__pile:nth-child(11) .chip.chip--split-2 {
-  -webkit-transform: translate(calc(50vw - 300px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 300px - 35px + 40px), -50vh);
+  -webkit-transform: translate(calc(50vw - 320px - 24px + 40px), -50vh);
+          transform: translate(calc(50vw - 320px - 24px + 40px), -50vh);
 }
 .chips__pile:nth-child(11) .chip.chip--split-1 {
-  -webkit-transform: translate(calc(50vw - 300px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 300px - 35px + 20px), -50vh);
+  -webkit-transform: translate(calc(50vw - 320px - 24px + 20px), -50vh);
+          transform: translate(calc(50vw - 320px - 24px + 20px), -50vh);
 }
 .chips__pile:nth-child(11) .chip.chip--split-0 {
-  -webkit-transform: translate(calc(50vw - 300px - 35px), -50vh);
-          transform: translate(calc(50vw - 300px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 320px - 24px), -50vh);
+          transform: translate(calc(50vw - 320px - 24px), -50vh);
 }
 .chips__pile:nth-child(10) .chip.chip--split-4 {
-  -webkit-transform: translate(calc(50vw - 270px - 35px + 80px), -50vh);
-          transform: translate(calc(50vw - 270px - 35px + 80px), -50vh);
+  -webkit-transform: translate(calc(50vw - 288px - 24px + 80px), -50vh);
+          transform: translate(calc(50vw - 288px - 24px + 80px), -50vh);
 }
 .chips__pile:nth-child(10) .chip.chip--split-3 {
-  -webkit-transform: translate(calc(50vw - 270px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 270px - 35px + 60px), -50vh);
+  -webkit-transform: translate(calc(50vw - 288px - 24px + 60px), -50vh);
+          transform: translate(calc(50vw - 288px - 24px + 60px), -50vh);
 }
 .chips__pile:nth-child(10) .chip.chip--split-2 {
-  -webkit-transform: translate(calc(50vw - 270px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 270px - 35px + 40px), -50vh);
+  -webkit-transform: translate(calc(50vw - 288px - 24px + 40px), -50vh);
+          transform: translate(calc(50vw - 288px - 24px + 40px), -50vh);
 }
 .chips__pile:nth-child(10) .chip.chip--split-1 {
-  -webkit-transform: translate(calc(50vw - 270px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 270px - 35px + 20px), -50vh);
+  -webkit-transform: translate(calc(50vw - 288px - 24px + 20px), -50vh);
+          transform: translate(calc(50vw - 288px - 24px + 20px), -50vh);
 }
 .chips__pile:nth-child(10) .chip.chip--split-0 {
-  -webkit-transform: translate(calc(50vw - 270px - 35px), -50vh);
-          transform: translate(calc(50vw - 270px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 288px - 24px), -50vh);
+          transform: translate(calc(50vw - 288px - 24px), -50vh);
 }
 .chips__pile:nth-child(9) .chip.chip--split-4 {
-  -webkit-transform: translate(calc(50vw - 240px - 35px + 80px), -50vh);
-          transform: translate(calc(50vw - 240px - 35px + 80px), -50vh);
+  -webkit-transform: translate(calc(50vw - 256px - 24px + 80px), -50vh);
+          transform: translate(calc(50vw - 256px - 24px + 80px), -50vh);
 }
 .chips__pile:nth-child(9) .chip.chip--split-3 {
-  -webkit-transform: translate(calc(50vw - 240px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 240px - 35px + 60px), -50vh);
+  -webkit-transform: translate(calc(50vw - 256px - 24px + 60px), -50vh);
+          transform: translate(calc(50vw - 256px - 24px + 60px), -50vh);
 }
 .chips__pile:nth-child(9) .chip.chip--split-2 {
-  -webkit-transform: translate(calc(50vw - 240px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 240px - 35px + 40px), -50vh);
+  -webkit-transform: translate(calc(50vw - 256px - 24px + 40px), -50vh);
+          transform: translate(calc(50vw - 256px - 24px + 40px), -50vh);
 }
 .chips__pile:nth-child(9) .chip.chip--split-1 {
-  -webkit-transform: translate(calc(50vw - 240px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 240px - 35px + 20px), -50vh);
+  -webkit-transform: translate(calc(50vw - 256px - 24px + 20px), -50vh);
+          transform: translate(calc(50vw - 256px - 24px + 20px), -50vh);
 }
 .chips__pile:nth-child(9) .chip.chip--split-0 {
-  -webkit-transform: translate(calc(50vw - 240px - 35px), -50vh);
-          transform: translate(calc(50vw - 240px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 256px - 24px), -50vh);
+          transform: translate(calc(50vw - 256px - 24px), -50vh);
 }
 .chips__pile:nth-child(8) .chip.chip--split-4 {
-  -webkit-transform: translate(calc(50vw - 210px - 35px + 80px), -50vh);
-          transform: translate(calc(50vw - 210px - 35px + 80px), -50vh);
+  -webkit-transform: translate(calc(50vw - 224px - 24px + 80px), -50vh);
+          transform: translate(calc(50vw - 224px - 24px + 80px), -50vh);
 }
 .chips__pile:nth-child(8) .chip.chip--split-3 {
-  -webkit-transform: translate(calc(50vw - 210px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 210px - 35px + 60px), -50vh);
+  -webkit-transform: translate(calc(50vw - 224px - 24px + 60px), -50vh);
+          transform: translate(calc(50vw - 224px - 24px + 60px), -50vh);
 }
 .chips__pile:nth-child(8) .chip.chip--split-2 {
-  -webkit-transform: translate(calc(50vw - 210px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 210px - 35px + 40px), -50vh);
+  -webkit-transform: translate(calc(50vw - 224px - 24px + 40px), -50vh);
+          transform: translate(calc(50vw - 224px - 24px + 40px), -50vh);
 }
 .chips__pile:nth-child(8) .chip.chip--split-1 {
-  -webkit-transform: translate(calc(50vw - 210px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 210px - 35px + 20px), -50vh);
+  -webkit-transform: translate(calc(50vw - 224px - 24px + 20px), -50vh);
+          transform: translate(calc(50vw - 224px - 24px + 20px), -50vh);
 }
 .chips__pile:nth-child(8) .chip.chip--split-0 {
-  -webkit-transform: translate(calc(50vw - 210px - 35px), -50vh);
-          transform: translate(calc(50vw - 210px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 224px - 24px), -50vh);
+          transform: translate(calc(50vw - 224px - 24px), -50vh);
 }
 .chips__pile:nth-child(7) .chip.chip--split-4 {
-  -webkit-transform: translate(calc(50vw - 180px - 35px + 80px), -50vh);
-          transform: translate(calc(50vw - 180px - 35px + 80px), -50vh);
+  -webkit-transform: translate(calc(50vw - 192px - 24px + 80px), -50vh);
+          transform: translate(calc(50vw - 192px - 24px + 80px), -50vh);
 }
 .chips__pile:nth-child(7) .chip.chip--split-3 {
-  -webkit-transform: translate(calc(50vw - 180px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 180px - 35px + 60px), -50vh);
+  -webkit-transform: translate(calc(50vw - 192px - 24px + 60px), -50vh);
+          transform: translate(calc(50vw - 192px - 24px + 60px), -50vh);
 }
 .chips__pile:nth-child(7) .chip.chip--split-2 {
-  -webkit-transform: translate(calc(50vw - 180px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 180px - 35px + 40px), -50vh);
+  -webkit-transform: translate(calc(50vw - 192px - 24px + 40px), -50vh);
+          transform: translate(calc(50vw - 192px - 24px + 40px), -50vh);
 }
 .chips__pile:nth-child(7) .chip.chip--split-1 {
-  -webkit-transform: translate(calc(50vw - 180px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 180px - 35px + 20px), -50vh);
+  -webkit-transform: translate(calc(50vw - 192px - 24px + 20px), -50vh);
+          transform: translate(calc(50vw - 192px - 24px + 20px), -50vh);
 }
 .chips__pile:nth-child(7) .chip.chip--split-0 {
-  -webkit-transform: translate(calc(50vw - 180px - 35px), -50vh);
-          transform: translate(calc(50vw - 180px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 192px - 24px), -50vh);
+          transform: translate(calc(50vw - 192px - 24px), -50vh);
 }
 .chips__pile:nth-child(6) .chip.chip--split-4 {
-  -webkit-transform: translate(calc(50vw - 150px - 35px + 80px), -50vh);
-          transform: translate(calc(50vw - 150px - 35px + 80px), -50vh);
+  -webkit-transform: translate(calc(50vw - 160px - 24px + 80px), -50vh);
+          transform: translate(calc(50vw - 160px - 24px + 80px), -50vh);
 }
 .chips__pile:nth-child(6) .chip.chip--split-3 {
-  -webkit-transform: translate(calc(50vw - 150px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 150px - 35px + 60px), -50vh);
+  -webkit-transform: translate(calc(50vw - 160px - 24px + 60px), -50vh);
+          transform: translate(calc(50vw - 160px - 24px + 60px), -50vh);
 }
 .chips__pile:nth-child(6) .chip.chip--split-2 {
-  -webkit-transform: translate(calc(50vw - 150px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 150px - 35px + 40px), -50vh);
+  -webkit-transform: translate(calc(50vw - 160px - 24px + 40px), -50vh);
+          transform: translate(calc(50vw - 160px - 24px + 40px), -50vh);
 }
 .chips__pile:nth-child(6) .chip.chip--split-1 {
-  -webkit-transform: translate(calc(50vw - 150px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 150px - 35px + 20px), -50vh);
+  -webkit-transform: translate(calc(50vw - 160px - 24px + 20px), -50vh);
+          transform: translate(calc(50vw - 160px - 24px + 20px), -50vh);
 }
 .chips__pile:nth-child(6) .chip.chip--split-0 {
-  -webkit-transform: translate(calc(50vw - 150px - 35px), -50vh);
-          transform: translate(calc(50vw - 150px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 160px - 24px), -50vh);
+          transform: translate(calc(50vw - 160px - 24px), -50vh);
 }
 .chips__pile:nth-child(5) .chip.chip--split-4 {
-  -webkit-transform: translate(calc(50vw - 120px - 35px + 80px), -50vh);
-          transform: translate(calc(50vw - 120px - 35px + 80px), -50vh);
+  -webkit-transform: translate(calc(50vw - 128px - 24px + 80px), -50vh);
+          transform: translate(calc(50vw - 128px - 24px + 80px), -50vh);
 }
 .chips__pile:nth-child(5) .chip.chip--split-3 {
-  -webkit-transform: translate(calc(50vw - 120px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 120px - 35px + 60px), -50vh);
+  -webkit-transform: translate(calc(50vw - 128px - 24px + 60px), -50vh);
+          transform: translate(calc(50vw - 128px - 24px + 60px), -50vh);
 }
 .chips__pile:nth-child(5) .chip.chip--split-2 {
-  -webkit-transform: translate(calc(50vw - 120px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 120px - 35px + 40px), -50vh);
+  -webkit-transform: translate(calc(50vw - 128px - 24px + 40px), -50vh);
+          transform: translate(calc(50vw - 128px - 24px + 40px), -50vh);
 }
 .chips__pile:nth-child(5) .chip.chip--split-1 {
-  -webkit-transform: translate(calc(50vw - 120px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 120px - 35px + 20px), -50vh);
+  -webkit-transform: translate(calc(50vw - 128px - 24px + 20px), -50vh);
+          transform: translate(calc(50vw - 128px - 24px + 20px), -50vh);
 }
 .chips__pile:nth-child(5) .chip.chip--split-0 {
-  -webkit-transform: translate(calc(50vw - 120px - 35px), -50vh);
-          transform: translate(calc(50vw - 120px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 128px - 24px), -50vh);
+          transform: translate(calc(50vw - 128px - 24px), -50vh);
 }
 .chips__pile:nth-child(4) .chip.chip--split-4 {
-  -webkit-transform: translate(calc(50vw - 90px - 35px + 80px), -50vh);
-          transform: translate(calc(50vw - 90px - 35px + 80px), -50vh);
+  -webkit-transform: translate(calc(50vw - 96px - 24px + 80px), -50vh);
+          transform: translate(calc(50vw - 96px - 24px + 80px), -50vh);
 }
 .chips__pile:nth-child(4) .chip.chip--split-3 {
-  -webkit-transform: translate(calc(50vw - 90px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 90px - 35px + 60px), -50vh);
+  -webkit-transform: translate(calc(50vw - 96px - 24px + 60px), -50vh);
+          transform: translate(calc(50vw - 96px - 24px + 60px), -50vh);
 }
 .chips__pile:nth-child(4) .chip.chip--split-2 {
-  -webkit-transform: translate(calc(50vw - 90px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 90px - 35px + 40px), -50vh);
+  -webkit-transform: translate(calc(50vw - 96px - 24px + 40px), -50vh);
+          transform: translate(calc(50vw - 96px - 24px + 40px), -50vh);
 }
 .chips__pile:nth-child(4) .chip.chip--split-1 {
-  -webkit-transform: translate(calc(50vw - 90px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 90px - 35px + 20px), -50vh);
+  -webkit-transform: translate(calc(50vw - 96px - 24px + 20px), -50vh);
+          transform: translate(calc(50vw - 96px - 24px + 20px), -50vh);
 }
 .chips__pile:nth-child(4) .chip.chip--split-0 {
-  -webkit-transform: translate(calc(50vw - 90px - 35px), -50vh);
-          transform: translate(calc(50vw - 90px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 96px - 24px), -50vh);
+          transform: translate(calc(50vw - 96px - 24px), -50vh);
 }
 .chips__pile:nth-child(3) .chip.chip--split-4 {
-  -webkit-transform: translate(calc(50vw - 60px - 35px + 80px), -50vh);
-          transform: translate(calc(50vw - 60px - 35px + 80px), -50vh);
+  -webkit-transform: translate(calc(50vw - 64px - 24px + 80px), -50vh);
+          transform: translate(calc(50vw - 64px - 24px + 80px), -50vh);
 }
 .chips__pile:nth-child(3) .chip.chip--split-3 {
-  -webkit-transform: translate(calc(50vw - 60px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 60px - 35px + 60px), -50vh);
+  -webkit-transform: translate(calc(50vw - 64px - 24px + 60px), -50vh);
+          transform: translate(calc(50vw - 64px - 24px + 60px), -50vh);
 }
 .chips__pile:nth-child(3) .chip.chip--split-2 {
-  -webkit-transform: translate(calc(50vw - 60px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 60px - 35px + 40px), -50vh);
+  -webkit-transform: translate(calc(50vw - 64px - 24px + 40px), -50vh);
+          transform: translate(calc(50vw - 64px - 24px + 40px), -50vh);
 }
 .chips__pile:nth-child(3) .chip.chip--split-1 {
-  -webkit-transform: translate(calc(50vw - 60px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 60px - 35px + 20px), -50vh);
+  -webkit-transform: translate(calc(50vw - 64px - 24px + 20px), -50vh);
+          transform: translate(calc(50vw - 64px - 24px + 20px), -50vh);
 }
 .chips__pile:nth-child(3) .chip.chip--split-0 {
-  -webkit-transform: translate(calc(50vw - 60px - 35px), -50vh);
-          transform: translate(calc(50vw - 60px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 64px - 24px), -50vh);
+          transform: translate(calc(50vw - 64px - 24px), -50vh);
 }
 .chips__pile:nth-child(2) .chip.chip--split-4 {
-  -webkit-transform: translate(calc(50vw - 30px - 35px + 80px), -50vh);
-          transform: translate(calc(50vw - 30px - 35px + 80px), -50vh);
+  -webkit-transform: translate(calc(50vw - 32px - 24px + 80px), -50vh);
+          transform: translate(calc(50vw - 32px - 24px + 80px), -50vh);
 }
 .chips__pile:nth-child(2) .chip.chip--split-3 {
-  -webkit-transform: translate(calc(50vw - 30px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 30px - 35px + 60px), -50vh);
+  -webkit-transform: translate(calc(50vw - 32px - 24px + 60px), -50vh);
+          transform: translate(calc(50vw - 32px - 24px + 60px), -50vh);
 }
 .chips__pile:nth-child(2) .chip.chip--split-2 {
-  -webkit-transform: translate(calc(50vw - 30px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 30px - 35px + 40px), -50vh);
+  -webkit-transform: translate(calc(50vw - 32px - 24px + 40px), -50vh);
+          transform: translate(calc(50vw - 32px - 24px + 40px), -50vh);
 }
 .chips__pile:nth-child(2) .chip.chip--split-1 {
-  -webkit-transform: translate(calc(50vw - 30px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 30px - 35px + 20px), -50vh);
+  -webkit-transform: translate(calc(50vw - 32px - 24px + 20px), -50vh);
+          transform: translate(calc(50vw - 32px - 24px + 20px), -50vh);
 }
 .chips__pile:nth-child(2) .chip.chip--split-0 {
-  -webkit-transform: translate(calc(50vw - 30px - 35px), -50vh);
-          transform: translate(calc(50vw - 30px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 32px - 24px), -50vh);
+          transform: translate(calc(50vw - 32px - 24px), -50vh);
 }
 .chips__pile:nth-child(1) .chip.chip--split-4 {
-  -webkit-transform: translate(calc(50vw - 0px - 35px + 80px), -50vh);
-          transform: translate(calc(50vw - 0px - 35px + 80px), -50vh);
+  -webkit-transform: translate(calc(50vw - 0px - 24px + 80px), -50vh);
+          transform: translate(calc(50vw - 0px - 24px + 80px), -50vh);
 }
 .chips__pile:nth-child(1) .chip.chip--split-3 {
-  -webkit-transform: translate(calc(50vw - 0px - 35px + 60px), -50vh);
-          transform: translate(calc(50vw - 0px - 35px + 60px), -50vh);
+  -webkit-transform: translate(calc(50vw - 0px - 24px + 60px), -50vh);
+          transform: translate(calc(50vw - 0px - 24px + 60px), -50vh);
 }
 .chips__pile:nth-child(1) .chip.chip--split-2 {
-  -webkit-transform: translate(calc(50vw - 0px - 35px + 40px), -50vh);
-          transform: translate(calc(50vw - 0px - 35px + 40px), -50vh);
+  -webkit-transform: translate(calc(50vw - 0px - 24px + 40px), -50vh);
+          transform: translate(calc(50vw - 0px - 24px + 40px), -50vh);
 }
 .chips__pile:nth-child(1) .chip.chip--split-1 {
-  -webkit-transform: translate(calc(50vw - 0px - 35px + 20px), -50vh);
-          transform: translate(calc(50vw - 0px - 35px + 20px), -50vh);
+  -webkit-transform: translate(calc(50vw - 0px - 24px + 20px), -50vh);
+          transform: translate(calc(50vw - 0px - 24px + 20px), -50vh);
 }
 .chips__pile:nth-child(1) .chip.chip--split-0 {
-  -webkit-transform: translate(calc(50vw - 0px - 35px), -50vh);
-          transform: translate(calc(50vw - 0px - 35px), -50vh);
+  -webkit-transform: translate(calc(50vw - 0px - 24px), -50vh);
+          transform: translate(calc(50vw - 0px - 24px), -50vh);
 }
 .chips__pile:nth-child(20) .chip.chip--delete {
-  -webkit-transform: translate(calc(50vw - 570px - 35px), -100vh);
-          transform: translate(calc(50vw - 570px - 35px), -100vh);
+  -webkit-transform: translate(calc(50vw - 608px - 35px), -100vh);
+          transform: translate(calc(50vw - 608px - 35px), -100vh);
 }
 .chips__pile:nth-child(19) .chip.chip--delete {
-  -webkit-transform: translate(calc(50vw - 540px - 35px), -100vh);
-          transform: translate(calc(50vw - 540px - 35px), -100vh);
+  -webkit-transform: translate(calc(50vw - 576px - 35px), -100vh);
+          transform: translate(calc(50vw - 576px - 35px), -100vh);
 }
 .chips__pile:nth-child(18) .chip.chip--delete {
-  -webkit-transform: translate(calc(50vw - 510px - 35px), -100vh);
-          transform: translate(calc(50vw - 510px - 35px), -100vh);
+  -webkit-transform: translate(calc(50vw - 544px - 35px), -100vh);
+          transform: translate(calc(50vw - 544px - 35px), -100vh);
 }
 .chips__pile:nth-child(17) .chip.chip--delete {
+  -webkit-transform: translate(calc(50vw - 512px - 35px), -100vh);
+          transform: translate(calc(50vw - 512px - 35px), -100vh);
+}
+.chips__pile:nth-child(16) .chip.chip--delete {
   -webkit-transform: translate(calc(50vw - 480px - 35px), -100vh);
           transform: translate(calc(50vw - 480px - 35px), -100vh);
 }
-.chips__pile:nth-child(16) .chip.chip--delete {
-  -webkit-transform: translate(calc(50vw - 450px - 35px), -100vh);
-          transform: translate(calc(50vw - 450px - 35px), -100vh);
-}
 .chips__pile:nth-child(15) .chip.chip--delete {
-  -webkit-transform: translate(calc(50vw - 420px - 35px), -100vh);
-          transform: translate(calc(50vw - 420px - 35px), -100vh);
+  -webkit-transform: translate(calc(50vw - 448px - 35px), -100vh);
+          transform: translate(calc(50vw - 448px - 35px), -100vh);
 }
 .chips__pile:nth-child(14) .chip.chip--delete {
-  -webkit-transform: translate(calc(50vw - 390px - 35px), -100vh);
-          transform: translate(calc(50vw - 390px - 35px), -100vh);
+  -webkit-transform: translate(calc(50vw - 416px - 35px), -100vh);
+          transform: translate(calc(50vw - 416px - 35px), -100vh);
 }
 .chips__pile:nth-child(13) .chip.chip--delete {
-  -webkit-transform: translate(calc(50vw - 360px - 35px), -100vh);
-          transform: translate(calc(50vw - 360px - 35px), -100vh);
+  -webkit-transform: translate(calc(50vw - 384px - 35px), -100vh);
+          transform: translate(calc(50vw - 384px - 35px), -100vh);
 }
 .chips__pile:nth-child(12) .chip.chip--delete {
-  -webkit-transform: translate(calc(50vw - 330px - 35px), -100vh);
-          transform: translate(calc(50vw - 330px - 35px), -100vh);
+  -webkit-transform: translate(calc(50vw - 352px - 35px), -100vh);
+          transform: translate(calc(50vw - 352px - 35px), -100vh);
 }
 .chips__pile:nth-child(11) .chip.chip--delete {
-  -webkit-transform: translate(calc(50vw - 300px - 35px), -100vh);
-          transform: translate(calc(50vw - 300px - 35px), -100vh);
+  -webkit-transform: translate(calc(50vw - 320px - 35px), -100vh);
+          transform: translate(calc(50vw - 320px - 35px), -100vh);
 }
 .chips__pile:nth-child(10) .chip.chip--delete {
-  -webkit-transform: translate(calc(50vw - 270px - 35px), -100vh);
-          transform: translate(calc(50vw - 270px - 35px), -100vh);
+  -webkit-transform: translate(calc(50vw - 288px - 35px), -100vh);
+          transform: translate(calc(50vw - 288px - 35px), -100vh);
 }
 .chips__pile:nth-child(9) .chip.chip--delete {
-  -webkit-transform: translate(calc(50vw - 240px - 35px), -100vh);
-          transform: translate(calc(50vw - 240px - 35px), -100vh);
+  -webkit-transform: translate(calc(50vw - 256px - 35px), -100vh);
+          transform: translate(calc(50vw - 256px - 35px), -100vh);
 }
 .chips__pile:nth-child(8) .chip.chip--delete {
-  -webkit-transform: translate(calc(50vw - 210px - 35px), -100vh);
-          transform: translate(calc(50vw - 210px - 35px), -100vh);
+  -webkit-transform: translate(calc(50vw - 224px - 35px), -100vh);
+          transform: translate(calc(50vw - 224px - 35px), -100vh);
 }
 .chips__pile:nth-child(7) .chip.chip--delete {
-  -webkit-transform: translate(calc(50vw - 180px - 35px), -100vh);
-          transform: translate(calc(50vw - 180px - 35px), -100vh);
+  -webkit-transform: translate(calc(50vw - 192px - 35px), -100vh);
+          transform: translate(calc(50vw - 192px - 35px), -100vh);
 }
 .chips__pile:nth-child(6) .chip.chip--delete {
-  -webkit-transform: translate(calc(50vw - 150px - 35px), -100vh);
-          transform: translate(calc(50vw - 150px - 35px), -100vh);
+  -webkit-transform: translate(calc(50vw - 160px - 35px), -100vh);
+          transform: translate(calc(50vw - 160px - 35px), -100vh);
 }
 .chips__pile:nth-child(5) .chip.chip--delete {
-  -webkit-transform: translate(calc(50vw - 120px - 35px), -100vh);
-          transform: translate(calc(50vw - 120px - 35px), -100vh);
+  -webkit-transform: translate(calc(50vw - 128px - 35px), -100vh);
+          transform: translate(calc(50vw - 128px - 35px), -100vh);
 }
 .chips__pile:nth-child(4) .chip.chip--delete {
-  -webkit-transform: translate(calc(50vw - 90px - 35px), -100vh);
-          transform: translate(calc(50vw - 90px - 35px), -100vh);
+  -webkit-transform: translate(calc(50vw - 96px - 35px), -100vh);
+          transform: translate(calc(50vw - 96px - 35px), -100vh);
 }
 .chips__pile:nth-child(3) .chip.chip--delete {
-  -webkit-transform: translate(calc(50vw - 60px - 35px), -100vh);
-          transform: translate(calc(50vw - 60px - 35px), -100vh);
+  -webkit-transform: translate(calc(50vw - 64px - 35px), -100vh);
+          transform: translate(calc(50vw - 64px - 35px), -100vh);
 }
 .chips__pile:nth-child(2) .chip.chip--delete {
-  -webkit-transform: translate(calc(50vw - 30px - 35px), -100vh);
-          transform: translate(calc(50vw - 30px - 35px), -100vh);
+  -webkit-transform: translate(calc(50vw - 32px - 35px), -100vh);
+          transform: translate(calc(50vw - 32px - 35px), -100vh);
 }
 .chips__pile:nth-child(1) .chip.chip--delete {
   -webkit-transform: translate(calc(50vw - 0px - 35px), -100vh);
@@ -2081,35 +2533,11 @@ svg:not(:root) {
           align-items: center;
   width: 28px;
   height: 28px;
-  -webkit-transition: -webkit-transform 0.4s ease-out;
-  transition: -webkit-transform 0.4s ease-out;
-  transition: transform 0.4s ease-out;
-  transition: transform 0.4s ease-out, -webkit-transform 0.4s ease-out;
+  -webkit-transition: -webkit-transform 0.4s ease;
+  transition: -webkit-transform 0.4s ease;
+  transition: transform 0.4s ease;
+  transition: transform 0.4s ease, -webkit-transform 0.4s ease;
   cursor: pointer;
-}
-.chip svg {
-  fill: none;
-}
-.chip--0 .chip__color {
-  fill: #03c303;
-}
-.chip--1 .chip__color {
-  fill: #0eb9b9;
-}
-.chip--2 .chip__color {
-  fill: #d08600;
-}
-.chip--3 .chip__color {
-  fill: #b362b3;
-}
-.chip--4 .chip__color {
-  fill: #a70404;
-}
-.chip--5 .chip__color {
-  fill: #333333;
-}
-.chip--5 .rating {
-  font: 700 16px "Times New Roman", serif;
 }
 .chip--context {
   position: static;
@@ -2137,6 +2565,86 @@ svg:not(:root) {
 .chip--to-dealer {
   -webkit-transform: translate(calc(50vw), -50vh);
           transform: translate(calc(50vw), -50vh);
+}
+.chip:nth-child(30):not(.chip--context) {
+  -webkit-transform: translateY(-43.5px);
+          transform: translateY(-43.5px);
+}
+.chip:nth-child(29):not(.chip--context) {
+  -webkit-transform: translateY(-42px);
+          transform: translateY(-42px);
+}
+.chip:nth-child(28):not(.chip--context) {
+  -webkit-transform: translateY(-40.5px);
+          transform: translateY(-40.5px);
+}
+.chip:nth-child(27):not(.chip--context) {
+  -webkit-transform: translateY(-39px);
+          transform: translateY(-39px);
+}
+.chip:nth-child(26):not(.chip--context) {
+  -webkit-transform: translateY(-37.5px);
+          transform: translateY(-37.5px);
+}
+.chip:nth-child(25):not(.chip--context) {
+  -webkit-transform: translateY(-36px);
+          transform: translateY(-36px);
+}
+.chip:nth-child(24):not(.chip--context) {
+  -webkit-transform: translateY(-34.5px);
+          transform: translateY(-34.5px);
+}
+.chip:nth-child(23):not(.chip--context) {
+  -webkit-transform: translateY(-33px);
+          transform: translateY(-33px);
+}
+.chip:nth-child(22):not(.chip--context) {
+  -webkit-transform: translateY(-31.5px);
+          transform: translateY(-31.5px);
+}
+.chip:nth-child(21):not(.chip--context) {
+  -webkit-transform: translateY(-30px);
+          transform: translateY(-30px);
+}
+.chip:nth-child(20):not(.chip--context) {
+  -webkit-transform: translateY(-28.5px);
+          transform: translateY(-28.5px);
+}
+.chip:nth-child(19):not(.chip--context) {
+  -webkit-transform: translateY(-27px);
+          transform: translateY(-27px);
+}
+.chip:nth-child(18):not(.chip--context) {
+  -webkit-transform: translateY(-25.5px);
+          transform: translateY(-25.5px);
+}
+.chip:nth-child(17):not(.chip--context) {
+  -webkit-transform: translateY(-24px);
+          transform: translateY(-24px);
+}
+.chip:nth-child(16):not(.chip--context) {
+  -webkit-transform: translateY(-22.5px);
+          transform: translateY(-22.5px);
+}
+.chip:nth-child(15):not(.chip--context) {
+  -webkit-transform: translateY(-21px);
+          transform: translateY(-21px);
+}
+.chip:nth-child(14):not(.chip--context) {
+  -webkit-transform: translateY(-19.5px);
+          transform: translateY(-19.5px);
+}
+.chip:nth-child(13):not(.chip--context) {
+  -webkit-transform: translateY(-18px);
+          transform: translateY(-18px);
+}
+.chip:nth-child(12):not(.chip--context) {
+  -webkit-transform: translateY(-16.5px);
+          transform: translateY(-16.5px);
+}
+.chip:nth-child(11):not(.chip--context) {
+  -webkit-transform: translateY(-15px);
+          transform: translateY(-15px);
 }
 .chip:nth-child(10):not(.chip--context) {
   -webkit-transform: translateY(-13.5px);
@@ -2273,7 +2781,7 @@ svg:not(:root) {
   position: fixed;
   top: 33%;
   left: 0;
-  z-index: 30;
+  z-index: 100;
   width: 100%;
   font-size: 20px;
   color: #ffffff;
@@ -2502,7 +3010,7 @@ svg:not(:root) {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  border: 3px solid white;
+  border: 2px solid white;
   border-radius: 3px;
   -webkit-box-shadow: 0 0 0 1px rgba(90, 90, 90, 0.3);
           box-shadow: 0 0 0 1px rgba(90, 90, 90, 0.3);
@@ -2527,10 +3035,6 @@ svg:not(:root) {
   height: 100%;
   font-size: 12px;
   font-weight: bold;
-}
-.card span:nth-child(4)::after {
-  -webkit-transform: rotate(180deg);
-          transform: rotate(180deg);
 }
 .card--shuffle:nth-child(1) {
   -webkit-animation: card-yellow-shuffle 4s ease;
@@ -2566,6 +3070,10 @@ svg:not(:root) {
   background-image: none;
   border-color: yellow;
 }
+.card span:nth-child(4)::after {
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
 .card span {
   position: absolute;
   width: 11px;
@@ -2574,8 +3082,8 @@ svg:not(:root) {
           transform: translateX(200px);
 }
 .card span.span--show {
-  -webkit-animation-name: show-span;
-          animation-name: show-span;
+  -webkit-animation-name: show-card-span;
+          animation-name: show-card-span;
   -webkit-animation-duration: 0.2s;
           animation-duration: 0.2s;
   -webkit-animation-timing-function: step-start;
@@ -2900,352 +3408,6 @@ svg:not(:root) {
 .card--A.card--clubs span:last-child {
   background-image: url("../img/my-clubs.svg");
 }
-@-webkit-keyframes open-dealers-card-1 {
-  0% {
-    -webkit-transform: translateX(0) translateZ(0) rotateY(-180deg);
-            transform: translateX(0) translateZ(0) rotateY(-180deg);
-  }
-  20% {
-    -webkit-transform: translateX(-68%) translateZ(0) rotateY(-180deg);
-            transform: translateX(-68%) translateZ(0) rotateY(-180deg);
-  }
-  50% {
-    -webkit-transform: translateX(-68%) translateZ(51px) rotateY(-90deg);
-            transform: translateX(-68%) translateZ(51px) rotateY(-90deg);
-  }
-  100% {
-    -webkit-transform: translateX(0) translateZ(0) rotateY(0);
-            transform: translateX(0) translateZ(0) rotateY(0);
-  }
-}
-@keyframes open-dealers-card-1 {
-  0% {
-    -webkit-transform: translateX(0) translateZ(0) rotateY(-180deg);
-            transform: translateX(0) translateZ(0) rotateY(-180deg);
-  }
-  20% {
-    -webkit-transform: translateX(-68%) translateZ(0) rotateY(-180deg);
-            transform: translateX(-68%) translateZ(0) rotateY(-180deg);
-  }
-  50% {
-    -webkit-transform: translateX(-68%) translateZ(51px) rotateY(-90deg);
-            transform: translateX(-68%) translateZ(51px) rotateY(-90deg);
-  }
-  100% {
-    -webkit-transform: translateX(0) translateZ(0) rotateY(0);
-            transform: translateX(0) translateZ(0) rotateY(0);
-  }
-}
-@-webkit-keyframes open-dealers-card-2 {
-  0% {
-    -webkit-transform: translateX(0) translateZ(0) rotateY(-180deg);
-            transform: translateX(0) translateZ(0) rotateY(-180deg);
-  }
-  20% {
-    -webkit-transform: translateX(35px) translateZ(0) rotateY(-180deg);
-            transform: translateX(35px) translateZ(0) rotateY(-180deg);
-  }
-  50% {
-    -webkit-transform: translateX(35px) translateZ(51px) rotateY(-90deg);
-            transform: translateX(35px) translateZ(51px) rotateY(-90deg);
-  }
-  100% {
-    -webkit-transform: translateX(0) translateZ(0) rotateY(0);
-            transform: translateX(0) translateZ(0) rotateY(0);
-  }
-}
-@keyframes open-dealers-card-2 {
-  0% {
-    -webkit-transform: translateX(0) translateZ(0) rotateY(-180deg);
-            transform: translateX(0) translateZ(0) rotateY(-180deg);
-  }
-  20% {
-    -webkit-transform: translateX(35px) translateZ(0) rotateY(-180deg);
-            transform: translateX(35px) translateZ(0) rotateY(-180deg);
-  }
-  50% {
-    -webkit-transform: translateX(35px) translateZ(51px) rotateY(-90deg);
-            transform: translateX(35px) translateZ(51px) rotateY(-90deg);
-  }
-  100% {
-    -webkit-transform: translateX(0) translateZ(0) rotateY(0);
-            transform: translateX(0) translateZ(0) rotateY(0);
-  }
-}
-@-webkit-keyframes open-card {
-  0% {
-    -webkit-transform: translateZ(0) rotateY(-180deg);
-            transform: translateZ(0) rotateY(-180deg);
-  }
-  50% {
-    -webkit-transform: translateZ(51px) rotateY(-90deg);
-            transform: translateZ(51px) rotateY(-90deg);
-  }
-  100% {
-    -webkit-transform: translateZ(0) rotateY(0);
-            transform: translateZ(0) rotateY(0);
-  }
-}
-@keyframes open-card {
-  0% {
-    -webkit-transform: translateZ(0) rotateY(-180deg);
-            transform: translateZ(0) rotateY(-180deg);
-  }
-  50% {
-    -webkit-transform: translateZ(51px) rotateY(-90deg);
-            transform: translateZ(51px) rotateY(-90deg);
-  }
-  100% {
-    -webkit-transform: translateZ(0) rotateY(0);
-            transform: translateZ(0) rotateY(0);
-  }
-}
-@-webkit-keyframes card-shuffle {
-  12% {
-    -webkit-transform: translate(calc(-50vw + 60px), 100%);
-            transform: translate(calc(-50vw + 60px), 100%);
-  }
-  25% {
-    -webkit-transform: translate(calc(-50vw + 60px), 100%);
-            transform: translate(calc(-50vw + 60px), 100%);
-  }
-  30% {
-    -webkit-transform: translate(calc(-50vw + 8px), 100%);
-            transform: translate(calc(-50vw + 8px), 100%);
-  }
-  35% {
-    -webkit-transform: translate(calc(-50vw + 60px), 100%);
-            transform: translate(calc(-50vw + 60px), 100%);
-  }
-  45% {
-    -webkit-transform: translate(calc(-50vw + 60px), 100%);
-            transform: translate(calc(-50vw + 60px), 100%);
-  }
-  50% {
-    -webkit-transform: translate(calc(-50vw + 8px), 100%);
-            transform: translate(calc(-50vw + 8px), 100%);
-  }
-  55% {
-    -webkit-transform: translate(calc(-50vw + 60px), 100%);
-            transform: translate(calc(-50vw + 60px), 100%);
-  }
-  65% {
-    -webkit-transform: translate(calc(-50vw + 60px), 100%);
-            transform: translate(calc(-50vw + 60px), 100%);
-  }
-  70% {
-    -webkit-transform: translate(calc(-50vw + 8px), 100%);
-            transform: translate(calc(-50vw + 8px), 100%);
-  }
-  75% {
-    -webkit-transform: translate(calc(-50vw + 60px), 100%);
-            transform: translate(calc(-50vw + 60px), 100%);
-  }
-  90% {
-    -webkit-transform: translate(calc(-50vw + 60px), 100%);
-            transform: translate(calc(-50vw + 60px), 100%);
-  }
-}
-@keyframes card-shuffle {
-  12% {
-    -webkit-transform: translate(calc(-50vw + 60px), 100%);
-            transform: translate(calc(-50vw + 60px), 100%);
-  }
-  25% {
-    -webkit-transform: translate(calc(-50vw + 60px), 100%);
-            transform: translate(calc(-50vw + 60px), 100%);
-  }
-  30% {
-    -webkit-transform: translate(calc(-50vw + 8px), 100%);
-            transform: translate(calc(-50vw + 8px), 100%);
-  }
-  35% {
-    -webkit-transform: translate(calc(-50vw + 60px), 100%);
-            transform: translate(calc(-50vw + 60px), 100%);
-  }
-  45% {
-    -webkit-transform: translate(calc(-50vw + 60px), 100%);
-            transform: translate(calc(-50vw + 60px), 100%);
-  }
-  50% {
-    -webkit-transform: translate(calc(-50vw + 8px), 100%);
-            transform: translate(calc(-50vw + 8px), 100%);
-  }
-  55% {
-    -webkit-transform: translate(calc(-50vw + 60px), 100%);
-            transform: translate(calc(-50vw + 60px), 100%);
-  }
-  65% {
-    -webkit-transform: translate(calc(-50vw + 60px), 100%);
-            transform: translate(calc(-50vw + 60px), 100%);
-  }
-  70% {
-    -webkit-transform: translate(calc(-50vw + 8px), 100%);
-            transform: translate(calc(-50vw + 8px), 100%);
-  }
-  75% {
-    -webkit-transform: translate(calc(-50vw + 60px), 100%);
-            transform: translate(calc(-50vw + 60px), 100%);
-  }
-  90% {
-    -webkit-transform: translate(calc(-50vw + 60px), 100%);
-            transform: translate(calc(-50vw + 60px), 100%);
-  }
-}
-@-webkit-keyframes card2-shuffle {
-  11% {
-    -webkit-transform: translate(calc(-50vw + 60px), calc(100% - 1px));
-            transform: translate(calc(-50vw + 60px), calc(100% - 1px));
-  }
-  35% {
-    -webkit-transform: translate(calc(-50vw + 60px), calc(100% - 1px));
-            transform: translate(calc(-50vw + 60px), calc(100% - 1px));
-  }
-  40% {
-    -webkit-transform: translate(calc(-50vw + 8px), calc(100% - 1px));
-            transform: translate(calc(-50vw + 8px), calc(100% - 1px));
-  }
-  45% {
-    -webkit-transform: translate(calc(-50vw + 60px), calc(100% - 1px));
-            transform: translate(calc(-50vw + 60px), calc(100% - 1px));
-  }
-  55% {
-    -webkit-transform: translate(calc(-50vw + 60px), calc(100% - 1px));
-            transform: translate(calc(-50vw + 60px), calc(100% - 1px));
-  }
-  60% {
-    -webkit-transform: translate(calc(-50vw + 8px), calc(100% - 1px));
-            transform: translate(calc(-50vw + 8px), calc(100% - 1px));
-  }
-  65% {
-    -webkit-transform: translate(calc(-50vw + 60px), calc(100% - 1px));
-            transform: translate(calc(-50vw + 60px), calc(100% - 1px));
-  }
-  91% {
-    -webkit-transform: translate(calc(-50vw + 60px), calc(100% - 1px));
-            transform: translate(calc(-50vw + 60px), calc(100% - 1px));
-  }
-}
-@keyframes card2-shuffle {
-  11% {
-    -webkit-transform: translate(calc(-50vw + 60px), calc(100% - 1px));
-            transform: translate(calc(-50vw + 60px), calc(100% - 1px));
-  }
-  35% {
-    -webkit-transform: translate(calc(-50vw + 60px), calc(100% - 1px));
-            transform: translate(calc(-50vw + 60px), calc(100% - 1px));
-  }
-  40% {
-    -webkit-transform: translate(calc(-50vw + 8px), calc(100% - 1px));
-            transform: translate(calc(-50vw + 8px), calc(100% - 1px));
-  }
-  45% {
-    -webkit-transform: translate(calc(-50vw + 60px), calc(100% - 1px));
-            transform: translate(calc(-50vw + 60px), calc(100% - 1px));
-  }
-  55% {
-    -webkit-transform: translate(calc(-50vw + 60px), calc(100% - 1px));
-            transform: translate(calc(-50vw + 60px), calc(100% - 1px));
-  }
-  60% {
-    -webkit-transform: translate(calc(-50vw + 8px), calc(100% - 1px));
-            transform: translate(calc(-50vw + 8px), calc(100% - 1px));
-  }
-  65% {
-    -webkit-transform: translate(calc(-50vw + 60px), calc(100% - 1px));
-            transform: translate(calc(-50vw + 60px), calc(100% - 1px));
-  }
-  91% {
-    -webkit-transform: translate(calc(-50vw + 60px), calc(100% - 1px));
-            transform: translate(calc(-50vw + 60px), calc(100% - 1px));
-  }
-}
-@-webkit-keyframes card0-shuffle {
-  10% {
-    -webkit-transform: translate(calc(-50vw + 60px), 100%);
-            transform: translate(calc(-50vw + 60px), 100%);
-  }
-  92% {
-    -webkit-transform: translate(calc(-50vw + 60px), 100%);
-            transform: translate(calc(-50vw + 60px), 100%);
-  }
-}
-@keyframes card0-shuffle {
-  10% {
-    -webkit-transform: translate(calc(-50vw + 60px), 100%);
-            transform: translate(calc(-50vw + 60px), 100%);
-  }
-  92% {
-    -webkit-transform: translate(calc(-50vw + 60px), 100%);
-            transform: translate(calc(-50vw + 60px), 100%);
-  }
-}
-@-webkit-keyframes card-yellow-shuffle {
-  10% {
-    -webkit-transform: translate(calc(-50vw - 60px), 110%);
-            transform: translate(calc(-50vw - 60px), 110%);
-  }
-  75% {
-    -webkit-transform: translate(calc(-50vw - 60px), 110%);
-            transform: translate(calc(-50vw - 60px), 110%);
-  }
-  84% {
-    -webkit-transform: translate(calc(-50vw + 60px), 100%);
-            transform: translate(calc(-50vw + 60px), 100%);
-  }
-  90% {
-    -webkit-transform: translate(calc(-50vw + 60px), 100%);
-            transform: translate(calc(-50vw + 60px), 100%);
-  }
-}
-@keyframes card-yellow-shuffle {
-  10% {
-    -webkit-transform: translate(calc(-50vw - 60px), 110%);
-            transform: translate(calc(-50vw - 60px), 110%);
-  }
-  75% {
-    -webkit-transform: translate(calc(-50vw - 60px), 110%);
-            transform: translate(calc(-50vw - 60px), 110%);
-  }
-  84% {
-    -webkit-transform: translate(calc(-50vw + 60px), 100%);
-            transform: translate(calc(-50vw + 60px), 100%);
-  }
-  90% {
-    -webkit-transform: translate(calc(-50vw + 60px), 100%);
-            transform: translate(calc(-50vw + 60px), 100%);
-  }
-}
-@-webkit-keyframes show-card {
-  100% {
-    background-image: none;
-  }
-}
-@keyframes show-card {
-  100% {
-    background-image: none;
-  }
-}
-@-webkit-keyframes show-span {
-  0% {
-    -webkit-transform: translateX(200px);
-            transform: translateX(200px);
-  }
-  100% {
-    -webkit-transform: translateX(0);
-            transform: translateX(0);
-  }
-}
-@keyframes show-span {
-  0% {
-    -webkit-transform: translateX(200px);
-            transform: translateX(200px);
-  }
-  100% {
-    -webkit-transform: translateX(0);
-            transform: translateX(0);
-  }
-}
 #foo {
   width: 100px;
   height: 100px;
@@ -3253,8 +3415,9 @@ svg:not(:root) {
 }
 html {
   height: 100%;
+  overflow: hidden;
 }
-body {
+.body {
   position: relative;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -3278,8 +3441,12 @@ body {
   font-family: "Times New Roman", serif;
   color: #ffffff;
   line-height: 20px;
-  background-color: #3c1313;
+  background-image: radial-gradient(#82ab68, #004000);
   overflow: hidden;
+}
+.body--brown {
+  background-color: #3c1313;
+  background-image: none;
 }
 img {
   max-width: 100%;
@@ -3360,7 +3527,7 @@ img {
   opacity: 1;
 }
 .z-index {
-  z-index: 1;
+  z-index: 10;
 }
 .z-index-1 {
   z-index: -1;
@@ -3395,21 +3562,5 @@ img {
   100% {
     -webkit-transform: translateX(100%);
             transform: translateX(100%);
-  }
-}
-@-webkit-keyframes opacity {
-  0% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
-}
-@keyframes opacity {
-  0% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
   }
 }
