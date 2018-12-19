@@ -607,8 +607,8 @@ svg:not(:root) {
             transform: translateZ(0) rotateY(-180deg);
   }
   50% {
-    -webkit-transform: translateZ(51px) rotateY(-90deg);
-            transform: translateZ(51px) rotateY(-90deg);
+    -webkit-transform: translateZ(60px) rotateY(-90deg);
+            transform: translateZ(60px) rotateY(-90deg);
   }
   100% {
     -webkit-transform: translateZ(0) rotateY(0);
@@ -621,8 +621,8 @@ svg:not(:root) {
             transform: translateZ(0) rotateY(-180deg);
   }
   50% {
-    -webkit-transform: translateZ(51px) rotateY(-90deg);
-            transform: translateZ(51px) rotateY(-90deg);
+    -webkit-transform: translateZ(60px) rotateY(-90deg);
+            transform: translateZ(60px) rotateY(-90deg);
   }
   100% {
     -webkit-transform: translateZ(0) rotateY(0);
@@ -639,8 +639,8 @@ svg:not(:root) {
             transform: translateX(-68%) translateZ(0) rotateY(-180deg);
   }
   50% {
-    -webkit-transform: translateX(-68%) translateZ(51px) rotateY(-90deg);
-            transform: translateX(-68%) translateZ(51px) rotateY(-90deg);
+    -webkit-transform: translateX(-68%) translateZ(60px) rotateY(-90deg);
+            transform: translateX(-68%) translateZ(60px) rotateY(-90deg);
   }
   100% {
     -webkit-transform: translateX(0) translateZ(0) rotateY(0);
@@ -657,8 +657,8 @@ svg:not(:root) {
             transform: translateX(-68%) translateZ(0) rotateY(-180deg);
   }
   50% {
-    -webkit-transform: translateX(-68%) translateZ(51px) rotateY(-90deg);
-            transform: translateX(-68%) translateZ(51px) rotateY(-90deg);
+    -webkit-transform: translateX(-68%) translateZ(60px) rotateY(-90deg);
+            transform: translateX(-68%) translateZ(60px) rotateY(-90deg);
   }
   100% {
     -webkit-transform: translateX(0) translateZ(0) rotateY(0);
@@ -675,8 +675,8 @@ svg:not(:root) {
             transform: translateX(35px) translateZ(0) rotateY(-180deg);
   }
   50% {
-    -webkit-transform: translateX(35px) translateZ(51px) rotateY(-90deg);
-            transform: translateX(35px) translateZ(51px) rotateY(-90deg);
+    -webkit-transform: translateX(35px) translateZ(60px) rotateY(-90deg);
+            transform: translateX(35px) translateZ(60px) rotateY(-90deg);
   }
   100% {
     -webkit-transform: translateX(0) translateZ(0) rotateY(0);
@@ -693,8 +693,8 @@ svg:not(:root) {
             transform: translateX(35px) translateZ(0) rotateY(-180deg);
   }
   50% {
-    -webkit-transform: translateX(35px) translateZ(51px) rotateY(-90deg);
-            transform: translateX(35px) translateZ(51px) rotateY(-90deg);
+    -webkit-transform: translateX(35px) translateZ(60px) rotateY(-90deg);
+            transform: translateX(35px) translateZ(60px) rotateY(-90deg);
   }
   100% {
     -webkit-transform: translateX(0) translateZ(0) rotateY(0);
@@ -1511,6 +1511,11 @@ svg:not(:root) {
   left: 50%;
   margin-top: -15px;
   margin-left: -15px;
+}
+.bet__circle .chip:last-child:hover,
+.bet__circle .chip:last-child:focus {
+  -webkit-transform: translateY(-50%) rotate(25deg);
+          transform: translateY(-50%) rotate(25deg);
 }
 .player {
   width: 100%;
@@ -2533,11 +2538,62 @@ svg:not(:root) {
           align-items: center;
   width: 28px;
   height: 28px;
-  -webkit-transition: -webkit-transform 0.4s ease;
-  transition: -webkit-transform 0.4s ease;
-  transition: transform 0.4s ease;
-  transition: transform 0.4s ease, -webkit-transform 0.4s ease;
+  -webkit-transition: -webkit-transform 0.5s ease;
+  transition: -webkit-transform 0.5s ease;
+  transition: transform 0.5s ease;
+  transition: transform 0.5s ease, -webkit-transform 0.5s ease;
   cursor: pointer;
+  outline: none;
+}
+.chip:last-child:nth-child(10):not(.chip--context):hover,
+.chip:last-child:nth-child(10):not(.chip--context):focus {
+  -webkit-transform: translateY(calc(-25% - 13.5px)) rotate(25deg);
+          transform: translateY(calc(-25% - 13.5px)) rotate(25deg);
+}
+.chip:last-child:nth-child(9):not(.chip--context):hover,
+.chip:last-child:nth-child(9):not(.chip--context):focus {
+  -webkit-transform: translateY(calc(-25% - 12px)) rotate(25deg);
+          transform: translateY(calc(-25% - 12px)) rotate(25deg);
+}
+.chip:last-child:nth-child(8):not(.chip--context):hover,
+.chip:last-child:nth-child(8):not(.chip--context):focus {
+  -webkit-transform: translateY(calc(-25% - 10.5px)) rotate(25deg);
+          transform: translateY(calc(-25% - 10.5px)) rotate(25deg);
+}
+.chip:last-child:nth-child(7):not(.chip--context):hover,
+.chip:last-child:nth-child(7):not(.chip--context):focus {
+  -webkit-transform: translateY(calc(-25% - 9px)) rotate(25deg);
+          transform: translateY(calc(-25% - 9px)) rotate(25deg);
+}
+.chip:last-child:nth-child(6):not(.chip--context):hover,
+.chip:last-child:nth-child(6):not(.chip--context):focus {
+  -webkit-transform: translateY(calc(-25% - 7.5px)) rotate(25deg);
+          transform: translateY(calc(-25% - 7.5px)) rotate(25deg);
+}
+.chip:last-child:nth-child(5):not(.chip--context):hover,
+.chip:last-child:nth-child(5):not(.chip--context):focus {
+  -webkit-transform: translateY(calc(-25% - 6px)) rotate(25deg);
+          transform: translateY(calc(-25% - 6px)) rotate(25deg);
+}
+.chip:last-child:nth-child(4):not(.chip--context):hover,
+.chip:last-child:nth-child(4):not(.chip--context):focus {
+  -webkit-transform: translateY(calc(-25% - 4.5px)) rotate(25deg);
+          transform: translateY(calc(-25% - 4.5px)) rotate(25deg);
+}
+.chip:last-child:nth-child(3):not(.chip--context):hover,
+.chip:last-child:nth-child(3):not(.chip--context):focus {
+  -webkit-transform: translateY(calc(-25% - 3px)) rotate(25deg);
+          transform: translateY(calc(-25% - 3px)) rotate(25deg);
+}
+.chip:last-child:nth-child(2):not(.chip--context):hover,
+.chip:last-child:nth-child(2):not(.chip--context):focus {
+  -webkit-transform: translateY(calc(-25% - 1.5px)) rotate(25deg);
+          transform: translateY(calc(-25% - 1.5px)) rotate(25deg);
+}
+.chip:last-child:nth-child(1):not(.chip--context):hover,
+.chip:last-child:nth-child(1):not(.chip--context):focus {
+  -webkit-transform: translateY(calc(-25% - 0px)) rotate(25deg);
+          transform: translateY(calc(-25% - 0px)) rotate(25deg);
 }
 .chip--context {
   position: static;
@@ -2845,11 +2901,13 @@ svg:not(:root) {
   transition: 0.4s ease-out;
   cursor: pointer;
 }
-.context-menu__button:hover {
+.context-menu__button:hover,
+.context-menu__button:focus {
   -webkit-box-shadow: inset 0px 0px 20px 10px #004000;
           box-shadow: inset 0px 0px 20px 10px #004000;
 }
-.context-menu__button:hover span {
+.context-menu__button:hover span,
+.context-menu__button:focus span {
   -webkit-animation: arrow 0.6s ease;
           animation: arrow 0.6s ease;
   -webkit-animation-iteration-count: infinite;
@@ -3479,7 +3537,8 @@ img {
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
 }
-.button:hover::after {
+.button:hover::after,
+.button:focus::after {
   -webkit-animation: button-hover 0.4s linear;
           animation: button-hover 0.4s linear;
   -webkit-animation-fill-mode: forwards;
@@ -3488,7 +3547,8 @@ img {
 .button--start {
   margin-top: 16px;
 }
-.button--start:hover::after {
+.button--start:hover::after,
+.button--start:focus::after {
   -webkit-animation-duration: 0.6s;
           animation-duration: 0.6s;
 }
