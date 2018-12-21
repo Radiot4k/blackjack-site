@@ -3437,13 +3437,34 @@ svg:not(:root) {
 .card--J span:nth-child(4)::after {
   content: "J";
 }
+.card--J span:last-child {
+  width: 38px;
+  background-image: url("../img/jack.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 40px;
+}
 .card--Q span:nth-child(1)::after,
 .card--Q span:nth-child(4)::after {
   content: "Q";
 }
+.card--Q span:last-child {
+  width: 38px;
+  background-image: url("../img/queen.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 40px;
+}
 .card--K span:nth-child(1)::after,
 .card--K span:nth-child(4)::after {
   content: "K";
+}
+.card--K span:last-child {
+  width: 38px;
+  background-image: url("../img/king.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 40px;
 }
 .card--A span:nth-child(1)::after,
 .card--A span:nth-child(4)::after {
